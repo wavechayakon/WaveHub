@@ -1,350 +1,523 @@
-local _a={"rSBWFuJPx5-","wB_s4Gf","jgp2xn-a","-cs4o8oKfX","WYEz6_g488XwEee-64ceMT2TypgRI0hH4NX-GEQDs6YB","N_93-kK4GZ","8Oatc_ooc8","JCjKEEtu7X","S4h-n4qA3X","YPX1yIR2Rw","LupqxBwtw8","iSM5iKH9r8","T3DxQ8l_ew","8EYz9famldtQ","EjjcHjf","K7RwBpvs","nCGKJrQ9JYv7Iw","x52mgAGenJZgFKMNtS_PkMKmvYV6A6npoHIg4gMifvJlwZ7I85eUlNUvNv_zqr_xfvpjoUBWZ8","s6MvquhWqz2O","Z3ijTZwqhT4pmx5k-qnilvvjHN-NP0o0dUZpjD5FcsZGQVkHS30bXL3DJhnUa7mn9tLUEpmfKQtPsbQbekT68n7Un___WX","WVs9a0lm","W_bh-03TrVgB2HEt9aQiVYww_FnUTxB","fnG7S8Z","3CPLCCZ","nNFj","RPXRyUTBVoMY4BALbQpHm0zL8rtpYm4VgVg-uIOXayIQhS_","4Pd3M-8","PgNM_K5dyIJ","t6_2jgpk","ac4NobnZ","uiKt","EYsO8EsDcZ","2qNKSI99o8","XeGGXeQk5sB","HeTKyGp7yGhgJ8","B2UkL2pmLBQGSX","jLBoLAUPhw","tDNtTw","WczSv0d","5dWqW_bsWSzR2i7WvZ","6RQEHiz-HlbidRGyStp","Ep6r1w","nW28XZ","MG-gpEf","xgBoFI2Cn8","ygL3ize8gzfLRZ","zDioDwOrm3_","ucsV-atcfqp","-OWT2Vu_WMWLuZ","dvKuHr8","JJjUBX","MJva14h231hiyh8pAw","y2Mbgh-SRvVL7PZWb6Djf0ae9UStL8","igTab5B","eu31FKOVrufeeD3GfcE3-yf","mbLGQlmqm8Ntw379-iEZ","-3WcmbgnO0LvDauF6oGn","Wybe2irw6HA","dR68HoaNOvY5CjzY1tTYgn5Kmb0edeB7bX","XNIjnZ","y4Iv7eTl04Q_pAX4gn26tbgJ6EzGMmMGZw","h5pAhBBXJsG2","bzfNbzwhxm2oU8","PKiKwF1pUS1lz8NzOV1ulpB","a3u9ZF4vzQ1Po0_","fVaAvzmao_EhGduUHw","6Or2uZbS5OW-9YkHBZ","SCh4E8","7sCznUQLG1Fa0sPNpAS_rw-jWiK-XsAjelYMJNGP","L2dEVtvWyshJYBdsbg2","A5dzFTMghLCpx5nJrFZ","_Kenq1_kxK3liQB","TXLttLNFUPxbZlHaff0LdvIwRC_uUc9RdHp","obacDl5Tbxxvf9aM","-duS-Qlvvfsw2y0mEZ","Hoav6O7kDHWN9jd","JR6AICSBEvuEIU6x3tTX","nWhrKMFxBeIQ37d","RGMpy-ZnMEpXhP2wwF1IZ09K9bFiRBidQkt9","4mBzxnM","Vn85juSa","sX1bm65dqPf","f9o1omxsf0N5Oqg32Yqcne2","GbNVGdx12MaFuO0NHc2","7R7Ddioa8YA","7Jv4ICcCoYqBSpPnR7f","p7TlSN-","B1QF7UP3nX","0zJkLAUFL1p","jQ3RiTmBqWylj8DggabpTjCYnGZ4i3K8u-C-","in-DFnd","o9W3f8YEaL6G5RyVOrFJK4Q94uH_xqKjEw","uVlNvluIelo_uOoOfrvLYvB3guX","6Yk1lw","71cVKvjsBX","3Wh60NPUS7FaV4Uhgn2feZ2","sBAgABBc47MLs5p","wg8obn2_b8","rXL7t63leX","QlO_DXeL","aVW1OV97","2HWx8_zpvd0m8ER1","cjCKJYQ9dX","BeFwKOv07p-","XGPNMRPQ3tT","s5M0sTFPpPTb","x6XQ_TXmFuXXqgD4","elHBP55EtFNyTgLUakZ","ZaeQawmbzFlPacB","-dgBNax6OxoyNd7llEjA","5yYaO_rg8X","HvhYdCKNGoqcI8","11vPSN7oIphm","VWZCVtFx0tX84TMqq8","AnURh2ku42ZqFnU3jZ1zoM9eH-c6","qS_fi2Az_gp5rANszaY12OPEIsU","tXLAeFysUFwKjxeeff7j","ZcblD3xr","fMbY","2ytfuH9b","CX","KeqmnUhPBUrFItvWhZ","hZ","imTjgP-yhBB","TKmBq4UWqg_6eQyM","PXDbm8mXxw5pQ0d","N0oHO3OoDLs9fVg48HM","-O9LN8","OaDu8_J","5drhCff","dYs-SCM","IUSyY48","w4GwhX","UhA-MzS-y5-EpIOXZbbc8rjHI-CLV8","m3eiz8mjm8","O9tnk8E9DXOW-kWh6X","c_gY2cT","louaEibNNEt-","71IS1-VRcOT","3ICTV-kVS7C-Ms2","phfsRs2BK2dS","MKPtbJgL_XQq3S8","mwiSiKi7","Q5Z","6w","DHN4sOQ3eX7t","crvCEOo6H_SJHRQx","I4FMIJr1dRkqS1Fv","0hhDyHIpXsh5yPX","pBwh4PZp4jC6ABUv","FzQthm-xFuIULzLMTD3WGwY511MyXZ","j6NpPKNXe55RUwxkTatLloGs","QlmoZD1rAlejkkEl2y4UE-cf4A-6FX","oqaSo952","5oYz2O7C6_KZooqS7NcqY2Z","HJE2CfccJCInHj6r","I1rp","EGSW0WzN","sT_qLG_hAt__hL-A_X1ikk_","LzfGS2XNFKL8","rwnnt817","Z3DvZl8","kDD-","uOtf9dtT8atm6rVJcpvUhLJkeXf","ECF31YF1JdF7E-CiCe2nFFX","n4VzXUVrSYVjK1-9KBAm","MPdIRWdcYUddyhTFyg37q3sy8oQYnAHIDX","h2-UFI-wLN-xAmw2wSmxOczTdX","qKmHrLT5iI5djXHAUlgSNrE6","tXxbmQxsTLxhPl1omco4l-X","Dby6fDyvkQmWvbzM6HQdK8","-f7A2c7MWaKKNi9YCjF0","8HuNcMuD9cuPHjV1BJv6","CRkY7rkK1yQJnjGQXGp","Kejk3-jPXjQZXWkGpBMN","yGpX47pJRNX0RTUPq8","LnBmwABiF7Jhbzx8ruex-dU","_Fl7jzl9rAZ5rFOsZ3Z","PwOjz6OFmznbmlKEZqrD9JSxRw","aatdole2f6Wcvd9hvOhK1scuY6HpZX","Wdgx5Vg429bwGfoLEjRrXt2Ar8","lY0udi0ocM069CjpEtV6pX","JUChIvCV7rRRnUGryZ","SNG-VJGZ3vCWy7VaLAp6jX","RITyssTn41ZMR2MZhzmAkw","gLwaxTwtwh_DFK1nqwez-w","iQySUuyCjmyXrXe1ZaY0","TD1TZ81_z6HgmDaHWME01pVi","f9u1v3ulo85GNdsyldI3I1Gaxzm0","GMaruqag53zb6rclJw","9rjcHOrGd_YacUK5X1d7s8","1-hwnChpIO607UQTYW2bwFDs","0hcG0eYbSNCv0Z","p2B0hETB4IdAh2hxiuxFZ0r_d0GXpnl7Dbs688","Yw","r6eMtKeBU2xYTXeIa07w","eaLfQ61bP3O3kxrBvZ","OV0K-b0EvXx2NctJlocEBw","NfojGauwWfKA","coGJCHG8HkuWJRQg0w","JNVt7pVgI-PPJsRWMX","0WqaVUp80Nw","RLXVs2SvA28S","wuJ2_nJfbGXWrzDVxZW928","US54Pg53tKHMeDHOak4mlY2","Q3DoawDzDgNfO9sn","oqrVNarI-xzK-MzQlR8","5OsZldsU6ksbcMSECJqUy8","HCSnJYSHCHVBH-FA","B4ctSUcbKYIU01UlKPZgj8","VtfCYNv6yU29yh2qggXxPl7S","s2U_gIUAAWZFLm2R_wLAf9Kt","bKLliLAN_B_2_6ZfPa3NGMcClWUVxw","eX3gTQ3YPLLwzwU","mqH5Q65NDld","ffWsvlz9N_935X","6rbi6ytB5ytD9rbzJNR5pLB","ERq01rq7Jyj3CJImItUKwT5naw","nWVFXjI4S1CU3JqGs5dzUZ","MGJBp7JdYNJnyTAEwK1SjDzY","AB2eFh2xg7-iFmZ","qgDErmZuiAZ-UZHYQ3U","tZirmQOYeXicD3xm","DasEZ9nekwsEOaU","NdKL2VKyG97SW_redfvFXsZ","8Y9Wci9a9VuUcEYPBecG","CjvR7ovS1ikH7pI3y7MAbZ","KNPf0JPTXvjb3e6jpTJ5rX","YIA34sA1p1h6pGk2wu37zxWA8RjZ","LLXzwTXrFhBAwn_YP85ZZcofCUBn","_zOcqT51iKd","PZNUQSNwmu5jzxlGzf0_Hw","k9zHo3m5O8adOaop-YsNnWB","WMbb5qbs20rx5dtO5vVYYId","lrY6dOYvc_sudYF09NT8A51czlw","J-IABCIM7oShIUVQ1P-qb5xRfcaqIZ","XtkDK4h3V4Pe","RhZYstZK4s8dAAf","FuBfFTwPpL2zFZ","i64XeK4Jj2y0TzDjZ9ud5H2","mDNqQQ5YP3nnka1v","fV97vb99oFuBG9YquHaPK4wH","2HthWazi2cf","9oPdEHt2dfrocvVLX4_","7JF07pVs1EFjKJT","3sVuMeVoVphuVJ-4hnw","p58IhP6khGZI","wn-NqA-QRu8Uqn1pPZw","jSmytgmnenmCP8ldk0un","z3xaDwxtZFx_DayTNfWN","Dqun-V3j-kl6","2duLlc9t5MJ","9ruNcH68lrzv1CVc0WV6","CCYudiaIEHPHGv6hnw","3sRGM8","q2JF","xuZO_Kd","D8NKt6-","QxO-D33UDX","ukt1N0tBO60d58","uEET68","1vq8djJ","BeCD7-GMKX","4II5YZ","Y2_UhAZVLBdRwX","tQe8_5AW","el1LeX11PXyymDX","N05Za3HtD3pooqB","ofKhoZ","Jrrt8ftq","EvjM7Ej7kiI17UM","71j_BUkgKptPloM","yhC5YtkGytgWRhMxgNe0Tb00lYhrHX","AL8rgB2Mg1FRKnM8YSTCz_9xdpS4sI_Rir8","3mM6rgTO_KdKM8","xAM","w8n2kn1kQ03ukaDJ6HSlB162g1yJkVmzKIpjzbWG3--","N_0F2k0yr3oM5ylibpTV6eU4w645","8oE2dHEamqtDdro9etwZEGMaT0K75jZ","CvG7CoG8Cw","IsRDnUFz","0BwypESjYspp","LuXFwTRz7mAtwu3HPZU","mQmErgDJiX","PFw","awOh","NcnOk3iT","9CYZdO46zZ","nJvw","nekoS_Q034IT3Z","SL8","YtSO0nf","L28yt8","inffwxA","T_X","5cEYacl6-b7Y6i0bJRPwV8","Bw","E-qxIpIwvYqhKef","1X","XZ","pX","FZ","jX","zZ","NiKTudoPtcKF8irv7j6_","ICPKCEl2HYk8JpRY3YX8LmOczX","I-vbBqb61-h4BWIkyCXn_ZlD","V7P6VWbeMN6ocs2XFLOEQ3nutEvp32vDmcyiSPXOLih04gD6JtLliRAFZicot666Uid1AZ","gATbpG-I7hwLLmXejImjaq7i","LuX5bL-2KAMZbSJ","QSOqj6NV","PbNGDTilzlmDfcw6aiK6C4XdRLw","-3Wcm3OTkZaCG_bPHfQY0sXLquej","WEbO88nG2iYP9jJ","njRKdoCJ","KCRscCVc1rcz0sIRYT_PrZ2","Ms2IYWS5Mw","RnMehjFf4AMp","r6llxL2","PKiKwKwvrm3hQ3lXkVrp","D9nakxnOZnl3DkE1ebWDBpw","-_9RvgmjNctB","8YsQ9wb12ObiloSX","H-0c7CS9JaFMJUFwXIMBg8","KsQzB-Q_BfVj07G5snJkUDXOUDB","Ah-IMw","AuMUhRZ4LnXLwz4lexdgvf3xE-GasslD-YSgdgxiNj-CVw","b6x1inUN","xZ","eZ","-H4AUfndRHIKt8zNTrc_XIJeRhBtGSW6YTnMo9EIngmQmdAtsyrpYSePcQDXM1eNBzzR3hLZgLGfYVU8fEAaVsGlTjmy787ZLysCEhOdVIFI-5PcQIYijCHpYWNB_ThCfhbDDbT","9r7u","CJ_","SekDKUPQ2RGD0Id","YP_J47_Iyrhesm8FbQ3yDVp","gLpwF8","x653igGaguyEr6LUzD-","kDLzQ8","fV4GOaOOfmejOVtV2ob67Z","l_Wxudw","uvSH9Y1rvijlCw","0UchJVkY7RILBeCtYw","3sPQ0WCe3_G1M7-","hTT7RGJVYCwR4mJk_SLX","LzMjF-pnLLXjwFllUw","TZ1dj8","z3NtQXnFsQyxDlmNGdEr","5qzCobl2","W_uzGMsR2_B","8jhl9X","ENj_nCjYJp2","S7h2Mw","ynBp4oGOhIMsgX","LK_tg5A_nA8vbK5HPlyf","j6O4tFHIUILVPwevwcgI6YhxyETZtlYp8pIE","m3eNzld4elAxP9iu-w","Nf00vkic-VX","GO0k2_mVvid","lRtGcEbODiCJEpcYSspH75m7ZV7ifZ","CNGqBqrN71CsSM6_pX","RsGNYtqNVtz6pGZ","RTw0AZ","buMQqm2a","iSNFUS3XtXw","Tam5Z3ePz3eW","vVa3vbU","GOrql80l8_zm","9UIMECHO2rbu7Z","y4hiBpPY54cr0WA","yIjuYPc-yyvsyBMYgz4SZZ","q58Fs2XXI2ALFznl","F6eEb8","t3mgU6mMUG3MQDmmb_EU8j6Ad-SO","Db3NZx1vgF3WOaW7uw","NMD7Gqm8PzWI2O7P9RzKXhAwq75OvyYJyh51DwSAYun-TJUATkWMh30PlF7x3ngRnzbs9w","GrzfmaobliuvHrIV7eQZE7BDTlYn8J8","CCQy7Y6BHYa91JQz6UwLbKXIzqgFko-CbSo78dQlg3rDI2DwjvXMz_RkSkV4h5-","KeqmnUhPGphkuWRuRnJNMwmooZsGKGA-4Z","0TM3MocOVsMlsBUeKSH0haoMTkzyVnnBQkFc8Z","LnJjAB8ihBS4bzd2thiUv6sZCfcuLg5woEEnYuJpNv_Ixxo-3LDuaZ","FWeIqgpkx68GiPliZluXtyk0GsUpixH66jK-","gDlU4Xnse83pT5T","r9oHwxiNfDu8v9uKzw","O_ohjk0MWka068gfCUcj8IJRrQ_rGiv0l549ffoB4uOa9MB4zd74Fbc806Ws3KiY","8YZ","CUCS","BtvNKfxgMTa_nsZ7h2AOj8M","V2UYYEyGhujl0AUgbK4I","gLATLAMtAAq-Kef2sLp_MOQeOYq6hS3xv0W0CnfbtlPqi9guVLl-lsdRrf8O","bX3X_e2rqzO8rwiszZ","ZDmjP8ygtZ","Qqzdx6OaObuCNq7qurQ8WCBlwKyLfHlOnhXGZM09","-HzjWFsV26bg6Muvdvsp0G-m0XOkWEo0VAm1orIFsGJ","uob5lrgT","1-RsJvSpCvsBS4VQREZxqFyz","Sskz3eIileVWYtZVLA-kRlxv2oVMSGX5P9WPnYXeZd9H4Sn5dthOfjMKmyqZiqz__HKmTyZnw-Jo8G_NVwjAPY4dkw","MP2MRh-cH12IhTMqizmXg3bLlUd","ju_rbB6UXZ","bX4SMTw5UFe0TFOzDVsITkGB0G8UrDm88-0fRD909iJbTMqgAh2","z31Dmw4es6xPZbT","OVKJf0EEb9dWWf7L9xP9BtB0b72","5Hrb6X","dCtvcoaEZx6CziIhnO06geH4sZn5ZMdCIwpUvv8lw8mX-hv6G0RqF90VnbX","IJh47Jjb","KGcDXeGP6JhkRIAMLU-jT39HWyGyXw","4TXwAIw04v-sLLduysmcZkre9-VeR1n3OHn6MALpNyGkBZ7_ICDpl1fNOY_qQHkEZrdxkUJouET","FgT-g5-qFw","UXmJUSv5xFlRT8mPO8","P0moDwmUTad2FzZ","o_gX-gne-qEd","2yrT5foe5Z7X8yQJ2qZ","HJC7EvlDHrONoUsV37z6Ln51z9Y_DwB4ms5S2-F5SwWLJPOCoaP7sZjgK5T","Bp6_IRvb7p9Y1tIDY2UQpGB","0hsOY4q501-Cc280g5w2zxY8","JtAxhGp3hITMIBZPj6MYDqYsHRPznNwyrlq7ce8","xgUabedfbLqmrS_CmxaHNXP7neMSqwwmWYqjLFeDTeJLiqRBMua8fsDx6ejDN-8W-pU5PZ","e31hP7-Qe63S","ZDDGZllkLXHND9ty5w","vko0oazX_busNy9vZCqAK7UxK65ifr9dMA1Cf_QC9gifu-PSU_P_L27O3QKRKnNn","uOsOu8","9-I1dZ","INV_BUvR7eSf","3AVGyWk20vb-XIA4gg49P9gsPocLYB6-TkEQnTnIf8PlgX7ICtZ0","h2-eLTM4JN2sFLlJ","xQyIbgqtbgQaiKOFZxg7TZuI5oQh83tiQcsNKZ8D81FKruqdRQ79OT1064pGreAoW-QoftDUohl63PoQ_OdpPw","UD1Uhm5JeIM2zwOz","maD5f3yvb3eOk9z4tE9W1dj24Kl7wdLTK7AamcKv2AN1-rAc0VV8YFsXWAtH7B_jJ279IuKRlwFIKM_3k1yY7KmOioFtlSVHjjMMV92HGgIImrYT_4zHgpB-L-rIr17amTvF5Bp","vqWqrZWyWk0Y5ygo","8HuWlOstmczflYM","dJREHvS8fyQJBpke0oS2xzysQqKtHfT1xwz7ddZ","7sjoXMV7BNqQ07p","YIpIy7X19WX3EABAgQlRA9rMu0Vt05LdQdLD0TU5aoKj","4gBzFTBwFJ8zbnM5tPexoMrUdUMB1u5hWHSYYKw42vVGXbKN3mTrd7OHvdM","_6fW_z6QgKx8UGdvQ9K3Gop","TleRPZZ","kcl2f5yLDa9dq3uLGiPI","-Mgy2S1WNcoxtqaW9vFU","ljKzdXuE9otuEoh3Kw","CUQA1ovB29WpN8X9xrwl_SyYfXixNX","BX","VX","sX","xX","m88","o8","5MES","lRKolZ","7pIx1jh4oohx7eT","3e6uXNSouJVk0Gp","MBAy1PwKYhICymMZ_WA6kk9y","hgfWxpwKL5ZkqKPumlBtaftaIX","jF4yrzenV6lMRFDjkasJuCg70W_ziDaClCkN08","z04xDB11mZOzgQWlNi7eJZ","Okb9vZ","2OgquQadG_gPmdsGEpU","9EW2HDrx9oVJfYSpntA","I1RwBcsmI-hrX1Q-","0hI5VySY0Nqf","yLMbhRcosh-p","bBMtRBXVLP8urFJOmlyG","qZ5Ae5DnUSw","Q9DzzlJhUDxQaZ","GqYyNQHuvVbRvMag","6crgfcbCWq0a8iP99-kQR8","d-SHcor_HokE","B4PinVQcIp6A3e_8RGTZ","SGfJY1vWyw","YmUjAjRo4B_pAtRPYeTWoM7m9vv-pNidOicy1JZL","L6LdqNJVwgpOqWw2TblN5HSEB4_","rlLKtQ5SjTTIgnMOiuzwd9beV-c_snKp9eBEb3i7HhBTDyPtA8YineA","T0DWDbMwian2fu1QWytOJ8","k_WhNzitocoBNw","2o0W5y7q58bolrGlBpPvpASN","9JqyJH92Cokdc-CPXIJnwgxB","1WRaXpS4KJgA7WC6sCZYiZmtN_Qdnsw","3TR2Y7v5VCrN7USVxKQ6w0nXTc90Ym4IZM1mK2q-kyChIZ","R5UULnSK35dtxLBOUSTAQcWUCX","FQD1rnUZq5GkwQxYQZ","rDirmFLnPSmcmDnWZcbU9JcxyTBm","DasEZ9negZslaqzB","NygsvkgXv6Npm8","2OaalY3FLoveZOSE1JTE","dCjSJUd","S7jOKJh_9MgrMEP0lGdki3Lu-yY69EjrPmgbJWPw7HS69he-6NTWarSsRwSeY8p","0h-lYsuoB7MC4md","xm8eATfRsmSUgmfWrwp","w6wG_ujZ46XNjFNVmb0ctfRnBIwiqwO5","UlypT8pnx8LxAX9dO_bQEZ","NbuCoKnmalOOoV2","o_u0W_lCQksq6OYzaO6Yyh2","HrEalyyD6ytD9vd","HJjB1CtlljRSBpkD0w","YWjv3w","VTBERP0GKIT0LBvLAgxwmk7X","su8qg5Cpy5X_wFIWqwy5Odum","eZlKrtNdruxI4QeFQb9K","e3eLmXT0q34Fa9oJv_KzH8","GaD2OlDoazeWoksM6w","vyot5FxQGqzL6XWRCUqFYAAgiZ","ddoaNdah6qt5cjVpHe2IsglXt0X","7p63BUsE6pjbKMqIyt2Lqw","0UFTCUhyKCJ8YGVUA2ZWtZ","M2TKRG2","AKwPF8","qZ3prFqW_6LEU2Utq8","z3ximwx_","ucrlo0YJiaYdvVrx","6D7zmXyFm8xg9lOv","8vqBcYDzl3aNJRVy2eZHgu4VgZ","Ipqg7X","S7v-01vPMWJd4X","YTJbg8","gm2uw8","jX3XUF5BiQ5B","ZZlii65KTFDia01bWMtZJJX9455Y","ff0B-X","drEjQMz_","HUKuCvB","M1qhXZ","0sG-R4-","xmMhBAMFL8","gSxH_1B4wzMGq8J","i3ybPh8vPQngQB4jouDulEP40BM","a8ytj83VmwHtkbL_uioucNPkAzX","-_a3oVp","Grsk9y9el_-","K-qCJqEuCRqRCpkg","1thkS_CCB1FQMw","Y4hGI4R_3NXBRGMwyu5MQ8tR2jSj","LmUPLh6SRI-ewZ","bKfvq1wbbu48_FyV","Tl3iP6_","k0K9f8","8d9LtquBNZ","5YtP6Hbim_K-9vVc7JozVmMoP3K78vA","JCGs7jIBJVqMI-Q-coR5FFnqDVWqH_fIqwfNd4XHrlzbSG2X5-ppzfVUxkY1hbCd7bPhFqY_PYpyOWBq","SsPiXUPhXUabBWZcABBTrxJ","RBBJpWVGMw","L5MtA2BU7TSAqKwvrZAZ","qXJuiw","Tli_mIelm8Hhmw","ZcyWODWdwXm--q7FlyqB","vOKgNQ3Qvkug","8jhc8EYz9rHmGE6JnNc-","1Jvp7EC0CRRK","Xsc2SevO31hN","M2A0YU65YGw","LzUvLn_bFmMdxLD1U8p","_QLYig-XV8","hX","bxe6-q8Zt0oIW8D0","QV9r2kf","6CQnDdY-8Of","0UQwBpSX7vaAIUPGRZ","KsGQX1keuUF2VGwChnCa_xiW2yFK3GQTP9zaKIQN","MmJFsrvqhBq1YBwQbzDqZ0U","wuUQbTTbgpZsiKyH","jZi7rw","mbBbZlnATD_wa9iG-dYt","ff86fq9JvZ","Zw","vk4N","7N6_7var-q6pojR5RIqf3G4ZbGvnpOkG_DghNf6pP8","E0AVxyRpytRoMX","J7MFA2hwC8","SA2zq5XDqsQP","Uwm4Pw","zaxPQ8","kdzLili6v9oH2_EwQicRKsX","ciaOQ_YeGiKb8ah11NV-","HjR8HvIJdw","Je6UWo6Y7pqP04T","M76WMsZ9VHZJy2Byxzj2_97I23vqMj-EA9o-BvHCZHkjAStMf2l3GkXeZxBKe_rDPiQGQCRyNNLMc2yM","hAZRhT_FsR_lFzX","tQnEwuwm05_kUZ","gKBjLTMpF8","TklNF8ljzxi2obDdGHS9B1Ql","oduKNq-","8YzjuH0xTqK-lYQ3","dUjJJ8","nsjznpsZG8","c4IupsVWYIBMBRM","pL_eF2U_","_QZ2321lbKw","awLRP6L3eAyxQxHW","Qb3uDmnsZbrcOcgX6w","vdr0-Db1okWw29bjEj2","uYsQ88o16H9OEYzcl-UlhZ","HUSBCMW6JYvn1ojz3t2SgQLgkf8","BWceK_g6Beh_3t750ndmjZnmGijKXZ","MIfEyN_EyGPoXPJ","hLUqLJd7gAZDKAfL_X","bQL8_LMvbF39rZ47jlJ","eD3LPPmEtQNPzDsc_aoc8w","k9oJk9LukDz9fknG6Ob6","WMtiWM0hGcbF2HlPuUch0X","6rzflM0O9E9bdvRnS8","E-q3JbuO7CvRNvjzyI8q","K7RzSvGQXePpytAphAOH","yAJIREjQpPA3Js2DxQmMQV_","FL-kbWwew5TXqFlHe8mPOiKf71A","rQmXt7B4jSx0YuLUkabIuO610t2jrw","mDxmDg1qQ3y8Z3g9NfKvH8","OcY7-mOVOq7Bi3gA5rRKBWTC","2y7j6aoV5i7hld76CUIQ","cr6dClgglrQ1HCunJsJHAzB","7-kxKyQMIRq3KCkNYIZe","07juyiCB3WIQ0PSCY5Z6Plf","4AphAN8csGR5gTM-rX","wzB-_JTlLz8TX53yelz8","UulHL52z_LO1ml1jkbz1","P3N_zxnUZxmtZ9-","oVg0NbgJql9VvMB","5rbP2SuEGiKD6ELO8Nc_YX","Jvq1JEC9","B7Ii7qraKpcj0tSvYTBb","V7QvV1Qm0Oq_MG_hwmLI","bAXysTJ","bu58bmV_hgpmjKT","_wlFe8nEy5Hpml4vo8","Q3DtfAelZDmaDbuR2H_","OkaEo0anfkbd2Md","kYLbLEVsPwz_93e6GHIt4w","EJPndbEREjIXIpU","nsFtIkGl7UIk","AGXEVto2yWJ7YBM","hud_sRq-4GTpLg8Zj6yTaZ","PFL9_5O9","jXnLehJetZ1MTZ2","m9Ooax3szbnLmXZ","-kowvuDqNVaKGM_","2EbO6y7_","cpR0Er6lfCQcnJCw","77CtSUbR1JhDu-QjXj2-iDl2vO06SoAarbzpCEw","MI66MrcRYh89phf","4nZeAApp12TULmA-rX","F6xliL6zg5OJMzJurLsSGrFVntTYiPW96ovzLSyc","jxDjm6D4elJmhZ","DqKdkDyfrnp","mAKQJFH-2dK0uaHj","2vS89ZWS6Y7D9kWd","oyGgIRG9EjQB-vVTVIFjKw","SWveKpvQ3yw","VGpBRWP5cWwyCp8FXtpCnqGBzdQeRnDYacaNHCZHoX","ggpQwnJhAJXmb1w","p6lcUg3H0X","wlNemwxqL8","fcoEOaiaD5moNguA2rOG7sp0AgigOilO5Z","ZDX","9oVc9HbGQYgfcEk3B1KOs5P-","1NVSBjYgoUchnUT","XNGfSfOqy5Ee","VX","hu8Pg58gxmMvrIF54lpVD_EuItSYBIljPlGtCE997qRP_lta3g41Do4ybrd2v-cgzj_v--5hOvMfXZ","UXnR","talDQ8eqTw","O_9Hk0Ua0_92iw","GfaP6y3eeX7hZxhdf6j5qCXB_65fWREDd41ggqSPASwk24JoDrE5K5P1","cro-coP89roKfcSxojT1A5MRsu9wZF-MT7eS2jZEM24yIOXaNYp0PSI7w9SdpnDQCxxby0cqVbTBaU4n9nzsSKk9vw","CeSjnRGKBqFLSJkQMPRD3Ing","XGF2y1Qo01vkRJIJ","ChBYsPVLEX","UZ","qwLXeKG5bzDRpFHnt8","Z3LWzgNQTTx-","-bt9NaxF-bL2OxtjlEk774fssnX6aXA","2yub8fa4t_bL8Y7GCckoRj_DUw3Nma06RmLV-lFgASaIdN-TxZ"};local _b={};local _d={};do local a="8l9cdHECJ17IBnKSX30VMyYRp4shALgFwxbq_irjUetPTmzQZDakfOov-NWG25u6";for i=1,#a do _d[string.sub(a,i,i)]=i-1 end end;local function _c(i)local v=_b[i];if v~=nil then return v end;local s=_a[i];local o={};local n=0;local p=1;local q=1;while p<=#s do local a=_d[string.sub(s,p,p)]or 0;local b=_d[string.sub(s,p+1,p+1)]or 0;local c=p+2<=#s and _d[string.sub(s,p+2,p+2)]or nil;local d=p+3<=#s and _d[string.sub(s,p+3,p+3)]or nil;local x=a*262144+b*4096+(c or 0)*64+(d or 0);local function w(z)local k=(203+q*73+i*29+((q*q)%251))%256;q=q+1;o[#o+1]=string.char((z-k)%256)end;w(math.floor(x/65536)%256);if c~=nil then w(math.floor(x/256)%256)end;if d~=nil then w(x%256)end;p=p+4 end;v=table.concat(o);_b[i]=v;return v end;pcall(function()local _f=getgenv().WaveHubBase if _f and type(_f.Destroy)==_c(1)then _f:Destroy()end end)local _g=_c(2)local _h=_c(3)local _i={Name=_c(4),Tagline=_c(5),Accent=
-Color3.fromHex(_c(6)),Cyan=Color3.fromHex(_c(7)),Background=Color3.fromHex(_c(8)),Surface=Color3.fromHex(_c(9)),Outline=Color3.fromHex(_c(10)),Text=Color3.fromHex(_c(11)),
-Placeholder=Color3.fromHex(_c(12)),Icon=Color3.fromHex(_c(13)),}local _j={Title=_c(4),Game=_c(14),Version=_c(2),Status=_c(15),Channel=_c(16),Updated=_c(17),}local function _k()
-local _l={_c(18).._h.._c(19),_c(20),}local _m for _n,_o in ipairs(_l)do local _p,_q=pcall(game.HttpGet,game,_o)if _p and type(_q)==_c(21)and#_q>100 then local _r,_s=loadstring(_q)
-if _r then local _t,_u=pcall(_r)if _t and _u then return _u end _m=_u else _m=_s end else _m=_q end end error(_c(22)..tostring(_m))end local _v=_k()pcall(function()_v:
-SetNotificationLower(true)end)pcall(function()_v:AddTheme({Name=_c(4),Accent=_i.Accent,Background=_i.Background,Outline=_i.Outline,Text=_i.Text,Placeholder=_i.Placeholder,Button=_i
-.Surface,Icon=_i.Icon,})_v:SetTheme(_c(4))end)local _w=_v:CreateWindow({Title=_i.Name,Author=_j.Game.._c(23).._j.Channel,Folder=_c(4),Icon=_c(24),NewElements=true,Size=UDim2.
-fromOffset(720,520),MinSize=Vector2.new(570,410),MaxSize=Vector2.new(960,700),ToggleKey=Enum.KeyCode.RightShift,Transparent=false,Theme=_c(4),Resizable=true,SideBarWidth=190,
-HideSearchBar=false,ScrollBarEnabled=false,User={Enabled=true,Anonymous=false,Callback=function()end,},OpenButton={Title=_c(4),Enabled=true,Draggable=true,OnlyMobile=false,Scale=
-0.52,CornerRadius=UDim.new(1,0),StrokeThickness=1,Color=ColorSequence.new({ColorSequenceKeypoint.new(0,_i.Accent),ColorSequenceKeypoint.new(1,_i.Cyan),}),},Topbar={Height=44,
-ButtonsType=_c(25),},})assert(_w,_c(26))pcall(function()_v:ToggleAcrylic(false)end)pcall(function()_w:Tag({Title=_c(27).._g,Icon=_c(28),Color=_i.Accent,Border=true,})end)local _x={
-BaseVersion=_g,WindUIVersion=_v.Version or _h,WindUI=_v,Window=_w,Brand=_i,Script=_j,Pages={},SettingsElements={},_cleanup={},}function WaveHub:Notify(_z,_A,_B,_C)return _v:Notify(
-{Title=_z or _i.Name,Content=_A or"",Icon=_B or_c(24),Duration=_C or 3,})end function WaveHub:AddTabSection(_E)return _w:Section({Title=_E or_c(29)})end function WaveHub:AddTab(_G)
-_G=_G or{}return _w:Tab({Title=_G.Title or_c(30),Icon=_G.Icon or_c(31),Locked=_G.Locked==true,})end function WaveHub:CreateConfig(_I,_J)if not _w.ConfigManager then return nil end
-return _w.ConfigManager:CreateConfig(_I or_c(32),_J==true)end function WaveHub:AddCleanup(_L)if type(_L)==_c(1)then table.insert(_K._cleanup,_L)end end function WaveHub:
-SetScriptInfo(_N)_N=_N or{}for _O,_P in pairs(_N)do if _j[_O]~=nil and _P~=nil then _j[_O]=_P end end if _M._scriptInfoParagraph then pcall(function()_M._scriptInfoParagraph:
-SetTitle(_j.Game.._c(33).._j.Status)_M._scriptInfoParagraph:SetDesc(_c(34).._j.Version.._c(35).._j.Channel.._c(36).._j.Updated)end)end end function WaveHub:Destroy()for _R=#_Q.
-_cleanup,1,-1 do pcall(_Q._cleanup[_R])end table.clear(_Q._cleanup)pcall(function()_w:Destroy()end)if getgenv().WaveHubBase==_Q then getgenv().WaveHubBase=nil end end local _S=_w:
-Section({Title=_c(37)})local _T=_S:Tab({Title=_c(38),Icon=_c(39)})_x.Pages.Home=_T _T:Section({Title=_c(4),TextSize=22,TextTransparency=0,})_T:Paragraph({Title=_c(40),Desc=_i.
-Tagline,})local _U=_T:Section({Title=_c(41),Box=true,Opened=true})_x._scriptInfoParagraph=_U:Paragraph({Title=_j.Game.._c(33).._j.Status,Desc=_c(34).._j.Version.._c(35).._j.Channel
-.._c(36).._j.Updated,Color=_c(42),})local _V=_T:Section({Title=_c(43),Box=true,Opened=false})_V:Paragraph({Title=_c(44).._g,Desc=_c(45)..tostring(_x.WindUIVersion).._c(46)..
-tostring(game.PlaceId),})local _W=_S:Tab({Title=_c(47),Icon=_c(48)})_x.Pages.Settings=_W local _X=_W:Section({Title=_c(49),Box=true,Opened=true})_x.SettingsElements.Theme=_X:
-Dropdown({Title=_c(50),Values={_c(4),_c(51)},Value=_c(4),Multi=false,AllowNone=false,Flag=_c(52),Callback=function(_Y)pcall(function()_v:SetTheme(_Z)end)end,})_x.SettingsElements.
-Acrylic=_X:Toggle({Title=_c(53),Icon=_c(54),Value=false,Flag=_c(55),Callback=function(_aa)pcall(function()_v:ToggleAcrylic(_ab)end)end,})_x.SettingsElements.UIScale=_X:Slider({
-Title=_c(56),Step=5,Value={Min=75,Max=125,Default=100},Flag=_c(57),Callback=function(_ac)pcall(function()_w:SetUIScale(_ac/100)end)end,})local _ad=_W:Section({Title=_c(58),Box=true
-,Opened=true})_x.SettingsElements.NotificationLower=_ad:Toggle({Title=_c(59),Icon=_c(60),Value=true,Flag=_c(61),Callback=function(_ae)pcall(function()_v:SetNotificationLower(_af)
-end)end,})_x.SettingsElements.ToggleKey=_ad:Keybind({Title=_c(62),Value=_c(63),Flag=_c(64),Callback=function(_ag)pcall(function()local _ah=Enum.KeyCode[_ag]if _ah then _w:
-SetToggleKey(_ai)end end)end,})local _aj pcall(function()if _w.ConfigManager then _aj=_w.ConfigManager:CreateConfig(_c(65),true)_aj:SetAutoLoad(true)end end)_x.BaseConfig=_aj local
-_ak=_W:Section({Title=_c(66),Box=true,Opened=false})_ak:Button({Title=_c(67),Icon=_c(68),Callback=function()if not _aj then _x:Notify(_c(47),_c(69),_c(70))return end local _al,_am=
-pcall(function()_aj:SetAutoLoad(true)_aj:Save()end)_x:Notify(_al and_c(71)or_c(72),_al and_c(73)or tostring(_an),_al and_c(74)or_c(70))end,})_ak:Button({Title=_c(75),Icon=_c(76),
-Callback=function()if not _aj then _x:Notify(_c(47),_c(69),_c(70))return end local _ao,_ap=pcall(function()_aj:Load()end)_x:Notify(_ao and_c(77)or_c(78),_ao and_c(79)or tostring(
-_aq),_ao and_c(74)or_c(70))end,})local _ar=_W:Section({Title=_c(80),Box=true,Opened=false})_ar:Paragraph({Title=_i.Name,Desc=_i.Tagline.._c(81).._g.._c(82)..tostring(_x.
-WindUIVersion),})_ar:Button({Title=_c(83),Icon=_c(60),Callback=function()_x:Notify(_c(4),_c(84),_c(85))end,})_ar:Button({Title=_c(86),Icon=_c(87),Color=Color3.fromHex(_c(88)),
-Callback=function()_x:Destroy()end,})task.defer(function()task.wait(0.5)if _aj and isfile and _aj.Path then local _as,_at=pcall(_au,_aj.Path)if _as and _at then pcall(function()_aj
-:Load()end)end end end)pcall(function()_T:Select()end)getgenv().WaveHubBase=_x _x:Notify(_c(4),_c(44).._g.._c(89),_c(24),2.5)local function _av(_aw)assert(_aw and _aw.Window,_c(90)
-)local _ax=79908803570376 local _ay=_c(91)_aw:SetScriptInfo({Title=_c(92),Game=_c(93),Version=_ay,Status=_c(94),Channel=_c(94),Updated=_c(17),})local _az=game:GetService(_c(95))
-local _aA=game:GetService(_c(96))local _aB=game:GetService(_c(97))local _aC=_az.LocalPlayer local _aD=_aA:WaitForChild(_c(98),15)local _aE=_aA:FindFirstChild(_c(99))local _aF=_aE
-and _aE:FindFirstChild(_c(100))local _aG=_aE and _aE:FindFirstChild(_c(101))local function _aH(_aI)if not _aF then return nil end local _aJ=_aF:FindFirstChild(_aI)if not _aJ or not
-_aJ:IsA(_c(102))then return nil end local _aK,_aL=pcall(require,_aJ)return _aK and _aL or nil end local function _aM(_aN)if not _aG then return nil end local _aO=_aG:FindFirstChild
-(_aN)if not _aO or not _aO:IsA(_c(102))then return nil end local _aP,_aQ=pcall(require,_aO)return _aP and _aQ or nil end local _aR=_aH(_c(103))local _aS=_aH(_c(104))local _aT=_aH(
-_c(105))local _aU=_aH(_c(106))local _aV=_aH(_c(107))local _aW=_aH(_c(108))local _aX=_aH(_c(109))local _aY=_aH(_c(110))local _aZ=_aH(_c(111))local _ba=_aH(_c(112))local _bb=_aH(
-_c(113))local _bc=_aM(_c(114))local _bd=_aM(_c(115))local _be=_aM(_c(116))local _bf={Alive=true,Connections={},LastCall={},Inventory={},Entries={},InventoryCap=0,InventoryListStamp
-={},InventoryListCount=0,ItemListStamp={},ItemListCount=0,Team={},TeamSet={},Items={},Settings={},Rewards=nil,RewardsAt=0,Stats={},Upgrades={},Tree={Owned={},Gold=0,Gems=0,
-TotalRolls=0},Fuse={Unlocked=false,ChanceBonus=0,Insurance=false,Equipped={}},Raid=nil,Trial=nil,Rebirth=nil,Worlds=nil,ServerLuck=nil,Boosts={},ObbyCooldowns={},Leaderboard={},
-AutoPlay=nil,AutoPlayLocked=nil,GameSpeed=1,SelectedGuid=nil,SelectedItem=nil,SelectedGear=nil,Auto={Deploy=false,Claim=false,Trait=false,Stat=false,Upgrade=false,RaidStart=false,
-TrialStart=false,},Safety={UnitSpending=false,RerollSpending=false,ProgressSpending=false,Destructive=false,Rebirth=false,},Suppress={Settings=false,Auto=false,},JobToken={Deploy=0
-,Claim=0,Upgrade=0,},TraitJob={Guid=nil,Mode=_c(117),Targets={},MinTier=_c(118),Count=0,Max=100,Delay=0.22,Pending=false,},StatJob={Guid=nil,Mode=_c(119),Stat=_c(120),Target=
-_c(121),Rule=_c(122),Count=0,Max=100,Delay=0.22,Pending=false},}local _bg={UnitDropdowns={},UnitMultiDropdowns={},ItemDropdowns={},GearDropdowns={},UnitLabelToGuid={},
-GuidToUnitLabel={},ItemLabelToId={},GearLabelToId={},UnitValues={},UsableValues={},GearValues={},}local function _bh(_bi,_bj,_bk,_bl)_aw:Notify(_bi,_bj,_bk or_c(24),_bl or 3)end
-local _bm={RemoteMinInterval=0.065,UnitRefreshDebounce=0.30,ItemRefreshDebounce=0.35,CurrencyPaintInterval=0.75,}local _bn={}local _bo=setmetatable({},{__mode=_c(123)})local _bp=
-setmetatable({},{__mode=_c(123)})local _bq=setmetatable({},{__mode=_c(123)})local function _br(_bs,_bt)if not _aD then return nil end if not _bt then local _bu=_bn[_bs]if _bu~=nil
-then return _bu or nil end end local _bv=_aD:FindFirstChild(_bs)_bn[_bs]=_bv or false return _bv end local function _bw(_bx)return _br(_bx)~=nil end local function _by(_bz,...)if
-not _bf.Alive then return false,_c(124)end local _bA=os.clock()if _bA-(_bf.LastCall[_bz]or 0)<_bm.RemoteMinInterval then return false,_c(125)end _bf.LastCall[_bz]=_bA local _bB=
-table.pack(...)if _aR and type(_aR.FireServer)==_c(1)then local _bC=pcall(_aR.FireServer,_bz,table.unpack(_bB,1,_bB.n))if _bC then return true end end local _bD=_br(_bz)if not _bD
-or not _bD:IsA(_c(126))then return false,_c(127)end local _bE,_bF=pcall(_bD.FireServer,_bD,table.unpack(_bB,1,_bB.n))return _bE,_bF end local function _bG(_bH,...)if _bw(_bH)then
-return _by(_bH,...)end return false end local function _bI(_bJ,_bK)local _bL=_br(_bJ)if not _bL or not _bL:IsA(_c(126))then return false end local _bM=_bL.OnClientEvent:Connect(
-function(...)if _bf.Alive then _bK(...)end end)table.insert(_bf.Connections,_bM)return true end local function _bN(_bO,_bP,_bQ)if not _bO then return end local _bR=_bo[_bO]if not
-_bR then _bR={}_bo[_bO]=_bR end if _bP~=nil and _bP~=_bR.Title then _bR.Title=_bP pcall(_bO.SetTitle,_bO,_bP)end if _bQ~=nil and _bQ~=_bR.Desc then _bR.Desc=_bQ pcall(_bO.SetDesc,
-_bO,_bQ)end end local function _bS(_bT,_bU)if not _bT then return end _bU=_bU==true if _bp[_bT]==_bU then return end _bp[_bT]=_bU pcall(_bT.Set,_bT,_bU)end local function _bV(_bW,
-_bX,_bY)if not _bW then return end _bX=#_bX>0 and _bX or{_c(128)}local _bZ=_bq[_bW]if not _bZ then _bZ={}_bq[_bW]=_bZ end if _bZ.Values~=_bX then _bZ.Values=_bX _bZ.Selected=nil
-pcall(_bW.Refresh,_bW,_bX)end if _bY and _bY~=_bZ.Selected and table.find(_bX,_bY)then _bZ.Selected=_bY pcall(_bW.Select,_bW,_bY)end end local function _ca(_cb)local _cc=tonumber(
-_cb)or 0 if _cc>=1e12 then return string.format(_c(129),_cc/1e12)elseif _cc>=1e9 then return string.format(_c(130),_cc/1e9)elseif _cc>=1e6 then return string.format(_c(131),_cc/1e6
-)elseif _cc>=1e3 then return string.format(_c(132),_cc/1e3)end return tostring(math.floor(_cc+0.5))end local function _cd(_ce)local _cf=tostring(_ce or""):lower():gsub(_c(133),"")
-local _cg,_ch=_cf:match(_c(134))local _ci=tonumber(_cg)if not _ci then return nil end local _cj={k=1e3,m=1e6,b=1e9,t=1e12,q=1e15,a=1e18}return math.clamp(math.floor(_ci*(_cj[_ch]or
-1)+0.5),0,9e15)end local _ck={}local _cl={}local _cm={}local function _cn(_co)if not _co or not _co.DefId then return nil end local _cp=_ck[_co.DefId]if _cp~=nil then return _cp or
-nil end if not _aS or type(_aS.Get)~=_c(1)then _ck[_co.DefId]=false return nil end local _cq,_cr=pcall(_aS.Get,_co.DefId)_ck[_co.DefId]=_cq and _cr or false return _cq and _cr or
-nil end local function _cs(_ct)if not _ct then return_c(135)end local _cu=_ct.DefId or_c(135)local _cv=_cl[_cu]if _cv then return _cv end local _cw=_cn(_ct)local _cx=(_cw and _cw.
-DisplayName)or _cu _cl[_cu]=_cx return _cx end local function _cy(_cz)if not _cz then return_c(128)end local _cA=_cm[_cz]if _cA then return _cA end local _cB=tostring(_cz)if _aU
-and type(_aU.DisplayName)==_c(1)then local _cC,_cD=pcall(_aU.DisplayName,_cz)if _cC and _cD then _cB=_cD end end _cm[_cz]=_cB return _cB end local _cE={Rare=1,Epic=2,Legendary=3,
-Mythic=4}local function _cF(_cG)if not _cG then return nil end if _aU and type(_aU.TierOf)==_c(1)then local _cH,_cI=pcall(_aU.TierOf,_cG)if _cH and _cI then return _cI end end if
-_aU and type(_aU.Get)==_c(1)then local _cJ,_cK=pcall(_aU.Get,_cG)if _cJ and _cK then return _cK.Tier end end return nil end local function _cL(_cM)if _aU and type(_aU.Get)==_c(1)
-then local _cN,_cO=pcall(_aU.Get,_cM)if _cN and _cO then return tonumber(_cO.Chance)or 0 end end return 0 end local function _cP()if not _bc or type(_bc.NotifyOpened)~=_c(1)then
-return false end return pcall(_bc.NotifyOpened,_c(136))end local function _cQ(_cR)local _cS=_cR and _cR.OpenFor if type(_cS)~=_c(1)then return false end local function _cT(_cU)if
-type(_cU)~=_c(137)or type(_cU.SetOpen)~=_c(1)or type(_cU.IsOpen)~=_c(1)then return false end local _cV,_cW=pcall(_cU.IsOpen)if _cV and _cW then local _cX=pcall(_cU.SetOpen,false)
-return _cX end return false end local _cY=getupvalues or(debug and debug.getupvalues)if type(_cY)==_c(1)then local _cZ,_da=pcall(_cY,_cS)if _cZ and type(_da)==_c(137)then for _db,
-_dc in pairs(_da)do if _cT(_dc)then return true end end end end local _dd=getupvalue or(debug and debug.getupvalue)if type(_dd)==_c(1)then for _de=1,32 do local _df,_dg,_dh=pcall(
-_dd,_cS,_de)if not _df then break end local _di=_dh~=nil and _dh or _dg if _di==nil then break end if _cT(_di)then return true end end end return false end local _dj={}local
-function _dk()_cQ(_bd)_cQ(_be)_cP()local _dl=_aC and _aC:FindFirstChildOfClass(_c(138))if not _dl then return end for _dm,_dn in ipairs({_c(139),_c(140)})do local _do=_dl:
-FindFirstChild(_dn)if _do and _do:IsA(_c(141))and _do.Enabled then _dj[_do]=true _do.Enabled=false end end end local function _dp()if _bf.Auto.Trait or _bf.Auto.Stat then return
-end for _dq in pairs(_dj)do if _dq.Parent then _dq.Enabled=true end end table.clear(_dj)end local function _dr(_ds)local _dt=tostring(_ds or"")return#_dt>7 and _dt:sub(-7)or _dt
-end local function _du(_dv,_dw)local _dx=_dv.Mutation and(_c(23)..tostring(_dv.Mutation))or""return string.format(_c(142),_dw or _cs(_dv),_dx,_dr(_dv.Guid))end local function _dy(
-_dz)if not _dz then return-1 end if _aV and type(_aV.Rank)==_c(1)then local _dA,_dB=pcall(_aV.Rank,_dz)if _dA and type(_dB)==_c(143)then return _dB end end local _dC={D=1,C=2,B=3,A
-=4,S=5,SS=6,Z=7,[_c(144)]=8,ZZZ=9}return _dC[_dz]or-1 end local function _dD(_dE)return _bf.TeamSet[_dE]==true end local function _dF(_dG)local _dH={}local _dI=0 local _dJ=#_dG~=
-_bf.InventoryListCount for _dK,_dL in ipairs(_dG)do local _dM=_dL.Guid if _dM then _dI+=1 local _dN=table.concat({tostring(_dL.DefId or""),tostring(_dL.Mutation or""),},_c(145))_dH
-[_dM]=_dN if _bf.InventoryListStamp[_dM]~=_dN then _dJ=true end end end if _dI~=_bf.InventoryListCount then _dJ=true end _bf.InventoryListStamp=_dH _bf.InventoryListCount=_dI
-return _dJ end local _dO={}local function _dP(_dQ)local _dR=_dO[_dQ]if _dR~=nil then return _dR end local _dS=false if _aT and type(_aT.Get)==_c(1)then local _dT,_dU=pcall(_aT.Get,
-_dQ)if _dT and _dU then _dS=_dU.Usable==true if not _dS and type(_aT.IsGear)==_c(1)then local _dV,_dW=pcall(_aT.IsGear,_dU)_dS=_dV and _dW==true end end end _dO[_dQ]=_dS return _dS
-end local function _dX(_dY)local _dZ={}local _ea=0 local _eb=false for _ec,_ed in pairs(_dY)do if(tonumber(_ed)or 0)>0 and _dP(_ec)then _ea+=1 local _ee=true _dZ[_ec]=_ee if _bf.
-ItemListStamp[_ec]~=_ee then _eb=true end end end if _ea~=_bf.ItemListCount then _eb=true end _bf.ItemListStamp=_dZ _bf.ItemListCount=_ea return _eb end local function _ef()local
-_eg={}for _eh,_ei in ipairs(_bf.Entries)do local _ej=_cs(_ei)_eg[#_eg+1]={Entry=_ei,Name=_ej,Level=tonumber(_ei.Level)or 1,Guid=tostring(_ei.Guid or""),Label=_du(_ei,_ej),}end
-table.sort(_eg,function(_ek,_el)if _ek.Name==_el.Name then if _ek.Level==_el.Level then return _ek.Guid<_el.Guid end return _ek.Level>_el.Level end return _ek.Name<_el.Name end)
-local _em=table.create(#_eg)_bg.UnitLabelToGuid={}_bg.GuidToUnitLabel={}for _en,_eo in ipairs(_eg)do _em[_en]=_eo.Label _bg.UnitLabelToGuid[_eo.Label]=_eo.Entry.Guid _bg.
-GuidToUnitLabel[_eo.Entry.Guid]=_eo.Label end _bg.UnitValues=_em if _bf.SelectedGuid and not _bf.Inventory[_bf.SelectedGuid]then _bf.SelectedGuid=nil end if not _bf.SelectedGuid
-and _eg[1]then _bf.SelectedGuid=_eg[1].Entry.Guid end local _ep=_bf.SelectedGuid and _bg.GuidToUnitLabel[_bf.SelectedGuid]for _eq,_er in ipairs(_bg.UnitDropdowns)do _bV(_er,_em,_ep
-)end for _es,_et in ipairs(_bg.UnitMultiDropdowns)do local _eu={}if type(_et.GetSelected)==_c(1)then local _ev,_ew=pcall(_et.GetSelected)if _ev and type(_ew)==_c(137)then for _ex,
-_ey in ipairs(_ew)do local _ez=_bg.GuidToUnitLabel[_ey]if _ez then _eu[#_eu+1]=_ez end end end end _bV(_et.Control,_em,nil)if#_eu>0 then pcall(function()_et.Control:Select(_eA)end)
-end end end local _eB=false local function _eC()if _eB then return end _eB=true task.delay(_bm.UnitRefreshDebounce,function()_eB=false if _bf.Alive then _ef()end end)end local _eD=
-{}local _eE={}local function _eF(_eG)local _eH=_eD[_eG]if _eH~=nil then return _eE[_eG]or _eG,_eH or nil end local _eI if _aT and type(_aT.Get)==_c(1)then local _eJ,_eK=pcall(_aT.
-Get,_eG)if _eJ then _eI=_eK end end _eD[_eG]=_eI or false _eE[_eG]=(_eI and _eI.DisplayName)or _eG return _eE[_eG],_eI end local function _eL()local _eM={}local _eN={}_bg.
-ItemLabelToId={}_bg.GearLabelToId={}for _eO,_eP in pairs(_bf.Items)do if(tonumber(_eP)or 0)>0 then local _eQ,_eR=_eF(_eO)local _eS=string.format(_c(146),tostring(_eQ),tostring(_eO)
-)if _eR and _eR.Usable then table.insert(_eM,_eS)_bg.ItemLabelToId[_eS]=_eO end local _eT=false if _eR and _aT and type(_aT.IsGear)==_c(1)then local _eU,_eV=pcall(_aT.IsGear,_eR)
-_eT=_eU and _eV==true end if _eT then table.insert(_eN,_eS)_bg.GearLabelToId[_eS]=_eO end end end table.sort(_eM)table.sort(_eN)_bg.UsableValues=_eM _bg.GearValues=_eN for _eW,_eX
-in ipairs(_bg.ItemDropdowns)do _bV(_eX,_eM,nil)end for _eY,_eZ in ipairs(_bg.GearDropdowns)do _bV(_eZ,_eN,nil)end end local _fa=false local function _fb()if _fa then return end _fa
-=true task.delay(_bm.ItemRefreshDebounce,function()_fa=false if _bf.Alive then _eL()end end)end local function _fc(_fd)table.insert(_bg.UnitDropdowns,_fd)if#_bg.UnitValues>0 then
-local _fe=_bf.SelectedGuid and _bg.GuidToUnitLabel[_bf.SelectedGuid]_bV(_fd,_bg.UnitValues,_fe)end end local function _ff(_fg,_fh)table.insert(_bg.UnitMultiDropdowns,{Control=_fg,
-GetSelected=_fh,})if#_bg.UnitValues>0 then _bV(_fg,_bg.UnitValues,nil)end end local function _fi(_fj)table.insert(_bg.ItemDropdowns,_fj)if#_bg.UsableValues>0 then _bV(_fj,_bg.
-UsableValues,nil)end end local function _fk(_fl)table.insert(_bg.GearDropdowns,_fl)if#_bg.GearValues>0 then _bV(_fl,_bg.GearValues,nil)end end local function _fm()return _bf.
-SelectedGuid and _bf.Inventory[_bf.SelectedGuid]or nil end local function _fn(_fo)local _fp=(_bf.TraitJob.Count or 0)>0 _bf.Auto.Trait=false _bf.TraitJob.Pending=false _bf.TraitJob
-.Guid=nil if _bg.TraitAutoToggle then _bf.Suppress.Auto=true _bS(_bg.TraitAutoToggle,false)_bf.Suppress.Auto=false end _dp()if _fp then task.defer(function()if _bf.Alive then _bG(
-_c(147))end end)end if _fo then _bh(_c(148),_fo,_c(74),4)end end local function _fq(_fr)local _fs=(_bf.StatJob.Count or 0)>0 _bf.Auto.Stat=false _bf.StatJob.Pending=false _bf.
-StatJob.Guid=nil if _bg.StatAutoToggle then _bf.Suppress.Auto=true _bS(_bg.StatAutoToggle,false)_bf.Suppress.Auto=false end _dp()if _fs then task.defer(function()if _bf.Alive then
-_bG(_c(147))end end)end if _fr then _bh(_c(149),_fr,_c(74),4)end end local function _ft(_fu,_fv)_fv=_fv or _bf.TraitJob if not _fu then return false end if _fv.Mode==_c(150)then
-return(_cE[_cF(_fu)]or-1)>=(_cE[_fv.MinTier]or math.huge)end return type(_fv.Targets)==_c(137)and _fv.Targets[_fu]==true end local function _fw()local _fx=_bf.TraitJob if not _bf.
-Auto.Trait or not _fx.Guid or _fx.Pending then return end if(_bf.Items.TraitRerolls or 0)<=0 then _fn(_c(151))return end _fx.Pending=true _bf.Items.TraitRerolls=math.max((_bf.Items
-.TraitRerolls or 0)-1,0)local _fy=_by(_c(152),{Guid=_fx.Guid})if not _fy then _fx.Pending=false _bf.Items.TraitRerolls=(_bf.Items.TraitRerolls or 0)+1 _fn(_c(153))end end local
-function _fz(_fA)if _aW and _aW.COSTS and _aW.COSTS[_fA]then return _aW.COSTS[_fA].Item,_aW.COSTS[_fA].Amount or 1 end return _fA==_c(154)and_c(155)or_c(156),1 end local function
-_fB()local _fC=_bf.StatJob if not _bf.Auto.Stat or not _fC.Guid or _fC.Pending then return end local _fD,_fE=_fz(_fC.Mode)if(_bf.Items[_fD]or 0)<_fE then _fq(_c(157).._fD.._c(158))
-return end _fC.Pending=true _bf.Items[_fD]=math.max((_bf.Items[_fD]or 0)-_fE,0)local _fF=_by(_c(159),{Guid=_fC.Guid,Mode=_fC.Mode,Stat=_fC.Mode==_c(154)and _fC.Stat or nil})if not
-_fF then _fC.Pending=false _bf.Items[_fD]=(_bf.Items[_fD]or 0)+_fE _fq(_c(153))end end local function _fG(_fH)local _fI=_bf.StatJob local _fJ=_dy(_fI.Target)local _fK=type(_fH)==
-_c(137)and _fH.After or nil local _fL=_bf.Inventory[_fI.Guid]local _fM=_fL and _fL.StatTiers or{}if type(_fK)==_c(137)then _fM=_fK elseif type(_fK)==_c(21)and _fI.Mode==_c(154)then
-_fM=table.clone(_fM or{})_fM[_fI.Stat]=_fK end if _fI.Mode==_c(119)and _fI.Rule==_c(160)then for _fN,_fO in ipairs({_c(120),_c(161),_c(162),_c(163)})do if _dy(_fM and _fM[_fO])<_fJ
-then return false end end return true end return _dy(_fM and _fM[_fI.Stat])>=_fJ end local _fP=0 local function _fQ()_fP+=1 local _fR=_fP task.delay(1.25,function()if _bf.Alive and
-_fR==_fP and not _bf.Auto.Trait and not _bf.Auto.Stat then _bG(_c(147))end end)end local function _fS()local _fT=_bf.Rewards and _bf.Rewards.Playtime if not _fT then return 0 end
-return(tonumber(_fT.Seconds)or 0)+math.max(0,os.clock()-_bf.RewardsAt)end local function _fU()if not _bf.Rewards or not _ba or type(_ba.Playtime)~=_c(137)then return end local _fV=
-_bf.Rewards.Playtime or{}local _fW=_fV.Claimed or{}local _fX=_fS()for _fY,_fZ in ipairs(_ba.Playtime)do local _ga=_fW[_fY]==true or _fW[tostring(_fY)]==true if not _ga and(tonumber
-(_fZ.Minutes)or math.huge)*60<=_fX then _bG(_c(164),_fY)task.wait(0.09)end end end local function _gb()local _gc=_bf.Rewards and _bf.Rewards.Daily if _gc and _gc.CanClaim==true
-then _bG(_c(165))task.wait(0.09)end _fU()for _gd,_ge in ipairs({_c(166),_c(167),_c(168),_c(169),_c(170),})do if not _bf.Alive then break end _bG(_ge)task.wait(0.09)end end local
-function _gf()task.spawn(function()for _gg,_gh in ipairs({_c(171),_c(172),_c(147),_c(173),_c(174),_c(175),})do if not _bf.Alive then break end _bG(_gi)task.wait(0.09)end end)end
-local function _gj()task.spawn(function()local _gk={_c(171),_c(172),_c(147),_c(173),_c(174),_c(176),_c(177),_c(178),_c(179),_c(180),_c(175),_c(181),_c(182),_c(183),_c(184),_c(185),
-_c(186),_c(187),_c(188),_c(189),_c(190),_c(191),_c(192),}for _gm,_gn in ipairs(_gl)do if not _bf.Alive then break end _bG(_go)task.wait(0.08)end end)end _aw:AddCleanup(function()
-_bf.Alive=false _bf.Auto.Trait=false _bf.Auto.Stat=false _bf.Auto.Deploy=false _bf.Auto.Claim=false _bf.Auto.Upgrade=false _bf.JobToken.Deploy+=1 _bf.JobToken.Claim+=1 _bf.JobToken
-.Upgrade+=1 _dp()for _gp,_gq in ipairs(_bf.Connections)do pcall(function()_gq:Disconnect()end)end table.clear(_bf.Connections)end)if game.PlaceId~=_ax then _bh(_c(193),_c(194).._ax
-.._c(195),_c(70),6)end local _gr={_c(196),_c(197),_c(198),_c(199),_c(200),_c(171),_c(201),_c(172),_c(202),_c(147),_c(203),_c(204),_c(205),_c(206),_c(207),_c(208),_c(209),_c(210),
-_c(211),_c(212),_c(213),_c(214),_c(184),_c(215),_c(216),_c(152),_c(217),_c(185),_c(186),_c(218),_c(159),_c(219),_c(187),_c(220),_c(221),_c(222),_c(173),_c(223),_c(174),_c(224),
-_c(165),_c(164),_c(166),_c(177),_c(167),_c(168),_c(169),_c(170),_c(225),_c(226),_c(227),_c(228),_c(229),_c(230),_c(231),_c(232),_c(233),_c(234),_c(235),_c(236),_c(237),_c(238),
-_c(183),_c(239),_c(240),_c(175),_c(241),_c(242),_c(181),_c(243),_c(244),_c(188),_c(245),_c(246),_c(182),_c(247),_c(189),_c(248),_c(249),_c(250),_c(190),_c(251),_c(191),_c(252),
-_c(192),_c(253),}local function _gs()local _gt=_aw:AddTabSection(_c(254))local _gu=_gt:Tab({Title=_c(255),Icon=_c(256)})local _gv=_gt:Tab({Title=_c(257),Icon=_c(258)})local _gw=_gt
-:Tab({Title=_c(259),Icon=_c(260)})local _gx=_gt:Tab({Title=_c(261),Icon=_c(262)})local _gy=_gt:Tab({Title=_c(263),Icon=_c(264)})local _gz=_gt:Tab({Title=_c(265),Icon=_c(266)})local
-_gA=_gt:Tab({Title=_c(267),Icon=_c(268)})local _gB=_gt:Tab({Title=_c(269),Icon=_c(270)})local _gC=_gu:Section({Title=_c(271),Box=true,Opened=true})_bg.RemoteStatus=_gC:Paragraph({
-Title=_c(272),Desc=_c(273),Color=_c(42)})local function _gD()local _gE=0 local _gF={}for _gG,_gH in ipairs(_gr)do _br(_gH,true)if _bw(_gH)then _gE+=1 else table.insert(_gF,_gH)end
-end local _gI=string.format(_c(274),_gE,#_gr,tostring(game.PlaceId))if#_gF>0 then _gI..=_c(275)..table.concat(_gF,_c(276))else _gI..=_c(277)end _bN(_bg.RemoteStatus,_gE==#_gr and
-_c(278)or_c(279),_gI)end _gC:Button({Title=_c(280),Icon=_c(260),Callback=_gD})local _gJ=_gu:Section({Title=_c(281),Box=true,Opened=true})_bg.AutoPlayStatus=_gJ:Paragraph({Title=
-_c(282),Desc=_c(283)})local function _gK()local _gL=_bf.AutoPlay==nil and_c(284)or(_bf.AutoPlay and_c(285)or_c(286))if _bf.AutoPlayLocked then _gL=_c(287)end _bN(_bg.AutoPlayStatus
-,_c(282),_c(288).._gL)if _bg.AutoPlayToggle and _bf.AutoPlay~=nil then _bf.Suppress.Auto=true _bS(_bg.AutoPlayToggle,_bf.AutoPlay)_bf.Suppress.Auto=false end end _bg.AutoPlayToggle
-=_gJ:Toggle({Title=_c(282),Icon=_c(289),Value=false,Callback=function(_gM)if _bf.Suppress.Auto then return end if _bf.AutoPlay==_gM then return end _by(_c(196))end,})_gJ:Dropdown({
-Title=_c(290),Values={_c(291),_c(292),_c(293),_c(294),_c(295)},Value=_c(291),Multi=false,AllowNone=false,Flag=_c(296),Callback=function(_gN)local _gO=tonumber(tostring(_gP):gsub(
-_c(297),""))if _gO then _by(_c(198),_gQ)end end,})local _gR=1 _gJ:Dropdown({Title=_c(298),Values={_c(299),_c(300),_c(301),_c(302),_c(303),_c(304)},Value=_c(299),Multi=false,
-AllowNone=false,Callback=function(_gS)_gR=tonumber(_gT)or 1 end,})_gJ:Button({Title=_c(305),Icon=_c(306),Callback=function()_by(_c(200),_gU)end,})_gJ:Button({Title=_c(307),Desc=
-_c(308),Icon=_c(309),Callback=function()_bG(_c(250),_gV)end,})_gJ:Button({Title=_c(310),Icon=_c(311),Callback=function()task.spawn(function()for _gW=1,6 do _by(_c(200),_gX)task.
-wait(0.12)end end)end,})local _gY=2 _gJ:Slider({Title=_c(312),Step=0.5,Value={Min=1,Max=10,Default=2},Flag=_c(313),Callback=function(_gZ)_gY=tonumber(_ha)or 2 end,})_gJ:Toggle({
-Title=_c(314),Icon=_c(315),Value=false,Flag=_c(316),Callback=function(_hb)local _hc=_hb==true if _bf.Auto.Deploy==_hc then return end _bf.Auto.Deploy=_hc _bf.JobToken.Deploy+=1
-local _hd=_bf.JobToken.Deploy if not _hc then return end task.spawn(function()for _he=1,6 do if not _bf.Alive or not _bf.Auto.Deploy or _bf.JobToken.Deploy~=_hd then return end _by
-(_c(200),_hf)task.wait(0.11)end local _hg=1 while _bf.Alive and _bf.Auto.Deploy and _bf.JobToken.Deploy==_hd do task.wait(math.max(_hh,1))if not _bf.Alive or not _bf.Auto.Deploy or
-_bf.JobToken.Deploy~=_hd then break end _by(_c(200),_hi)_hi=_hi%6+1 end end)end,})local _hj=_gu:Section({Title=_c(317),Box=true,Opened=false})local _hk=false _hj:Toggle({Title=
-_c(318),Icon=_c(319),Value=false,Flag=_c(320),Callback=function(_hl)_hk=_hl==true end,})local _hm=_aC.Idled:Connect(function()if not _bf.Alive or not _hk then return end pcall(
-function()_aB:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)task.wait(0.2)_aB:Button2Up(Vector2.new(0,0),workspace.CurrentCamera.CFrame)end)end)table.insert(_bf.
-Connections,_hm)_hj:Button({Title=_c(321),Icon=_c(260),Callback=_gj})_hj:Button({Title=_c(322),Icon=_c(39),Callback=function()_by(_c(249))end})local _hn=_gv:Section({Title=_c(323),
-Box=true,Opened=true})_bg.UnitInfo=_hn:Paragraph({Title=_c(324),Desc=_c(325)})local _ho local function _hp(_hq)local _hr=_fm()if not _hr then if _hq or _ho~=_c(326)then _ho=_c(326)
-_bN(_bg.UnitInfo,_c(324),_c(327))end return end local _hs=type(_hr.Traits)==_c(137)and _cy(_hr.Traits[1])or_c(128)local _ht=_hr.StatTiers or{}local _hu=_dD(_hr.Guid)local _hv=table
-.concat({tostring(_hr.Guid),tostring(_hr.Level or 1),tostring(_hr.Mutation or_c(328)),_hs,tostring(_ht.Damage or_c(329)),tostring(_ht.Health or_c(329)),tostring(_ht.Range or_c(329)
-),tostring(_ht.CDR or_c(329)),_hr.Locked and_c(299)or_c(330),_hu and_c(299)or_c(330)},_c(145))if not _hq and _hv==_ho then return end _ho=_hv local _hw=string.format(_c(331),
-tostring(_hr.Level or 1),tostring(_hr.Mutation or_c(328)),_hs,tostring(_ht.Damage or_c(329)),tostring(_ht.Health or_c(329)),tostring(_ht.Range or_c(329)),tostring(_ht.CDR or_c(329)
-),_hr.Locked and_c(332)or_c(333),_hu and_c(332)or_c(333),tostring(_hr.Guid))_bN(_bg.UnitInfo,_cs(_hr),_hw)end local _hx=_hn:Dropdown({Title=_c(334),SearchBarEnabled=true,Values={
-_c(128)},Value=_c(128),Multi=false,AllowNone=false,Callback=function(_hy)local _hz=_bg.UnitLabelToGuid[_hy]if _hz then _bf.SelectedGuid=_hz _hp()end end,})_fc(_hx)_hn:Button({Title
-=_c(335),Icon=_c(260),Callback=function()_by(_c(171))end})local _hA=_gv:Section({Title=_c(336),Box=true,Opened=true})_hA:Button({Title=_c(337),Icon=_c(338),Callback=function()local
-_hB=_fm()if _hB then _by(_c(206),_hB.Guid)end end,})_hA:Button({Title=_c(339),Icon=_c(340),Callback=function()local _hC=_fm()if _hC then _by(_c(207),_hC.DefId)end end,})_hA:Button(
-{Title=_c(341),Icon=_c(342),Callback=function()_by(_c(204))end})_hA:Button({Title=_c(343),Icon=_c(344),Callback=function()_by(_c(205))end})_hA:Button({Title=_c(345),Icon=_c(346),
-Callback=function()local _hD=_fm()if _hD then _by(_c(208),_hD.Guid,true)end end,})_hA:Button({Title=_c(347),Icon=_c(348),Callback=function()local _hE=_fm()if _hE then _by(_c(208),
-_hE.Guid,false)end end,})local _hF=_gv:Section({Title=_c(349),Box=true,Opened=false})local _hG=_c(350)local _hH=10 _hF:Dropdown({Title=_c(351),Values={_c(350),_c(352)},Value=
-_c(350),Multi=false,AllowNone=false,Callback=function(_hI)_hG=tostring(_hJ)end,})_hF:Slider({Title=_c(353),Step=1,Value={Min=1,Max=100,Default=10},Callback=function(_hK)_hH=math.
-floor(tonumber(_hL)or 10)end,})_hF:Toggle({Title=_c(354),Desc=_c(355),Value=false,Callback=function(_hM)_bf.Safety.UnitSpending=_hM==true end,})_hF:Button({Title=_c(356),Icon=
-_c(357),Callback=function()local _hN=_fm()if not _bf.Safety.UnitSpending then _bh(_c(358),_c(359),_c(70))return end if _hN then _by(_c(212),{Guid=_hN.Guid,Currency=_hG})end end,})
-_hF:Button({Title=_c(360),Icon=_c(361),Callback=function()local _hO=_fm()if not _bf.Safety.UnitSpending then _bh(_c(358),_c(359),_c(70))return end if _hO then _by(_c(213),{Guid=_hO
-.Guid,Currency=_hG,Steps=_hH})end end,})local _hP=_gv:Section({Title=_c(362),Box=true,Opened=false})local _hQ=_c(363)_hP:Dropdown({Title=_c(364),Values={_c(363),_c(365),_c(366)},
-Value=_c(363),Multi=false,AllowNone=false,Callback=function(_hR)_hQ=tostring(_hS)end,})local _hT=_hP:Dropdown({Title=_c(367),SearchBarEnabled=true,Values={_c(128)},Value=_c(128),
-Multi=false,AllowNone=false,Callback=function(_hU)_bf.SelectedGear=_bg.GearLabelToId[_hU]end,})_fk(_hT)_hP:Button({Title=_c(368),Icon=_c(369),Callback=function()local _hV=_fm()if
-_hV and _bf.SelectedGear then _by(_c(210),_hV.Guid,_hW,_bf.SelectedGear)end end,})_hP:Button({Title=_c(370),Icon=_c(371),Callback=function()local _hX=_fm()if _hX then _by(_c(211),
-_hX.Guid,_hY)end end,})local _hZ=_gv:Section({Title=_c(372),Box=true,Opened=false})_bg.FuseInfo=_hZ:Paragraph({Title=_c(372),Desc=_c(373)})local _ia={}local _ib local _ic=_hZ:
-Dropdown({Title=_c(374),SearchBarEnabled=true,Desc=_c(375),Values={_c(128)},Value={},Multi=true,AllowNone=true,Callback=function(_id)table.clear(_ie)if type(_if)~=_c(137)then
-return end for _ih,_ii in pairs(_ig)do local _ij=type(_ik)==_c(143)and _ii or(_ii==true and _ik or nil)local _il=_ij and _bg.UnitLabelToGuid[_ij]if _il then table.insert(_im,_in)
-end end if _ib then _ib()end end,})_ff(_ic,function()return table.clone(_io)end)_bg.DestructiveToggle=_hZ:Toggle({Title=_c(376),Desc=_c(377),Value=false,Callback=function(_ip)_bf.
-Safety.Destructive=_ip==true end,})local function _iq()if#_ia<1 then return false,_c(378)end if#_ia>8 then return false,_c(379)end local _ir=_bf.Inventory[_ia[1]]if not _ir then
-return false,_c(380)end for _is,_it in ipairs(_ia)do local _iu=_bf.Inventory[_it]if not _iu then return false,_c(381)end if _iu.Locked then return false,_cs(_iu).._c(382)end if _dD
-(_it)or _bf.Fuse.Equipped[_it]then return false,_cs(_iu).._c(383)end if _iu.DefId~=_ir.DefId or _iu.Mutation~=_ir.Mutation then return false,_c(384)end end return true,_ir end _ib=
-function()local _iv=math.min(#_ia*10+(_bf.Fuse.ChanceBonus or 0),100)local _iw=_bf.Fuse.Insurance and_c(385)or_c(386)_bN(_bg.FuseInfo,_bf.Fuse.Unlocked and_c(387)or_c(388),string.
-format(_c(389),#_ia,_iv,_iw))end _hZ:Button({Title=_c(390),Icon=_c(391),Callback=function()if not _bf.Safety.Destructive then _bh(_c(372),_c(392),_c(70))return end if not _bf.Fuse.
-Unlocked then _bh(_c(372),_c(393),_c(70))return end local _ix,_iy=_iq()if not _ix then _bh(_c(372),_iz,_c(70),4)return end _by(_c(214),{Guids=table.clone(_iA)})_bf.Safety.
-Destructive=false _bS(_bg.DestructiveToggle,false)end,})local _iB=_gv:Section({Title=_c(394),Box=true,Opened=false})_iB:Paragraph({Title=_c(395),Desc=_c(396)})_iB:Button({Title=
-_c(397),Icon=_c(398),Color=Color3.fromHex(_c(88)),Callback=function()local _iC=_fm()if not _bf.Safety.Destructive then _bh(_c(394),_c(399),_c(70))return end if not _iC then return
-end _by(_c(209),{_iC.Guid})_bf.Safety.Destructive=false _bS(_bg.DestructiveToggle,false)end,})local _iD=_gw:Section({Title=_c(400),Box=true,Opened=true})_bg.RerollInfo=_iD:
-Paragraph({Title=_c(324),Desc=_c(401)})local _iE=_iD:Dropdown({Title=_c(402),Values={_c(128)},Value=_c(128),Multi=false,AllowNone=false,Callback=function(_iF)local _iG=_bg.
-UnitLabelToGuid[_iF]if _iG then _bf.SelectedGuid=_iG local _iH=_bf.Inventory[_iG]local _iI=_iH and type(_iH.Traits)==_c(137)and _cy(_iH.Traits[1])or_c(128)local _iJ=_iH and _iH.
-StatTiers or{}_bN(_bg.RerollInfo,_cs(_iK),string.format(_c(403),_iL,tostring(_iJ.Damage or_c(329)),tostring(_iJ.Health or_c(329)),tostring(_iJ.Range or_c(329)),tostring(_iJ.CDR or
-_c(329))))_hp()end end,})_fc(_iE)local _iM=_gw:Section({Title=_c(404),Box=true,Opened=true})_bg.RerollSpendToggle=_iM:Toggle({Title=_c(405),Desc=_c(406),Value=false,Callback=
-function(_iN)_bf.Safety.RerollSpending=_iN==true end,})local _iO={}local _iP={}if _aU and type(_aU.Order)==_c(137)then for _iQ,_iR in ipairs(_aU.Order)do local _iS=_cy(_iR)table.
-insert(_iO,_iS)_iP[_iS]=_iR end end if#_iO==0 then _iO={_c(407)}_iP.Monarch=_c(407)end local _iT=_gw:Section({Title=_c(148),Box=true,Opened=true})_bg.TraitStatus=_iT:Paragraph({
-Title=_c(408),Desc=_c(409)})_bg.TraitTargetInfo=_iT:Paragraph({Title=_c(410),Desc=_c(407)})local _iU=_iP[_iO[#_iO]]or_c(407)local _iV=_c(117)local _iW={[_iU]=true}local _iX=_c(118)
-local _iY=100 local _iZ=0.22 local _ja=true local function _jb()local _jc={}for _jd,_je in pairs(_iW)do if _je then _jc[_jd]=true end end return _jc end local function _jf(_jg,_jh,
-_ji)local _jj=0 if _jg==_c(150)then local _jk=_cE[_ji]or math.huge if _aU and type(_aU.Order)==_c(137)then for _jl,_jm in ipairs(_aU.Order)do if(_cE[_cF(_jm)]or-1)>=_jk then _jj+=
-_cL(_jm)end end end return _jj end for _jn in pairs(_jh)do _jj+=_cL(_jn)end return _jj end local function _jo()if _iV==_c(150)then local _jp=_jf(_iV,_iW,_iX)_bN(_bg.TraitTargetInfo
-,_c(411).._iX,string.format(_c(412),_iX,_jp))return end local _jq={}if _aU and type(_aU.Order)==_c(137)then for _jr,_js in ipairs(_aU.Order)do if _iW[_js]then _jq[#_jq+1]=_cy(_js)
-end end else for _jt in pairs(_iW)do _jq[#_jq+1]=_cy(_jt)end table.sort(_jq)end local _ju=_jf(_iV,_iW,_iX)_bN(_bg.TraitTargetInfo,#_jq>0 and(_c(413)..#_jq)or_c(414),#_jq>0 and(
-table.concat(_jq,_c(276))..string.format(_c(415),_ju))or_c(416))end _iT:Dropdown({Title=_c(417),Values={_c(117),_c(150)},Value=_c(117),Multi=false,AllowNone=false,Callback=function
-(_jv)_iV=tostring(_jw)_jo()end,})_iT:Dropdown({Title=_c(418),Desc=_c(419),Values=_iO,Value={_iO[#_iO]},Multi=true,AllowNone=true,Callback=function(_jx)table.clear(_jy)if type(_jz)
-==_c(137)then for _jB,_jC in pairs(_jA)do local _jD=type(_jE)==_c(143)and _jC or(_jC==true and _jE or nil)local _jF=_jD and _iP[_jD]if _jF then _jy[_jF]=true end end end _jo()end,}
-)local _jG={_c(420),_c(421),_c(422),_c(118)}if _aU and type(_aU.TierOrder)==_c(137)and#_aU.TierOrder>0 then _jG=table.clone(_aU.TierOrder)end _iT:Dropdown({Title=_c(150),Desc=
-_c(423),Values=_jG,Value=_c(118),Multi=false,AllowNone=false,Callback=function(_jH)_iX=tostring(_jI)_jo()end,})_iT:Slider({Title=_c(424),Desc=_c(425),Step=0.05,Value={Min=0.15,Max=
-2.5,Default=0.22},Callback=function(_jJ)_iZ=math.max(0.15,tonumber(_jK)or 0.22)end,})_iT:Toggle({Title=_c(426),Desc=_c(427),Value=true,Callback=function(_jL)_ja=_jL==true end,})_iT
-:Slider({Title=_c(428),Step=1,Value={Min=1,Max=5000,Default=100},Callback=function(_jM)_iY=math.floor(tonumber(_jN)or 100)end,})_iT:Button({Title=_c(429),Icon=_c(260),Callback=
-function()local _jO=_fm()if not _bf.Safety.RerollSpending then _bh(_c(148),_c(430),_c(70))return end if _jO then _by(_c(152),{Guid=_jO.Guid})end end,})_bg.TraitAutoToggle=_iT:
-Toggle({Title=_c(431),Icon=_c(315),Value=false,Callback=function(_jP)if _bf.Suppress.Auto then return end if not _jP then _fn()return end local _jQ=_fm()if not _bf.Safety.
-RerollSpending then _bh(_c(148),_c(430),_c(70))_bS(_bg.TraitAutoToggle,false)return end if not _jQ then _bS(_bg.TraitAutoToggle,false)return end if _iV==_c(117)and next(_jR)==nil
-then _bh(_c(148),_c(432),_c(70))_bS(_bg.TraitAutoToggle,false)return end local _jS={Guid=_jQ.Guid,Mode=_iV,Targets=_jb(),MinTier=_iX,Count=0,Max=_iY,Delay=_iZ,Pending=false,}local
-_jT=type(_jQ.Traits)==_c(137)and _jQ.Traits[1]or nil if _ft(_jU,_jV)then _bh(_c(148),_c(433),_c(74))_bS(_bg.TraitAutoToggle,false)return end _bf.TraitJob=_jV _bf.Auto.Trait=true if
-_ja then _dk()end _fw()end,})_jo()local _jW=_gw:Section({Title=_c(434),Box=true,Opened=false})local _jX=_iU _jW:Dropdown({Title=_c(435),Values=_iO,Value=_iO[#_iO],Multi=false,
-AllowNone=false,Callback=function(_jY)_jX=_iP[_jY]or tostring(_jZ)end,})_jW:Button({Title=_c(436),Callback=function()_bG(_c(218),{Trait=_jX,Skip=true})end})_jW:Button({Title=
-_c(437),Callback=function()_bG(_c(218),{Trait=_jX,Skip=false})end})local _ka=_gw:Section({Title=_c(149),Box=true,Opened=true})_bg.StatStatus=_ka:Paragraph({Title=_c(438),Desc=
-_c(439)})local _kb=_c(119)local _kc=_c(120)local _kd=_c(121)local _ke=_c(122)local _kf=100 local _kg={_c(440),_c(441),_c(442),_c(443),_c(121),_c(444),_c(445),_c(144),_c(446)}_ka:
-Dropdown({Title=_c(447),Values={_c(119),_c(154)},Value=_c(119),Multi=false,AllowNone=false,Callback=function(_kh)_kb=tostring(_ki)end,})_ka:Dropdown({Title=_c(448),Values={_c(120),
-_c(161),_c(162),_c(163)},Value=_c(120),Multi=false,AllowNone=false,Callback=function(_kj)_kc=tostring(_kk)end,})_ka:Dropdown({Title=_c(449),Values=_kg,Value=_c(121),Multi=false,
-AllowNone=false,Callback=function(_kl)_kd=tostring(_km)end,})_ka:Dropdown({Title=_c(450),Values={_c(122),_c(160)},Value=_c(122),Multi=false,AllowNone=false,Callback=function(_kn)
-_ke=tostring(_ko)end,})_ka:Slider({Title=_c(428),Step=1,Value={Min=1,Max=1000,Default=100},Callback=function(_kp)_kf=math.floor(tonumber(_kq)or 100)end,})_ka:Button({Title=_c(429),
-Icon=_c(260),Callback=function()local _kr=_fm()if not _bf.Safety.RerollSpending then _bh(_c(149),_c(430),_c(70))return end if _kr then _by(_c(159),{Guid=_kr.Guid,Mode=_kb,Stat=_kb
-==_c(154)and _kc or nil})end end,})_bg.StatAutoToggle=_ka:Toggle({Title=_c(451),Icon=_c(315),Value=false,Callback=function(_ks)if _bf.Suppress.Auto then return end if not _ks then
-_fq()return end local _kt=_fm()if not _bf.Safety.RerollSpending then _bh(_c(149),_c(430),_c(70))_bS(_bg.StatAutoToggle,false)return end if not _kt then _bS(_bg.StatAutoToggle,false
-)return end _bf.StatJob={Guid=_kt.Guid,Mode=_kb,Stat=_kc,Target=_kd,Rule=_ke,Count=0,Max=_kf,Delay=_iZ,Pending=false,}_bf.Auto.Stat=true if _fG({After=_kt.StatTiers,Mode=_kb})then
-_fq(_c(452))return end if _ja then _dk()end _fB()end,})local _ku=_gw:Section({Title=_c(453),Box=true,Opened=false})local _kv=_c(121)_ku:Dropdown({Title=_c(454),Values={_c(443),
-_c(121),_c(444),_c(445),_c(144),_c(446)},Value=_c(121),Multi=false,AllowNone=false,Callback=function(_kw)_kv=tostring(_kx)end,})_ku:Button({Title=_c(455),Callback=function()_bG(
-_c(220),{Tier=_kv,Skip=true})end})_ku:Button({Title=_c(456),Callback=function()_bG(_c(220),{Tier=_kv,Skip=false})end})local _ky=_gx:Section({Title=_c(457),Box=true,Opened=true})
-local _kz=math.floor((workspace:GetServerTimeNow()%100000)*1000)_ky:Button({Title=_c(458),Icon=_c(262),Callback=function()_kz+=1 _by(_c(221),{reqId=_kz})end,})_bg.AutoRollToggle=
-_ky:Toggle({Title=_c(459),Icon=_c(315),Value=false,Flag=_c(460),Callback=function(_kA)if _bf.Suppress.Settings then return end if _bf.Settings.AutoRoll==_kA then return end _by(
-_c(222),{Key=_c(461),Value=_kA==true})end,})_bg.QuickRollToggle=_ky:Toggle({Title=_c(462),Icon=_c(463),Value=false,Flag=_c(464),Callback=function(_kB)if _bf.Suppress.Settings then
-return end if _bf.Settings.QuickRoll==_kB then return end _by(_c(222),{Key=_c(465),Value=_kB==true})end,})local _kC=_gx:Section({Title=_c(466),Box=true,Opened=true})local _kD=
-_c(330)local _kE=_c(330)_bg.ThresholdStatus=_kC:Paragraph({Title=_c(467),Desc=_c(468)})_kC:Input({Title=_c(469),Desc=_c(470),Value=_c(330),Placeholder=_c(330),Callback=function(_kF
-)_kD=tostring(_kF or_c(330))end,})_kC:Button({Title=_c(471),Callback=function()local _kG=_cd(_kH)if _kG==nil then _bh(_c(472),_c(473),_c(70))return end _by(_c(222),{Key=_c(474),
-Value=_kG})end,})_kC:Input({Title=_c(475),Desc=_c(476),Value=_c(330),Placeholder=_c(330),Callback=function(_kI)_kE=tostring(_kI or_c(330))end,})_kC:Button({Title=_c(477),Callback=
-function()local _kJ=_cd(_kK)if _kJ==nil then _bh(_c(478),_c(473),_c(70))return end _by(_c(222),{Key=_c(479),Value=_kJ})end,})local _kL=_gy:Section({Title=_c(480),Box=true,Opened=
-true})_bg.RewardStatus=_kL:Paragraph({Title=_c(263),Desc=_c(481)})local function _kM()local _kN=_bf.Rewards and _bf.Rewards.Daily or{}local _kO=_bf.Rewards and _bf.Rewards.Playtime
-or{}local _kP=_kO.Claimed or{}local _kQ=0 for _kR=1,7 do if _kP[_kR]==true or _kP[tostring(_kR)]==true then _kQ+=1 end end _bN(_bg.RewardStatus,_kN.CanClaim and_c(482)or_c(483),
-string.format(_c(484),tostring(_kN.Streak or 0),tostring(math.floor(_fS()/60)),_kQ))end _kL:Button({Title=_c(485),Icon=_c(486),Callback=function()_by(_c(165))end})_kL:Button({Title
-=_c(487),Icon=_c(319),Callback=_fU})_kL:Button({Title=_c(488),Icon=_c(489),Callback=function()_by(_c(166))end})_kL:Button({Title=_c(490),Icon=_c(491),Callback=function()_by(_c(167)
-)end})_kL:Button({Title=_c(492),Icon=_c(493),Callback=function()_by(_c(168))end})_kL:Button({Title=_c(494),Icon=_c(258),Callback=function()_by(_c(169))end})_kL:Button({Title=
-_c(495),Icon=_c(496),Callback=function()_by(_c(170))end})_kL:Button({Title=_c(497),Icon=_c(498),Callback=function()task.spawn(_kS)end})local _kT=30 _kL:Slider({Title=_c(499),Step=1
-,Value={Min=10,Max=120,Default=30},Flag=_c(500),Callback=function(_kU)_kT=tonumber(_kV)or 30 end,})_kL:Toggle({Title=_c(501),Icon=_c(315),Value=false,Flag=_c(502),Callback=function
-(_kW)local _kX=_kW==true if _bf.Auto.Claim==_kX then return end _bf.Auto.Claim=_kX _bf.JobToken.Claim+=1 local _kY=_bf.JobToken.Claim if not _kX then return end task.spawn(function
-()while _bf.Alive and _bf.Auto.Claim and _bf.JobToken.Claim==_kY do _bG(_c(174))task.wait(0.25)_gb()task.wait(_kZ)end end)end,})local _la=_gy:Section({Title=_c(503),Box=true,Opened
-=false})local _lb=""_la:Input({Title=_c(504),Value="",Placeholder=_c(505),Callback=function(_lc)_lb=tostring(_lc or"")end,})_la:Button({Title=_c(506),Icon=_c(507),Callback=function
-()local _ld=_lb:match(_c(508))if _ld==""then _bh(_c(503),_c(509),_c(70))return end _by(_c(225),_le)end,})local _lf=_gz:Section({Title=_c(510),Box=true,Opened=true})_bg.RaidStatus=
-_lf:Paragraph({Title=_c(510),Desc=_c(283)})local _lg=_c(328)_lf:Dropdown({Title=_c(511),Values={_c(512),_c(328),_c(513),_c(514)},Value=_c(328),Multi=false,AllowNone=false,Flag=
-_c(515),Callback=function(_lh)_lg=tostring(_li)_by(_c(229),_lj)end,})_lf:Button({Title=_c(516),Icon=_c(517),Callback=function()_by(_c(226))end})_lf:Button({Title=_c(518),Icon=
-_c(519),Callback=function()_by(_c(227))end})_lf:Button({Title=_c(520),Icon=_c(521),Callback=function()_by(_c(228))end})_bg.RaidReplayToggle=_lf:Toggle({Title=_c(522),Value=false,
-Callback=function(_lk)if _bf.Suppress.Auto then return end if _bf.Raid and _bf.Raid.AutoReplay==_lk then return end _by(_c(230))end,})_lf:Toggle({Title=_c(523),Value=false,Flag=
-_c(524),Callback=function(_ll)_bf.Auto.RaidStart=_ll==true end,})local _lm=_gz:Section({Title=_c(525),Box=true,Opened=true})_bg.TrialStatus=_lm:Paragraph({Title=_c(525),Desc=
-_c(283)})_lm:Button({Title=_c(516),Icon=_c(517),Callback=function()_by(_c(232))end})_lm:Button({Title=_c(518),Icon=_c(519),Callback=function()_by(_c(233))end})_lm:Button({Title=
-_c(526),Icon=_c(527),Callback=function()_by(_c(235))end})_lm:Button({Title=_c(520),Icon=_c(521),Callback=function()_by(_c(234))end})_bg.TrialReplayToggle=_lm:Toggle({Title=_c(528),
-Value=false,Callback=function(_ln)if _bf.Suppress.Auto then return end if _bf.Trial and _bf.Trial.AutoReplay==_ln then return end _by(_c(236))end,})_lm:Toggle({Title=_c(523),Value=
-false,Flag=_c(529),Callback=function(_lo)_bf.Auto.TrialStart=_lo==true end,})local _lp=_gz:Section({Title=_c(530),Box=true,Opened=false})local _lq={}local _lr={}if _aZ and type(_aZ
-.GetOrdered)==_c(1)then local _ls,_lt=pcall(_aZ.GetOrdered)if _ls and type(_lt)==_c(137)then for _lu,_lv in ipairs(_lt)do local _lw=(_lv.Def and _lv.Def.DisplayName)or _lv.Id table
-.insert(_lq,_lw)_lr[_lw]=_lv.Id end end end if#_lq==0 then _lq={_c(531)}end local _lx=_lr[_lq[1]]local _ly=_c(328)_lp:Dropdown({Title=_c(532),SearchBarEnabled=true,Values=_lq,Value
-=_lq[1],Multi=false,AllowNone=false,Callback=function(_lz)_lx=_lr[_lz]end,})_lp:Dropdown({Title=_c(511),Values={_c(512),_c(328),_c(513),_c(514)},Value=_c(328),Multi=false,AllowNone
-=false,Callback=function(_lA)_ly=tostring(_lB)end,})_lp:Button({Title=_c(533),Icon=_c(534),Callback=function()if _lx then _by(_c(238),_lC,_lD)end end,})local _lE=_gA:Section({Title
-=_c(404),Box=true,Opened=true})_lE:Toggle({Title=_c(535),Desc=_c(536),Value=false,Callback=function(_lF)_bf.Safety.ProgressSpending=_lF==true end,})local _lG=_gA:Section({Title=
-_c(537),Box=true,Opened=true})_bg.UpgradeInfo=_lG:Paragraph({Title=_c(538),Desc=_c(539)})local _lH={}local _lI={}if _aX and type(_aX.Tracks)==_c(137)then for _lJ,_lK in ipairs(_aX.
-Tracks)do local _lL=_lK.DisplayName or _lK.Key table.insert(_lH,_lL)_lI[_lL]=_lK.Key end end if#_lH==0 then _lH={_c(540),_c(541),_c(542),_c(543),_c(544)}_lI={Luck=_c(540),[_c(541)]
-=_c(545),[_c(542)]=_c(546),[_c(543)]=_c(547),[_c(544)]=_c(548)}end local _lM=_lI[_lH[1]]or_c(540)local function _lN()local _lO=_bf.Upgrades[_lM]or 0 local _lP=_aX and type(_aX.Get)
-==_c(1)and _aX.Get(_lM)or nil local _lQ=_c(549)..tostring(_lO)if _lP then _lQ..=_c(550)..tostring(_lP.Description or"")if type(_aX.Cost)==_c(1)then local _lR,_lS=pcall(_aX.Cost,_lP
-,_lO)if _lR then _lQ..=_c(551).._ca(_lS).._c(552)end end end _bN(_bg.UpgradeInfo,_lP and(_lP.DisplayName or _lM)or _lM,_lQ)end _lG:Dropdown({Title=_c(538),Values=_lH,Value=_lH[1],
-Multi=false,AllowNone=false,Callback=function(_lT)_lM=_lI[_lT]or _lM _lN()end,})_lG:Button({Title=_c(553),Icon=_c(554),Callback=function()if not _bf.Safety.ProgressSpending then
-_bh(_c(538),_c(555),_c(70))return end _by(_c(240),_lU)end,})_lG:Toggle({Title=_c(556),Value=false,Callback=function(_lV)local _lW=_lV==true if _bf.Auto.Upgrade==_lW then return end
-_bf.Auto.Upgrade=_lW _bf.JobToken.Upgrade+=1 local _lX=_bf.JobToken.Upgrade if not _lW then return end if not _bf.Safety.ProgressSpending then _bf.Auto.Upgrade=false _bf.JobToken.
-Upgrade+=1 _bh(_c(538),_c(555),_c(70))return end task.spawn(function()while _bf.Alive and _bf.Auto.Upgrade and _bf.JobToken.Upgrade==_lX do _by(_c(240),_lY)task.wait(1.25)end end)
-end,})local _lZ=_gA:Section({Title=_c(557),Box=true,Opened=false})_bg.TreeInfo=_lZ:Paragraph({Title=_c(558),Desc=_c(481)})local _ma={}local _mb={}if _aY and type(_aY.Nodes)==
-_c(137)then for _mc,_md in ipairs(_aY.Nodes)do if _md.Cost then local _me=string.format(_c(146),_md.Title or _md.Id,_md.Id)table.insert(_ma,_me)_mb[_me]=_md.Id end end end if#_ma==
-0 then _ma={_c(559)}end local _mf=_mb[_ma[1]]local function _mg(_mh)if not _mh or type(_mh.Cost)~=_c(137)then return_c(560)end local _mi={}for _mj,_mk in ipairs(_mh.Cost)do table.
-insert(_mi,_ca(_mk.Amount).._c(561)..tostring(_mk.Currency))end return table.concat(_mi,_c(562))end local function _ml()local _mm=_mf and _aY and type(_aY.Get)==_c(1)and _aY.Get(
-_mf)or nil if not _mm then _bN(_bg.TreeInfo,_c(558),string.format(_c(563),0,_ca(_bf.Tree.Gold),_ca(_bf.Tree.Gems)))return end local _mn=_bf.Tree.Owned[_mf]==true _bN(_bg.TreeInfo,(
-_mm.Title or _mf)..(_mn and_c(564)or""),tostring(_mm.Description or"").._c(565).._mg(_mm).._c(566)..tostring(_mm.Parent or_c(567)))end _lZ:Dropdown({Title=_c(568),SearchBarEnabled=
-true,Values=_ma,Value=_ma[1],Multi=false,AllowNone=false,Callback=function(_mo)_mf=_mb[_mo]_ml()end,})_lZ:Button({Title=_c(569),Icon=_c(570),Callback=function()if not _bf.Safety.
-ProgressSpending then _bh(_c(557),_c(555),_c(70))return end if _mf then _by(_c(242),_mp)end end,})local _mq=_gA:Section({Title=_c(571),Box=true,Opened=false})_bg.RebirthInfo=_mq:
-Paragraph({Title=_c(571),Desc=_c(481)})_bg.RebirthToggle=_mq:Toggle({Title=_c(572),Desc=_c(573),Value=false,Callback=function(_mr)_bf.Safety.Rebirth=_mr==true end,})_mq:Button({
-Title=_c(574),Icon=_c(575),Color=Color3.fromHex(_c(576)),Callback=function()if not _bf.Safety.Rebirth then _bh(_c(571),_c(577),_c(70))return end _by(_c(244))_bf.Safety.Rebirth=
-false _bS(_bg.RebirthToggle,false)end,})local _ms=_gB:Section({Title=_c(578),Box=true,Opened=true})_bg.ItemInfo=_ms:Paragraph({Title=_c(579),Desc=_c(481)})local _mt=1 local _mu=_ms
-:Dropdown({Title=_c(580),SearchBarEnabled=true,Values={_c(128)},Value=_c(128),Multi=false,AllowNone=false,Callback=function(_mv)_bf.SelectedItem=_bg.ItemLabelToId[_mv]local _mw=_bf
-.SelectedItem if _mw then local _mx,_my=_eF(_mz)_bN(_bg.ItemInfo,_mA,_c(581).._ca(_bf.Items[_mz]).._c(582)..tostring(_my and _my.Category or_c(329)))end end,})_fi(_mu)_ms:Slider({
-Title=_c(583),Step=1,Value={Min=1,Max=50,Default=1},Callback=function(_mB)_mt=math.floor(tonumber(_mC)or 1)end,})_ms:Button({Title=_c(584),Icon=_c(585),Callback=function()local _mD
-=_bf.SelectedItem if not _mD then return end local _mE=tonumber(_bf.Items[_mD])or 0 if _mE<=0 then return end _by(_c(246),_mF,math.clamp(_mG,1,_mH))end,})local _mI=_gB:Section({
-Title=_c(586),Box=true,Opened=true})local _mJ={{_c(587),_c(588)},{_c(589),_c(590)},{_c(591),_c(592)},{_c(593),_c(594)},{_c(595),_c(596)},{_c(597),_c(598)},{_c(599),_c(600)},{
-_c(601),_c(602)},{_c(603),_c(604)},{_c(605),_c(606)},{_c(607),_c(608)},{_c(609),_c(610)},}_bg.SettingToggles={}for _mK,_mL in ipairs(_mJ)do local _mM,_mN=_mL[1],_mL[2]_bg.
-SettingToggles[_mM]=_mI:Toggle({Title=_mN,Value=false,Flag=_c(611).._mM,Callback=function(_mO)if _bf.Suppress.Settings then return end _by(_c(222),{Key=_mM,Value=_mO==true})end,})
-end local _mP=_gB:Section({Title=_c(612),Box=true,Opened=false})_bg.ServerLuckInfo=_mP:Paragraph({Title=_c(613),Desc=_c(481)})_mP:Button({Title=_c(614),Icon=_c(615),Callback=
-function()_bG(_c(189))end})_mP:Button({Title=_c(616),Icon=_c(260),Callback=_gj})_mP:Button({Title=_c(617),Icon=_c(618),Callback=_gD})local _mQ=_gB:Section({Title=_c(619),Box=true,
-Opened=false})_bg.BoostInfo=_mQ:Paragraph({Title=_c(620),Desc=_c(481)})_bg.ObbyInfo=_mQ:Paragraph({Title=_c(621),Desc=_c(481)})_bg.LeaderboardInfo=_mQ:Paragraph({Title=_c(622),Desc
-=_c(481)})local function _mR()local _mS={}local _mT=os.time()for _mU,_mV in pairs(_bf.Boosts)do local _mW=tostring(_mU)if _bb and type(_bb.Get)==_c(1)then local _mX,_mY=pcall(_bb.
-Get,_mU)if _mX and _mY then _mW=_mY.DisplayName or _mW end end local _mZ=math.max(0,math.floor((tonumber(_mV)or _mT)-_mT))table.insert(_mS,string.format(_c(623),_mW,math.floor(_mZ/
-60),_mZ%60))end table.sort(_mS)_bN(_bg.BoostInfo,_c(620),#_mS>0 and table.concat(_mS,_c(550))or_c(128))end local function _na()local _nb={}local _nc=os.time()for _nd,_ne in pairs(
-_bf.ObbyCooldowns)do local _nf=math.max(0,math.floor((tonumber(_ne)or _nc)-_nc))table.insert(_nb,string.format(_c(623),tostring(_nd),math.floor(_nf/60),_nf%60))end table.sort(_nb)
-_bN(_bg.ObbyInfo,_c(621),#_nb>0 and table.concat(_nb,_c(550))or_c(15))end _mQ:Button({Title=_c(624),Icon=_c(85),Callback=function()_bG(_c(190))end})_mQ:Button({Title=_c(625),Icon=
-_c(626),Callback=function()_bG(_c(191))end})_mQ:Button({Title=_c(627),Icon=_c(628),Callback=function()_bG(_c(192))end})local _ng=_gB:Section({Title=_c(629),Box=true,Opened=false})
-local _nh pcall(function()_nh=_aw:CreateConfig(_c(630),true)if _nh then _nh:SetAutoLoad(true)end end)_ng:Button({Title=_c(631),Icon=_c(68),Callback=function()if not _nh then _bh(
-_c(632),_c(69),_c(70))return end local _ni,_nj=pcall(function()_nh:SetAutoLoad(true)_nh:Save()end)_bh(_ni and_c(633)or_c(72),_ni and_c(634)or tostring(_nk),_ni and_c(74)or_c(70))
-end,})_ng:Button({Title=_c(635),Icon=_c(76),Callback=function()if not _nh then _bh(_c(632),_c(69),_c(70))return end local _nl,_nm=pcall(function()_nh:Load()end)_bh(_nl and_c(636)or
-_c(78),_nl and_c(637)or tostring(_nn),_nl and_c(74)or_c(70))end,})_bg.UpdateRemoteStatus=_gD _bg.PaintAutoPlay=_gK _bg.PaintUnitInfo=_hp _bg.PaintFuse=_ib _bg.PaintRewards=_kM _bg.
-PaintUpgrade=_lN _bg.PaintTree=_ml _bg.PaintBoosts=_mR _bg.PaintObby=_na _bf.FuseGuids=_ia end _gs()local function _no(_np)if type(_np)~=_c(137)or type(_np.Entries)~=_c(137)then
-return end local _nq=_dF(_np.Entries)_bf.Entries=_np.Entries _bf.InventoryCap=tonumber(_np.Cap)or _bf.InventoryCap _bf.Inventory={}for _nr,_ns in ipairs(_np.Entries)do if _ns.Guid
-then _bf.Inventory[_ns.Guid]=_ns end end if _nq then _eC()end _bg.PaintUnitInfo()if _nq then _bg.PaintFuse()end local _nt=_fm()if _nt then local _nu=type(_nt.Traits)==_c(137)and
-_cy(_nt.Traits[1])or_c(128)local _nv=_nt.StatTiers or{}local _nw=table.concat({tostring(_nt.Guid),_nu,tostring(_nv.Damage or_c(329)),tostring(_nv.Health or_c(329)),tostring(_nv.
-Range or_c(329)),tostring(_nv.CDR or_c(329))},_c(145))if _nw~=_bf.LastRerollInfoStamp then _bf.LastRerollInfoStamp=_nw _bN(_bg.RerollInfo,_cs(_nt),string.format(_c(403),_nu,
-tostring(_nv.Damage or_c(329)),tostring(_nv.Health or_c(329)),tostring(_nv.Range or_c(329)),tostring(_nv.CDR or_c(329))))end end end local _nx local _ny=false _bI(_c(201),function(
-_nz)_nx=_nz if _ny then return end _ny=true task.delay(0.08,function()_ny=false if not _bf.Alive then return end local _nA=_nx _nx=nil _no(_nB)end)end)_bI(_c(202),function(_nC)if
-type(_nD)~=_c(137)then return end _bf.Team=type(_nD.Team)==_c(137)and _nD.Team or{}_bf.TeamSet={}local _nE=type(_nD.Guids)==_c(137)and _nD.Guids or{}for _nG,_nH in ipairs(_nF)do
-_bf.TeamSet[_nH]=true end _bg.PaintUnitInfo()end)local function _nI(_nJ)if type(_nJ)~=_c(137)or type(_nJ.Items)~=_c(137)then return end local _nK=_dX(_nJ.Items)_bf.Items=_nJ.Items
-if _nK then _fb()end local _nL=os.clock()if not _bf.Auto.Trait and not _bf.Auto.Stat or _nL-(_bf.LastCurrencyPaint or 0)>=_bm.CurrencyPaintInterval then _bf.LastCurrencyPaint=_nL
-_bN(_bg.TraitStatus,_c(408),_c(638).._ca(_bf.Items.TraitRerolls or 0))_bN(_bg.StatStatus,_c(438),_c(639).._ca(_bf.Items.StatCrystals or 0).._c(640).._ca(_bf.Items.SuperStatCrystals
-or 0))end end local _nM local _nN=false _bI(_c(203),function(_nO)_nM=_nO if _nN then return end _nN=true task.delay(0.10,function()_nN=false if not _bf.Alive then return end local
-_nP=_nM _nM=nil _nI(_nQ)end)end)_bI(_c(197),function(_nR)if type(_nS)~=_c(137)then return end _bf.AutoPlay=_nS.Enabled==true _bf.AutoPlayLocked=_nS.Locked==true _bg.PaintAutoPlay()
-end)_bI(_c(199),function(_nT)_bf.GameSpeed=tonumber(_nU)or _bf.GameSpeed end)_bI(_c(223),function(_nV)if type(_nW)~=_c(137)then return end _bf.Settings=_nW _bf.Suppress.Settings=
-true _bS(_bg.AutoRollToggle,_nW.AutoRoll==true)_bS(_bg.QuickRollToggle,_nW.QuickRoll==true)for _nX,_nY in pairs(_bg.SettingToggles or{})do if _nW[_nX]~=nil then _bS(_nZ,_nW[_nX]==
-true)end end _bf.Suppress.Settings=false _bN(_bg.ThresholdStatus,_c(467),_c(641).._ca(_nW.AutoMergeThreshold or 0).._c(642).._ca(_nW.CutsceneSkipThreshold or 0))end)_bI(_c(215),
-function(_oa)if type(_ob)~=_c(137)then return end _bf.Fuse.Unlocked=_ob.Unlocked==true _bf.Fuse.ChanceBonus=math.floor((tonumber(_ob.ChanceBonus)or 0)*100+0.5)_bf.Fuse.Insurance=
-_ob.Insurance==true _bf.Fuse.Equipped={}for _oc,_od in ipairs(type(_ob.Equipped)==_c(137)and _ob.Equipped or{})do _bf.Fuse.Equipped[_od]=true end _bg.PaintFuse()end)_bI(_c(216),
-function(_oe)if type(_of)~=_c(137)then return end table.clear(_bf.FuseGuids)if _of.Success then _bh(_c(372),_c(643),_c(74),4)else local _og=math.floor((tonumber(_of.Chance)or 0)*
-100+0.5)_bh(_c(372),string.format(_c(644),_oh,tostring(_of.Consumed or 0)),_c(70),5)end _bG(_c(171))_bG(_c(184))end)_bI(_c(217),function(_oi)if type(_oj)~=_c(137)then return end if
-_oj.Guid and _bf.Inventory[_oj.Guid]then _bf.Inventory[_oj.Guid].Traits={_oj.After}end if not _bf.Auto.Trait or _oj.Guid~=_bf.TraitJob.Guid then _fQ()_bg.PaintUnitInfo()return end
-local _ok=_bf.TraitJob _ok.Pending=false _ok.Count+=1 if _ft(_oj.After,_ol)then _fn(_c(645).._cy(_oj.After).._c(646).._ol.Count.._c(647))elseif _ol.Count>=_ol.Max then _fn(_c(648)
-.._ol.Max.._c(649))else task.delay(_ol.Delay or 0.22,_om)end end)_bI(_c(219),function(_on)if type(_oo)~=_c(137)then return end local _op=_oo.Guid and _bf.Inventory[_oo.Guid]if _op
-then _op.StatTiers=_op.StatTiers or{}if _oo.Mode==_c(119)and type(_oo.After)==_c(137)then _op.StatTiers=_oo.After elseif _oo.Stat and type(_oo.After)==_c(21)then _op.StatTiers[_oo.
-Stat]=_oo.After end end if not _bf.Auto.Stat or _oo.Guid~=_bf.StatJob.Guid then _fQ()_bg.PaintUnitInfo()return end local _oq=_bf.StatJob _oq.Pending=false _oq.Count+=1 if _fG(_or)
-then _fq(_c(650).._oq.Count.._c(647))elseif _oq.Count>=_oq.Max then _fq(_c(648).._oq.Max.._c(649))else task.delay(_oq.Delay or 0.22,_os)end end)_bI(_c(224),function(_ot)if type(_ou
-)~=_c(137)then return end _bf.Rewards=_ou _bf.RewardsAt=os.clock()_bg.PaintRewards()end)_bI(_c(241),function(_ov)if type(_ow)~=_c(137)or type(_ow.Levels)~=_c(137)then return end
-_bf.Upgrades=_ow.Levels _bg.PaintUpgrade()end)_bI(_c(243),function(_ox)if type(_oy)~=_c(137)then return end _bf.Tree={Owned=type(_oy.Owned)==_c(137)and _oy.Owned or{},Gold=tonumber
-(_oy.Gold)or 0,Gems=tonumber(_oy.Gems)or 0,TotalRolls=tonumber(_oy.TotalRolls)or 0,}_bg.PaintTree()end)local _oz=0 _bI(_c(231),function(_oA)_bf.Raid=type(_oB)==_c(137)and _oB or
-nil local _oC=_bf.Raid if not _oC then _bN(_bg.RaidStatus,_c(510),_c(651))return end local _oD=type(_oC.Members)==_c(137)and#_oC.Members or 0 local _oE=_oC.LeaderUserId==_aC.UserId
-_bN(_bg.RaidStatus,_c(652)..tostring(_oC.State or_c(653)),string.format(_c(654),tostring(_oC.Difficulty or_c(653)),_oF,tostring(_oC.PartyMax or 4),_oE and_c(655)or_c(333),_oC.
-AutoReplay and_c(385)or_c(386)))_bf.Suppress.Auto=true _bS(_bg.RaidReplayToggle,_oC.AutoReplay==true)_bf.Suppress.Auto=false if _bf.Auto.RaidStart and _oC.State==_c(656)and _oE and
-os.clock()-_oz>2 then _oz=os.clock()task.delay(0.45,function()if _bf.Auto.RaidStart and _bf.Raid==_oC then _by(_c(227))end end)end end)local _oG=0 _bI(_c(237),function(_oH)_bf.
-Trial=type(_oI)==_c(137)and _oI or nil local _oJ=_bf.Trial if not _oJ then _bN(_bg.TrialStatus,_c(525),_c(651))return end local _oK=type(_oJ.Members)==_c(137)and#_oJ.Members or 0
-local _oL=_oJ.LeaderUserId==_aC.UserId _bN(_bg.TrialStatus,_c(657)..tostring(_oJ.State or_c(653)),string.format(_c(658),_oM,tostring(_oJ.PartyMax or 4),_oL and_c(655)or_c(333),_oJ.
-AutoReplay and_c(385)or_c(386)))_bf.Suppress.Auto=true _bS(_bg.TrialReplayToggle,_oJ.AutoReplay==true)_bf.Suppress.Auto=false if _bf.Auto.TrialStart and _oJ.State==_c(656)and _oL
-and os.clock()-_oG>2 then _oG=os.clock()task.delay(0.45,function()if _bf.Auto.TrialStart and _bf.Trial==_oJ then _by(_c(233))end end)end end)_bI(_c(245),function(_oN)if type(_oO)~=
-_c(137)then return end _bf.Rebirth=_oO local _oP=string.format(_c(659),tostring(_oO.Rebirths or 0),_ca(_oO.Gold or 0),_ca(_oO.Gems or 0),tostring(_oO.StartWorldName or_c(653)),_oO.
-MapEligible and_c(332)or_c(333))_bN(_bg.RebirthInfo,_c(571),_oQ)end)_bI(_c(247),function(_oR)if type(_oS)==_c(137)then _bf.Stats=_oS end end)_bI(_c(239),function(_oT)_bf.Worlds=_oT
-end)_bI(_c(251),function(_oU)table.clear(_bf.Boosts)local _oV=type(_oW)==_c(137)and _oW.Active or nil if type(_oX)==_c(137)then for _oZ,_pa in ipairs(_oY)do if type(_pb)==_c(137)
-and type(_pb.Id)==_c(21)and type(_pb.EndsAt)==_c(143)then _bf.Boosts[_pb.Id]=_pb.EndsAt end end end _bg.PaintBoosts()end)_bI(_c(252),function(_pc)table.clear(_bf.ObbyCooldowns)
-local _pd=type(_pe)==_c(137)and _pe.Cooldowns or nil if type(_pf)==_c(137)then for _ph,_pi in pairs(_pg)do if type(_pj)==_c(21)and type(_pk)==_c(143)then _bf.ObbyCooldowns[_pj]=_pk
-end end end _bg.PaintObby()end)_bI(_c(253),function(_pl)_bf.Leaderboard=type(_pm)==_c(137)and _pm.entries or{}local _pn=type(_bf.Leaderboard)==_c(137)and#_bf.Leaderboard or 0 _bN(
-_bg.LeaderboardInfo,_c(622),string.format(_c(660),_po))end)_bI(_c(248),function(_pp)_bf.ServerLuck=_pp if type(_pq)==_c(137)then local _pr=_pq.Multiplier or _pq.Luck or _pq.Value
-or_c(653)local _ps=_pq.Seconds or _pq.TimeLeft or _pq.Duration _bN(_bg.ServerLuckInfo,_c(613),_c(661)..tostring(_pt)..(_ps and(_c(662)..tostring(_pu).._c(663))or""))else _bN(_bg.
-ServerLuckInfo,_c(613),tostring(_pv))end end)task.defer(function()task.wait(0.8)_bg.UpdateRemoteStatus()_gf()task.wait(0.5)_bg.PaintUnitInfo()_bg.PaintFuse()_bg.PaintRewards()_bg.
-PaintUpgrade()_bg.PaintTree()_bg.PaintBoosts()_bg.PaintObby()_bh(_c(664),_c(665).._ay.._c(89),_c(85),4)end)return _aw end local _pw,_px=xpcall(function()_av(_py)end,debug.traceback
-)if not _pw then warn(_c(666)..tostring(_px))_x:Notify(_c(664),_c(667),_c(70),6)end return _x
+local _n={"dNiPfBCUruJ","fnINgGy","FShF0Oks","DyEpbty5BJ","oA991vGp1tF42CzTQWUS3rHc3WGn4VKhgxMTIYnLAXjq","oj3Z550pZE","-IN3pvR0Oz","6zo5tYljRJ","mmxTJmb2_J","c0FB3-wFVs",
+"8BxW0nq3fz","PNeMPOLEdz","ec6YxNVmvs","1Yj9OoNV-Rzg","2soKtsy","W1v4YWRN","JzW5yenE6LRXYs","ruHV8aWSJl2yCpeivNIUug0VqLFvsXiOb48y9SwkXECe0bsb-u1Hnx1roEI9ieIYXExaq8iPhz",
+"AXeriBxPiiSf","hcZaEbqWLrhOKF_85jiknERatxkiwVyzN82OMqSROk6dx9thmcPJkHML6_iH71pDOfBHtW-CmPzUAMnJv5pv1OsHWvImoJ","o9EE7cVV","IvXtDVMcd9GqZR93ODnkHLq4i3iHEF0","BOWXmtN","_zl62zN",
+"Wx7a","V0FnU8OqSZw-9nu6TPxhEV-6-ezOcThl897Tl-YI7A8gAN5","gfAZ3E3","wSkQipSx3-s","wXZFFSh8","7yEiqMiA","Qw03","tLKf1YELpE","zjk5m13Ebz","_Cmd_CO8zk0","tCO5UGxXUGKy6z",
+"J71887xVsnOdmJ","FHi0saQULs","wqk3Es","oy-oqc9","zRJWIvXNoN-nzw8PDE","QJnGtwnTN2XkpJW1kfE","tWa_Rs","WhHw_E","3GmyVYy","0Si0C-H7Jz","3SBZdi1wCi46VE","xq507dY_Ec5","lyEl5DzKXjE",
+"5IJcZ9_mogJ6QE","NErjtw3","6loHYJ","Sl4symxF_QKk3kcOss","U7wJ8_moVEd6406PTX6aBVNSO8r3sz","PSpsTu0","vBMBCpYlFB4SvqPdB69ZDAy","KMGdx2pWEtk3fcsE5v9A","DcJKKMGDXVGr7D_R1ZWD",
+"oAXSzw54Q4G","pJawtZtibEvM6s--RfO-8OS5KMPSNCTXrJ","_x8aWE","3mCr4COeamnmVaFp8OSvwMGuQYnd3TedGs","Lux2AnTI6kmF","TiYiTiqtrTS0Mz","wpZ5f3fOMNfeKtk9X9sj-W0","7c_Eh3ErxPfUbV5",
+"B9N2Di-sqj9tIR_Hts","1IoFQbXolIWTnLthJE","mzKptz","Rmg9W8n6IQusakQiVarmFdmaIwrTkkuaj2jQyxWU","8GAGSf4P3kKuU-ANrS_","s7A9frwyAagOruiud3N","ip1DTQZ80pMedP0",
+"eUB3vHkRj0DJht9sXoP6NE84czZjM63np4E","qMNKG2ScTFXrB6NQ","DR_o5i3rDoE4ZAPV2E","tZtr1I88G4WiOe9","6Ja24zrq2E_GY8aYafOI","WhK_Wg7YJC8g_Q9","VGwOUK2DSYxIL0H4f3fbhc35OM7kcnZxh5zE",
+"gTT90Oj","HnVMMBTs","gUfJKXSxi0y","B6yBqTDNBVJMbjGZZLbKWC_","ZMklIRDBZgNRQIdiNy_","RJsLNwRs1LG","RlRp4YU7bLbqmWlDc1y","V1OekxJ","YQnR48lZJJ","Hif8saQRsQE",
+"MPMndrpqiheeFt6yCDXOEeg-WG2pPc0wQEAT","POmLCOs","b6JZBtjG7HHdzJelbe7uWmnEguLmrj0a2s","lV3iq2_bj2ymQIRfXeR6cETZCBP","QLtBns","RlUlmEoNYJ","ahxvHxlHm1usHmQt8OSCvb_",
+"gnuyLnTK91w6AuE","fHV0rOHmrz","dUBXwXMejJ","x2YmGU16","79JBXV3X","Z4JY-v-OqRPV1YvB","peg56LnEpJ","JC74mIRzRWJ","_GQiSJlgaf-","AuwzAr7U90OJ","rXFgPrFVfBFITS6p",
+"jtLqeuSGv3k1eSBHu5N","GD1gudpJK33T7Demootv","byX1KVNe5z","QwoizIE2Xv-_pE","nEU5ysjppYoI","J8a3YWlx4W7WakqGLE","3G4P3faYHfHGVG4C0ieZx60qQerJ","Lu2nCfQZsnI4C1LMMdDcbjySply",
+"Tp1vrODM0OnLf3YqKMjX","jqpmvNpB","E6-i","Xyynq50h","1z","2JnItLo5NLNEpWU63s","3s","8_mXcmATShE","P7mgLz46Ln2JrHDr","ipShdBk8g3fdMtP","7tVHKNVpv-ZkE2zF55X","7j0w7E","xdSY5Vj",
+"bDNj-M3","zR5t6IX","pLKTmz0","9zgKSz","0QQtJaKtm0gS_xV8jUp_5gNHNedwYE","dNYuFBkXdE","KbYAeBMkvpV67F9jDz","ZVziXqJ","Iws1Q9-27oyt","OEvsOe7PzjJ","RxdoJea06KdtJQs","_QcMkQ8g6fFs",
+"J7RDAZzwspWGRu0","dS6s872V","j0_","DJ","v5LFSjWCrpjD","Zg331j3JlVEUl4Wx","pzlrpZ6cz4aG6ElN","4QoQW5vdylo4WmG","_hOjamHdaAdJ3h4N","VaWDS_Ax9rvbUa1rdPB6BSX4nEqTRs",
+"0TLdi7L8TrfP0Sp-ddywIvgM","MXkpvPeB3XYXEFMmXyZb1erna1AJVz","xc_sxqfR","qvXZbje3DVElhvnspsrGkf_","lZPR-M0_-IjAlL8B","pENd","1CK6Y8J2","Hk2GcC2j3W27S-AvspeuEFN","Uacyyfu2V7QW",
+"CSxATBwV","jNSNjX0","EPSt","DjynIDyoodyIDgGUZYUbS-w-rp3","QIlCnRzc-DzV1edu1W8AVOG","tz7ZyL7B6R7X2Egk2hQI","Jmd9_8d_mLdaWQmEWnuVLN5TovWit1F9vz","3fAbVxAKcsAx3_OR9ukxKqJozz",
+"L7mHC-m48hCafpMv0Xzs7gPJ","TpphdHpMP-pjiXepdq3FIeG","vUDJKPDNeHk6hUJrD5Ja2E","7MjvXqjrBdhL790i1Alf","5os2ZysQIDs5lAGcNZUJ","14aiOg_LnyJUtAgzRC5","2Jt-4et5yAR1yl8zShQt8BMZuJ",
+"mCI8aKoU_sICmkmDSuZCds","UGxI91xuVxFzVrQUTz","sOTVfaTkC1CtTiDwFB1YDRz","iSVXMTVEda6Md3YNhcN","edYaxXYRKiiJE20GGj5LnlrYVs","uDzxb2zFXXJKqy3tDIK5ymcjcBLOhJ","oRGYz9GpZ6-6Q4Pc2J",
+"-LdjNwd0O97w2elTmK2h9E","ysgtYZgl4e8NyWO0J1AJPz","kxmTHlWAaEHr_fql3nVCvz","c-O1gkOD9QO-V7corSpO","8HDsrrq3f_umCSfbebBOIozU","dPeojBe7MTeewd6tudXnzedTH1AO","EqfchtfmxuLHG6E7oz",
+"B6_Bqc_ebt-TXR5Knw7IYs","IgN_QjNyzVjOZRgs6JvHa7C4","1ZovNJ","RKK4JzKOYIvJ_sOiS0CeiBkt","akcdHCjJkKArHE","97TzAYOq91A2L7KYdBDRhV5mpVWIVnVX7MKv1z","cs","FX1Qvp1qj7D-eU1b7Vs4",
+"vDGChXfJwcYZBF5qDE","X9P55MPGqUXF5yzunIUGJs","ooyaZD_4Io02","pZWu24Wwt5aP6JnyHs","yxd3RWdyYKlU6kwPSJ","HhqsS8xwHxX","cHFlA7TrsGco","0BfFiOfCTGMPFi6lrbJEZz",
+"MNSpwSSZvOLQvb9fu5hV-L_","xcN0ud69GSJCX6ED","qj5loD5b5F-5Dg-g-L3","lIEA-REH15EJOgrG2lbH3z","NzrD6Lrh24dqtK72","YWU3ksUJWL8HaQQem02yFz","Sf47cx4vU8HE3_HW8SFYw2so",
+"A7Qm8-Q2sh2R8THnPdB2B603","rpBePHBiinZFPX6CeDPiI9U7nhQlrs","jUMyEPM-wHB4xdz","KM9MhX_iGt9","XoJNq2-Eoj3ZzJ","1eXkQAzqzAzLOeX9yxwMVH0","tJbzRebX6AoZ2l8VYfQ50rSDus",
+"WhdR_s8pmlgH_lqdA7A9jE","3GCqV1CxcxCDUruGfpfoMq--","LnHSC_HY81mkfTN","TS6GFT6jPa6TjXL-xcz","wbZ_KPY-jUZKGcDV","7DEGh6iSBdEGbDz","5R06Z901I6soIv5SNoRRkkN","1AUPpvUsn9_HOYjUJ8cd",
+"6sRn4ZRoRwthRW8Z31w2TE","mxQCallc_EoJaCaa9rfMdJ","U-uZ9kuBVQxv9G2F0BMXxFJ21JoA","sHF90rF_C_T2fOI-wtSAhyRC68TD","PiYKirSBPO9","ebkHxNk4KBSaxd3dxoPmts","u6-hbc-MXtNxbDyODLKiWh0",
+"ogXJljXNZV5YzRlflEd-U19","nevvNIvrpvKjpL7zOxOwsufKK2X","yK82Yz8Q4ZrtY8dgR0mWTuDnByNWYE","_ftLWmKZHmlS","c_2-Af259mcxLay","fBiCfrqUVHH9fE","dUixPOM5dSE","E2iVhUikxNfRK2yGIvs",
+"BV3dXMyKuU3ID9P","ZvyaQ5yRlM_az97ENJ9","OzoCtZX2tYvC","RW7JWs7OnloZJJOeU19","_kFj3CF0HWdA3koV8TD0","90AtLhAlACADLnm1iNBJ","LBD0TT4ITOIH","d3DGwHZlMi-","EqDJEUDSeqM4ucYczRyH",
+"GckaxbeChUi9d6XxDE","ZvJmlJ","WYnu","YQvyWWz","A_ur31G","g7xYL04ZLs","jpisiTiffQ4VFJ","MU11jJ","B2LSxq-","q5zNXyGM5s","OA-_-z","-z8ZtsvF2Llw4s","3hrSmzUW","H_OGSfOsUfmjV-y",
+"iTqps0QlL0aR0uN","0p6x0z","uqflwNiq","G6sMBcs88X-sXDJ","BgsDq5j75jiQetJ","1wz_-Ijm1oVWnwWXyRTdc7Yded_ohs","2soo6JbM693wDJJS1kPA9BZXxMNEpL8wkb5","ZEWH_CdyWWlrlJ","YeJ",
+"Rk2ksJO2gr4a8OvLj363bgXk69WL8iFnDAaI9uBmZyG","iBYuFOYj_rhMMPI5JjdFvorE4QH_","wt1kK31tVBiNxqxUSogpG4Wtcr68MDj","76G872BS7E","bvJNDD3n","ZLgjnUNI-vae","6lRu4ZJnXEUl4lR9U-0",
+"Vhdg_CvLks","UC9","sGxx","TH2y8rC1","eckpxNHH9z","q9EB","DojRoXPdZj-1Zz","os5","-oNyZWE","6YojSJ","mWK64G3","cBy","FH1vLHIHT7pvvXYbuM0BzJ","qE","G69XbM-Brd9x5oE","Bs","Iz","Os",
+"Rz","as","9z","iX61M3hQSH6uwbf4XDXD","XV0rGUIkhFeSuMJvZdyS6KKc9s","byEbquLHB6_EqR-2QcR0m1IN","zA0HlRLzQRXRKwbiR8Kgg02aScEeZzENcHm5oIRy6X_dpCwHuoU3kFUuAX5R31XHHXls2z",
+"ysdbOY7CXwgG6ERz_LFIsup5","6lR_J87k5eWpYm-","9kxqa1uF","UuumLE83VaFN8HgHsX6H7jyVns9","TrucVrx18-wAdBLQhNPvzvRGWQTI","iULyvk2mFXkQEq-","DqJrxt1L","DcJKEcYcBb5nzv-w-E8Q_-X",
+"QwbC-RN_QE","-JWztq36peWe","_Qo3Y8X","3mCrRWg4_E4xg0Ii8ife","Aa2t8G2ygJIPLO1sSuBNqM9","TBZwrCFITSif","wdSOEhLsFNL5etNi","h64cBc6Uun3MuD3BoAWf6J","5wPnqyPDqpyIZAG_pJn2H-RyH-N",
+"2e7CQE","2lWZtMvE2JRG4Ka3SGl7rp4XGyGtNvINTdN7x8A5iDGAlE","JQAsmWrJ","Yz","Sz",
+"r3HhHptV-3-rS_MJcb5DoAnznwtlPkBH-Z2Mfa1CDCFOcSUlNdfe1kTQKhwilgTJqxMwZwcpy8G6-i0S8UUtlwB3cDFjBkpp6PHAGeKVzA3CTlic9Ak5_cQe-4ufmZSACwLNLuP","Ebpa","G9s","oojN550OFMGNZAz",
+"-ZsLOA8C1b_zNEouJx4jLT_","ysaByJ","Y1qPkCGtylWg_QcZ9nG","8-cn9J","CTHmfOxyCKTIfiiFFtLHXz","eXBXMS9","j269EdOorbf37E","zD5xuijvXF-Gq5zl-E","Zw0OzRzzZXGslAG","tEd8n4nF1cgwpEn2Wmci",
+"6KWIR6a06sRI4Co3HE","c1nV_J","9rulgf2uNxmXAaFJPS1o","MBFA07Ik","PXDndiSwFBN","wqS3Es","GRsDqVsvujX","D4_mzXzely9_-J","1zv0nZ0AhgtKNznZWQAw","4KokJJRn4RrRmCxKOnTnr3fVDN7FJQAmTUkz",
+"kkxh_QykY10VW-wXLs","s7cyA7voA_3","CuVvfT7RATy","iUh7dNMe3TYQjU6J79sZKZ7-H_mLVE","wD1ghrehE2Y_7HpAIJ","o9zhojPhqjBbZoX","IwPy1E","tZgd2enj","6llU4zU2JmP","kGuBHkxr_kxG","gaq6A0E",
+"CBwgilcDiTBi","ddk4jN4efPMXKE","DVfLxchJfcNsb50","DRjXojNxDSZ_DR9Jns8tSE","2INUlo32xI0SOeaD","OKKzNz","Jk73YK74Y5U4HhuitrYCidpHMb_e","3fchSCmK-JcG9GQ-rs",
+"LHb-Cr7qmsQnfukrPUuNug0ctyOegHAQDgn138SHoZHxm2EHk7Q4lmVriJmVBYTWGsF_ds","CPBw_GI9PipKjikRKMGFj6aMmQApTtN","vtBYE3pOM3q5e2GPTFPSNY3narTUcXzlNlI-TOBD-keMxIbc4X34ar9vuGVkQZz",
+"7MPiGFsr8csvrD9Xo4WhDCuEgxf77orxzE","bv96DBNebV9Dz4KfGzRyQGI4k7uYb4aOH7ioiE","14W8QRNLlRSkteRuJgwCAKfFw7NX1Jnc9p4poZJmsbjnNfZxBLqXUE","O5KntJ8vNEt7yjtLH1O2JSDy89EmyC4bTPSx",
+"nx2CZWa_YlUmkZG","y-IZpfwhVhOqg-ONas","9TIa4Gc487qyrQiwwdN8TyJWR8vsCiZyPZ85VuIOzEIjPa_k_nmkOf6qbKQ_BzvJ","T3X","wdYt","hj5h7ud3DwqAh9X-QIreRl9","qIEJ5pA7QEeDXAE3Nz8n",
+"-LrT1gg0QAPx7MouzLsADBGfV3PblzUVg_QyvY59J1hg6-iXbA2xiVyWR7te","NWU26Mns2soqRCv_aE","Shu8Wlg3WE","HruINKIj90Ols0mgrPBqsN_DOYgScO2eh9U7Hac5",
+"ApB8sWCRfKF3rHpKMbCmboliXmIvsNIybA71gikUl5J","rXMBPPiT","EbL_eXSmwbCO7c3doNXVtJAP","79XPXFkLPF3GojXR1Alvo1FKfBV4u5UBW-1rhSUfHn2ZZzHBMjseVP9NkSPFyruA2OSimSXppbWEiovhqCeHW38Ics",
+"Dv-4ogzoM6-nQv9gys72-kFSPdy","4EvsN4-CBE","Nm8tDwdB4WKymWIPSaCnk71Ob5tCRh7qibVwIx2ydTJ9mHM3Qg-","_mmM_CCflKFrS0G","V_HQck4zN1RG87mSdfh5hM_yNy-","fpw9rJ",
+"FthKFXqzSfplaTkaGuVbnFRklKHBHaylxC8CAXNDOQ72Ag5b8kLgn1cRGf3","K2fkE2e9","75NMBMzrr2svoR04-Fl8mm2ZsS1YBs",
+"zv3cQRPyzbz_1ARXD97oS7efdb3fo2a6VOHbqArmLSzvhKmAKtbmi6ohV3jgapDzSiyVcdWE0NG","nJ7xnZzgOs","4m7Q4l5BpJtWmQurVz","W_uE3CuCkhRuOsX","gTT2ALHfL04I","CSeT0uZf0Km2TSBQfrX",
+"MtY-vX2MjPIhgFCRByBb1Yn1_1AA38_kk9ntfq0BuCQSevolgGh-lxe37ZG","xcpAKUZ9EU2JEMJMoIKdZ5_","Xgfe5VPBX6zlFoNynZduaCAq","ej0VQos6lRG4K4br4E9J30A_MUEPGDPYy1M-FFN",
+"pJKjtFRwNLPiyljl_fqZLmh-GF9t2Cdis3P81WxMkFJSy0LODEqqc9bVTMjMsbtGAcKBmE","YmWaWyldJEUt","Shq7HQ2v1W4hS-xY0s","A7IygGu260O_LH6KHtMHGyEV7KnLVi2IqgWlVTBlPJwwrqhtYThA-okeXsHWGYlp",
+"rBfe0z","dbk1ME","xqVAhFZWKF_w","Bg3755XubbMxuR0k-J85W-T_mB6S54-xkGYdGvancQhD-WmnwjXy","QIlf-v9keD-_nAtQ",
+"NsgnNJP0NJGj6zoUSfT-kxOn0XBaTkxLanfh7KtMT6iNREMIIsm59vWyrV87RMrE8qGEVjqC992bXvZd6uymms","YxmCQenQYyguaCIP",
+"_GqBcmAKNkxeU-ukJp6GeOjuZYt-OOTTGyrjk-SKCAl1LP0oX_Vq5WC2sAxZE4v8eom5xZHWPCinGHj6U2gJEzueyX00izVZ4P94b--Z8Lkn_iLT2VuZ-Uax-qwny2kj_wZUf4s","ArQgRxQY8GcJfSiE","TppGPBf0knBwiS9",
+"FtLzjXSqcSBQxcXfbB_uNeg_H0S0juG1NCu-FOX","E9jEuaV-hDPdXys","5RsnD631dD36jg_HnstWQ-w40k30bZrIaOTMbwKBUBS8","ZLaPOv_cnttPN4gBWvKV9HeCMd9OEEnasOSJ5zPkfX37BfShXe7sFyoZgn9",
+"6KoG6s-d-zdqY5RKa1H6CXs","m1KWmxX","U-2uVIgS3h2ItkOSCihn","AHTYCzmGLnIVWrDGdb0C","PPSPFmOzdXhXvXf67s","wFBHEXZOC-QmLl35NPPD2zgJcmvVLJ","xJ","bJ","zJ","pJ","klN","9z","fa4t",
+"i3SEPE","EUkVEdfkgXfVKMG","XM-XBq_E0t3vbos","q40YEvPN59kl5wgF65rbcG2Y","lJoGpcPN-ZbvtzEXkQa0UuhjKJ","RW8YRsKpqEt4oWq8cGCQ0tT-b5vPyhqlitXhXz","__8VSRW1_xIPn8QDsTkfeE","97F5AE",
+"fBTgr8qICTirkOf7jcE","PN1ujhwVdBVQcSSmGj0","K2Lcxnfixqssu6Gx","X9JBbHSJbDPw","DA99l3NEzgzm","NRg0oR3R-jtXyJWekQA7","2xnHJZbp4lP","a-qP_QJaYhFdUE","C0AYss4XgaFWgHq3",
+"rnw3cnFl80Vjiih5dqXdoz","MbSZFXwAjXDz","xVhLhaBoKcpHXMjqIo7F","uo5Q565G5s","oeK81P9EZ4jm1M9roM7G9akidb5xZDvI9T6Ye2XS","-KrI2qJROJ8e25dukf2hfOSzxVj",
+"y1rNW8nt4wGn-4geyEucF-Mfqb6Az4HmdF_zNkv-M9aTSSE0QlALGM0","m_qG3f9cyhHuVZmdsShewz","cTQassw09nIOss","fBVGfHmgfQMEPP1DxcEKIg_h","P2MYwO6uwXDIFbyruyJpOJdO",
+"ED9juUSkG2THKDybztXJyxu0sTBIh9P","Xv9u5y5BbtehKdSRpzGbOka2m-2yoe8nHami7IPxUHYaxE","IZKC14SNXIR0pAae4lGHan1CvJ","O8b1yYKF2Zzvp8dJHE","RhwskWrpWl7o_xHGHnMCPt6V5vai",
+"3GCzH1HfnxCDUruO","LST_A7T2AKlmkz","fBDjiSUU-X5fSuSze2Gz","Ftetedy","7yjeG2fAPHisqNhyP5Rv6kTXAHLbPNjsmeT9e5hcEO_bPgxxTD7GUiS_I8_f5Qs","XgzD59pEx69lzwy","Nwtf1w5Wlw_CneoGRCs",
+"pKd76EjFzEUhRWlR_fcoW7LpxRPL2CIB","4QgmmQsppQrVQW2I9TMdvE","s0Ol9YHi31Ie9a-","gTOy8rtlH7CgTuLPUBpJDg-","jiYjiHAMrShMdXy","M2eOetxDPPLtxcXMbs","o5jKXs","qv_zIjV7GRGy14ZSQJdc_Gm2",
+"lZNgnIYm5I3AOJJG28ABVOpi","JKtNRjlIREdnz8KUHf2N","YkKSkmGytk8U3-IQArSPMz","CGquV1qEUsxGg7C4Ts","gSZ0fWFdCruSrmQWwFMU5A03yE","FOZjLOqaTrhBFPVmjM-nzLt2Jk3","Ecp6hFCzrce9GHMn5j-S2s",
+"bF0TwFfYGNJqo53C1IbGWE","DIGNIo-","Qzdrnz","2KUmyWPG6KrzYIK0tz","_kdL_CdA","0nwD9kAQyhAIgawV","TxkPkWgUkQd3P1IK","ibMOd3qPikDhw3VYfMXZnE8RnE","KcM3EJ","7y5xX65rDDJIZJ","ovJ9-z",
+"nenXOz","RWU24WnOy8nO","SKtLyKnNmWbL3kW9sHhFwt35zZnJ","V7cOAJ","MiY8aHuA","jdSXwX_","q6MaBE","X9zxoVz","Nw9axg9U1z","-ldZ22_kpeg7tlJ","6mg9W9tKmsa3a4C8gEqXiNhkXR9",
+"3lA0RlUR_840c0rAriZXFDEv1e3","LTq69as","CPfvPH6fPTz","7qMle0YXvUMWvcD3","EjsvurYlx60dDs","5Vs7KcLAXq3OI59c5En4aQxWfP_8","-eKr1gptoRlfpE","NzoKt6P9tE8q2JgR","mQULmKj","UkH5cz",
+"Tn2SWrOOsE","f3hrrpFL_rkGP3T5jDPvzAvGWks","wt1_KPkOwaM4xqGxFB9BnJagSaQgjT5n2Cohdbyy4hMi8gb3srsyHi0v2hSS-fCqO0MNOsNwkNj4gF4CvzHw","u5srXFi3hHMJq6yD","oo9z5s","1ep3n4-mQILHpYgKRl4s"
+,"2KX72sbIRE","Os","REWe","AuH3sClQYuv2QPETUpiaqRNvXoqu","0bfQPppT","EUpcwbfnEd0","Fh51nuBNb6GTXE","jMGYzgDJMs","ho9ApAK8pDYV","ylRtYz","lJ2jHmlizJ","cruXcE",
+"AB1FJGqyC72miHVvcS_0bR0","w3pQcSMuT3fejreH7j0n","v2YyebpOg3eVx21fuv-_2ztVVnICeMNVR1v6","h9XGb9TAwV0hP23Yl4RZ",
+"IR_6v5-_j5_NloUx2W5tcGgyAU9EZcRXVuftBIdp2i-w-CW4h4wfWVKxUX36Qaz1aXZa","QEnuNqERp4axpZUZZ8xXATP","tmb3JyrtyJzoWWmeVZH-rNfabyzS6fTQaczZNQIZMDEgluiSZlvtEYCEF5oQTDKDsVtRFtX",
+"afvAahCT_s","3rHO2xHGU_qt8a-","fOH3fH6sCl6TrXihKFIch48d6g4l0fk0M4RH9x9rZl2nM6lx-B3e6ZMpzvijbsoYD8OUI1wht7GxkXjx","F367MPZodkILeFP","qM00EqD6CbZWXE","v2invPeuwz",
+"5I3Sw63nIv5cOwNC2lTsVnnL","nzajteJ","YmnnRldZ5erHJmOe","_0ITSz","9HIy9_K42z","maC9iHF3rpixVkj","iUZpeX1Q","GM6c8XfLK2X","QjG7DDGeX3jZZj93","ZwP9ld0Xzwo8-Y7wYs",
+"OzoENobiOZWI64bnHf_","RmKRYyRi4zUkamn8WGQLME","a0TFHJWgSm4MUxIy8TSvwMG51Z3","97cpAs7g9rxQ8T8V8NL6B50668IjsE","fpY0r7Z0rBQ_sis","FU1lj1LPv36Yg3YDhJ","xMBAhUeaKVPsu5EPuRs",
+"boPDDi-0qMJtIoK8GIR8Js","Q4RTQ4G91ons-Z0UYKbg","tJl1tJdb2Ybo6z3t4fcb8J","YCnmJJdkWlUz_hwMAz","HGqe3wakU147thIy0OVl","gOwyLhmRsrQurTBuF3yf","03fdTQIRPiBeSHSYKM-xIL5",
+"wUkWxuDpEbpwxc3fXy-tn8rmUnG","uM-wbOiBu6XETqGO1Ibd4KHiCTSnus","ooX6zcslIgeAZg7stEra_z","-YvPNdyKne8FGg7qRCwj9upr","6W8nYIRKR88bJz8gS0CR","kCHCHR75WCOi_1aMSHffjF0",
+"cG2ZgWOxckqeg12Srp6p","8OI9rsAF8uCRCiTrTb6gqRy","P3hbjGV8FBwVwPeH7J","EFiHh-OLvdV2sbPhXR-A","Xb3fvbSyhUyi5Rsn1wni","qgJQIv0Ozv-NZ4J","nL7Etw7TxyUKOJ0","RCbt66a068rY4QGkJGcQrJ",
+"3hqiSlAs","VOC1ceoJgkcnCTTaTPiz","COOaCnO6CKqQ0BZbEdGd","K3MhFPs","xqSAxdFQFch6u2-","GM3oXy00rX9u5REanz","IgNN131Lzo-Jlwa76l5","nZt0nAtM-ZbC6L9","QmGzjQFXDjnQWgzg2lCNds","1E",
+"9HuNVZWmgGH6CTG","0PMrClO587Sw","hNLlFXQBjpSnjcs","x6kLKrehEtDkGMyMIR8itz","QvPoD6zo","Iv33zP_0lR_Y14N","1JlKtI9anZ33-w5","YllV4y5AJ8otmCE","m_wEHCaL","cTCRgG252aqIfamV",
+"sSkrTuvmLHijaODCi7Nh54RB4QAqT-PvoEbkg_j","FU6qMh4mvPYoedz","eV50hFiks2XfGDPhos","uRj55M6d76z1MD_boMr2mGF40XDW5bnoH-1dhgsI","IZoC-R5_ZA_Pxz","NEUZ2Y8e5V0","-dcFLjWhmWURaYWC",
+"k-cDU4n2HfHjUlnZ","RfOUCrOog7qpY-LidUMCrE","TN10rT1FPfj","FtipwNBXcNeJArYciXiQ0KOp-mD0vV5WNWIGVaZzRs","7j0FucSHxa9PXSj","eyyIZM9zds","uLn0-IjAhJ",
+"2WllyzKvN6bKJjtSkGlu8PiRhjEUyxRE_z","p49","U1AI3kwuO0FeU_IyCHcEK6Bh","sOA2f78UR74H0uX","ippeTQzAj2m0","Fs",
+"x6yT72YUXDsx5UMXeLi4NKmbCBcWC3RClLprgkRo8KfTqLuvPj0-N-0JbhJB4n4Un7ExYONHynseiz","Zv3m","lYRjnAGA1E","yKRz2sGvdK4B5E","mQITHCg0zvaHpZTZ6RhXb_LpDRteW0mjVT_U7EVTxgjwkT_KNhmXr6u-",
+"cGQhc-uDUGlt2Jc9R7D-h6fmK6RVpvpYQ3G2k7ZlM20JCQ9vJ0iRl9HnuLcZwVoFAZjgje4AFEDptu0N3Vbar9Io4E","AuVC0rOtfKF3rHZFMbfji33U","itMBMSDKPS1wvaH1","APVWKXA3gs","Zz","qIP6Z9pXb55mejJNzJ",
+"ped7njnF1qvh","YE7oJzjcYEdByZuCS_In8i1aEc9qtwP","kftgSQo_lxv3SfHugWZKw7EjZogG-YAqwDP44LFUxgoOVp-iXz"};local _o={};local _q={};do local a=
+"s8Cf0rTiPdFMjvweEKxhG7uBXbqD5oIZzlQ1-nOpNt26yR4YJWmk_aHS3UcV9gAL";for i=1,#a do _q[string.sub(a,i,i)]=i-1 end end;local function _p(i)local v=_o[i];if v~=nil then return v end;
+local s=_n[i];local o={};local p=1;local q=1;while p<=#s do local a=_q[string.sub(s,p,p)]or 0;local b=_q[string.sub(s,p+1,p+1)]or 0;local c=p+2<=#s and _q[string.sub(s,p+2,p+2)]or
+nil;local d=p+3<=#s and _q[string.sub(s,p+3,p+3)]or nil;local x=a*262144+b*4096+(c or 0)*64+(d or 0);local function w(z)local k=(89+q*73+i*29+((q*q)%251))%256;q=q+1;o[#o+1]=string.
+char((z-k)%256)end;w(math.floor(x/65536)%256);if c~=nil then w(math.floor(x/256)%256)end;if d~=nil then w(x%256)end;p=p+4 end;v=table.concat(o);_o[i]=v;return v end;
+pcall(function()local old=getgenv().WaveHubBase if old and type(old.Destroy)==_p(1)then old:Destroy()end end)local BASE_VERSION=_p(2)local WINDUI_VERSION=_p(3)local Brand={Name=_p(
+4),Tagline=_p(5),Accent=Color3.fromHex(_p(6)),Cyan=Color3.fromHex(_p(7)),Background=Color3.fromHex(_p(8)),Surface=Color3.fromHex(_p(9)),Outline=Color3.fromHex(_p(10)),Text=Color3.
+fromHex(_p(11)),Placeholder=Color3.fromHex(_p(12)),Icon=Color3.fromHex(_p(13)),}local ScriptInfo={Title=_p(4),Game=_p(14),Version=_p(2),Status=_p(15),Channel=_p(16),Updated=_p(17),
+}local function loadWindUI()local urls={_p(18)..WINDUI_VERSION.._p(19),_p(20),}local lastError for _,url in ipairs(urls)do local okFetch,source=pcall(game.HttpGet,game,url)if
+okFetch and type(source)==_p(21)and#source>100then local chunk,compileError=loadstring(source)if chunk then local okRun,library=pcall(chunk)if okRun and library then return library
+end lastError=library else lastError=compileError end else lastError=source end end error(_p(22)..tostring(lastError))end local WindUI=loadWindUI()pcall(function()WindUI:
+SetNotificationLower(true)end)pcall(function()WindUI:AddTheme({Name=_p(4),Accent=Brand.Accent,Background=Brand.Background,Outline=Brand.Outline,Text=Brand.Text,Placeholder=Brand.
+Placeholder,Button=Brand.Surface,Icon=Brand.Icon,})WindUI:SetTheme(_p(4))end)local Window=WindUI:CreateWindow({Title=Brand.Name,Author=ScriptInfo.Game.._p(23)..ScriptInfo.Channel,
+Folder=_p(4),Icon=_p(24),NewElements=true,Size=UDim2.fromOffset(720,520),MinSize=Vector2.new(570,410),MaxSize=Vector2.new(960,700),ToggleKey=Enum.KeyCode.RightShift,Transparent=
+false,Theme=_p(4),Resizable=true,SideBarWidth=190,HideSearchBar=false,ScrollBarEnabled=false,User={Enabled=true,Anonymous=false,Callback=function()end,},OpenButton={Title=_p(4),
+Enabled=true,Draggable=true,OnlyMobile=false,Scale=0.52,CornerRadius=UDim.new(1,0),StrokeThickness=1,Color=ColorSequence.new({ColorSequenceKeypoint.new(0,Brand.Accent),
+ColorSequenceKeypoint.new(1,Brand.Cyan),}),},Topbar={Height=44,ButtonsType=_p(25),},})assert(Window,_p(26))pcall(function()WindUI:ToggleAcrylic(false)end)pcall(function()Window:Tag
+({Title=_p(27)..BASE_VERSION,Icon=_p(28),Color=Brand.Accent,Border=true,})end)local WaveHub={BaseVersion=BASE_VERSION,WindUIVersion=WindUI.Version or WINDUI_VERSION,WindUI=WindUI,
+Window=Window,Brand=Brand,Script=ScriptInfo,Pages={},SettingsElements={},_cleanup={},}function WaveHub:Notify(title,content,icon,duration)return WindUI:Notify({Title=title or Brand
+.Name,Content=content or"",Icon=icon or _p(24),Duration=duration or 3,})end function WaveHub:AddTabSection(title)return Window:Section({Title=title or _p(29)})end function WaveHub:
+AddTab(options)options=options or{}return Window:Tab({Title=options.Title or _p(30),Icon=options.Icon or _p(31),Locked=options.Locked==true,})end function WaveHub:CreateConfig(name
+,autoload)if not Window.ConfigManager then return nil end return Window.ConfigManager:CreateConfig(name or _p(32),autoload==true)end function WaveHub:AddCleanup(callback)if type(
+callback)==_p(1)then table.insert(self._cleanup,callback)end end function WaveHub:SetScriptInfo(info)info=info or{}for key,value in pairs(info)do if ScriptInfo[key]~=nil and value
+~=nil then ScriptInfo[key]=value end end if self._scriptInfoParagraph then pcall(function()self._scriptInfoParagraph:SetTitle(ScriptInfo.Game.._p(33)..ScriptInfo.Status)self.
+_scriptInfoParagraph:SetDesc(_p(34)..ScriptInfo.Version.._p(35)..ScriptInfo.Channel.._p(36)..ScriptInfo.Updated)end)end end function WaveHub:Destroy()for i=#self._cleanup,1,-1do
+pcall(self._cleanup[i])end table.clear(self._cleanup)pcall(function()Window:Destroy()end)if getgenv().WaveHubBase==self then getgenv().WaveHubBase=nil end end local Core=Window:
+Section({Title=_p(37)})local Home=Core:Tab({Title=_p(38),Icon=_p(39)})WaveHub.Pages.Home=Home Home:Section({Title=_p(4),TextSize=22,TextTransparency=0,})Home:Paragraph({Title=_p(40
+),Desc=Brand.Tagline,})local CurrentScript=Home:Section({Title=_p(41),Box=true,Opened=true})WaveHub._scriptInfoParagraph=CurrentScript:Paragraph({Title=ScriptInfo.Game.._p(33)..
+ScriptInfo.Status,Desc=_p(34)..ScriptInfo.Version.._p(35)..ScriptInfo.Channel.._p(36)..ScriptInfo.Updated,Color=_p(42),})local CoreInfo=Home:Section({Title=_p(43),Box=true,Opened=
+false})CoreInfo:Paragraph({Title=_p(44)..BASE_VERSION,Desc=_p(45)..tostring(WaveHub.WindUIVersion).._p(46)..tostring(game.PlaceId),})local Settings=Core:Tab({Title=_p(47),Icon=_p(
+48)})WaveHub.Pages.Settings=Settings local Appearance=Settings:Section({Title=_p(49),Box=true,Opened=true})WaveHub.SettingsElements.Theme=Appearance:Dropdown({Title=_p(50),Values={
+_p(4),_p(51)},Value=_p(4),Multi=false,AllowNone=false,Flag=_p(52),Callback=function(value)pcall(function()WindUI:SetTheme(value)end)end,})WaveHub.SettingsElements.Acrylic=
+Appearance:Toggle({Title=_p(53),Icon=_p(54),Value=false,Flag=_p(55),Callback=function(value)pcall(function()WindUI:ToggleAcrylic(value)end)end,})WaveHub.SettingsElements.UIScale=
+Appearance:Slider({Title=_p(56),Step=5,Value={Min=75,Max=125,Default=100},Flag=_p(57),Callback=function(value)pcall(function()Window:SetUIScale(value/100)end)end,})local Behavior=
+Settings:Section({Title=_p(58),Box=true,Opened=true})WaveHub.SettingsElements.NotificationLower=Behavior:Toggle({Title=_p(59),Icon=_p(60),Value=true,Flag=_p(61),Callback=function(
+value)pcall(function()WindUI:SetNotificationLower(value)end)end,})WaveHub.SettingsElements.ToggleKey=Behavior:Keybind({Title=_p(62),Value=_p(63),Flag=_p(64),Callback=function(value
+)pcall(function()local key=Enum.KeyCode[value]if key then Window:SetToggleKey(key)end end)end,})local BaseConfig pcall(function()if Window.ConfigManager then BaseConfig=Window.
+ConfigManager:CreateConfig(_p(65),true)BaseConfig:SetAutoLoad(true)end end)WaveHub.BaseConfig=BaseConfig local Config=Settings:Section({Title=_p(66),Box=true,Opened=false})Config:
+Button({Title=_p(67),Icon=_p(68),Callback=function()if not BaseConfig then WaveHub:Notify(_p(47),_p(69),_p(70))return end local ok,err=pcall(function()BaseConfig:SetAutoLoad(true)
+BaseConfig:Save()end)WaveHub:Notify(ok and _p(71)or _p(72),ok and _p(73)or tostring(err),ok and _p(74)or _p(70))end,})Config:Button({Title=_p(75),Icon=_p(76),Callback=function()if
+not BaseConfig then WaveHub:Notify(_p(47),_p(69),_p(70))return end local ok,err=pcall(function()BaseConfig:Load()end)WaveHub:Notify(ok and _p(77)or _p(78),ok and _p(79)or tostring(
+err),ok and _p(74)or _p(70))end,})local About=Settings:Section({Title=_p(80),Box=true,Opened=false})About:Paragraph({Title=Brand.Name,Desc=Brand.Tagline.._p(81)..BASE_VERSION.._p(
+82)..tostring(WaveHub.WindUIVersion),})About:Button({Title=_p(83),Icon=_p(60),Callback=function()WaveHub:Notify(_p(4),_p(84),_p(85))end,})About:Button({Title=_p(86),Icon=_p(87),
+Color=Color3.fromHex(_p(88)),Callback=function()WaveHub:Destroy()end,})task.defer(function()task.wait(0.5)if BaseConfig and isfile and BaseConfig.Path then local ok,exists=pcall(
+isfile,BaseConfig.Path)if ok and exists then pcall(function()BaseConfig:Load()end)end end end)pcall(function()Home:Select()end)getgenv().WaveHubBase=WaveHub WaveHub:Notify(_p(4),_p
+(44)..BASE_VERSION.._p(89),_p(24),2.5)local function BuildAnimeWarRNG(WaveHub)assert(WaveHub and WaveHub.Window,_p(90))local PLACE_ID=79908803570376local VERSION=_p(91)WaveHub:
+SetScriptInfo({Title=_p(92),Game=_p(93),Version=VERSION,Status=_p(94),Channel=_p(94),Updated=_p(17),})local Players=game:GetService(_p(95))local ReplicatedStorage=game:GetService(
+_p(96))local VirtualUser=game:GetService(_p(97))local LocalPlayer=Players.LocalPlayer local Remotes=ReplicatedStorage:WaitForChild(_p(98),15)local Modules=ReplicatedStorage:
+FindFirstChild(_p(99))local Shared=Modules and Modules:FindFirstChild(_p(100))local Client=Modules and Modules:FindFirstChild(_p(101))local function tryRequire(name)if not Shared
+then return nil end local module=Shared:FindFirstChild(name)if not module or not module:IsA(_p(102))then return nil end local ok,result=pcall(require,module)return ok and result or
+nil end local function tryRequireClient(name)if not Client then return nil end local module=Client:FindFirstChild(name)if not module or not module:IsA(_p(102))then return nil end
+local ok,result=pcall(require,module)return ok and result or nil end local Network=tryRequire(_p(103))local UnitDefs=tryRequire(_p(104))local ItemDefs=tryRequire(_p(105))local
+TraitDefs=tryRequire(_p(106))local StatTierDefs=tryRequire(_p(107))local StatRerollDefs=tryRequire(_p(108))local UpgradeTreeDefs=tryRequire(_p(109))local MapDefs=tryRequire(_p(110)
+)local RewardDefs=tryRequire(_p(111))local BoostDefs=tryRequire(_p(112))local PanelRegistry=tryRequireClient(_p(113))local TraitRerollController=tryRequireClient(_p(114))local
+StatRerollController=tryRequireClient(_p(115))local Runtime={Alive=true,Connections={},LastCall={},Inventory={},Entries={},InventoryCap=0,InventoryListStamp={},InventoryListCount=0
+,ItemListStamp={},ItemListCount=0,Team={},TeamSet={},Items={},Settings={},Rewards=nil,RewardsAt=0,Stats={},Tree={Owned={},Gold=0,Gems=0,TotalRolls=0},TreeAuto={Pending=false,
+SpendGems=false,LastNode=nil,NextCheck=0},Fuse={Unlocked=false,ChanceBonus=0,Insurance=false,Equipped={}},Raid=nil,Trial=nil,Rebirth=nil,Worlds=nil,ServerLuck=nil,Boosts={},
+ObbyCooldowns={},Leaderboard={},AutoPlay=nil,AutoPlayLocked=nil,GameSpeed=1,SelectedGuid=nil,SelectedItem=nil,SelectedGear=nil,Auto={Deploy=false,Claim=false,Trait=false,Stat=false
+,Tree=false,RaidStart=false,TrialStart=false,},Safety={UnitSpending=false,RerollSpending=false,ProgressSpending=false,Destructive=false,Rebirth=false,},Suppress={Settings=false,
+Auto=false,},JobToken={Deploy=0,Claim=0,},TraitJob={Guid=nil,Mode=_p(116),Targets={},MinTier=_p(117),Count=0,Max=100,Delay=0.22,Pending=false,},StatJob={Guid=nil,Mode=_p(118),Stat=
+_p(119),Target=_p(120),Rule=_p(121),Count=0,Max=100,Delay=0.22,Pending=false},}local UI={UnitDropdowns={},UnitMultiDropdowns={},ItemDropdowns={},GearDropdowns={},UnitLabelToGuid={}
+,GuidToUnitLabel={},ItemLabelToId={},GearLabelToId={},UnitValues={},UsableValues={},GearValues={},}local function notify(title,text,icon,duration)WaveHub:Notify(title,text,icon or
+_p(24),duration or 3)end local PERF={RemoteMinInterval=0.065,UnitRefreshDebounce=0.30,ItemRefreshDebounce=0.35,CurrencyPaintInterval=0.75,}local RemoteCache={}local ParagraphCache=
+setmetatable({},{__mode=_p(122)})local ToggleCache=setmetatable({},{__mode=_p(122)})local DropdownCache=setmetatable({},{__mode=_p(122)})local function remote(name,refresh)if not
+Remotes then return nil end if not refresh then local cached=RemoteCache[name]if cached~=nil then return cached or nil end end local target=Remotes:FindFirstChild(name)RemoteCache[
+name]=target or false return target end local function hasRemote(name)return remote(name)~=nil end local function fire(name,...)if not Runtime.Alive then return false,_p(123)end
+local now=os.clock()if now-(Runtime.LastCall[name]or 0)<PERF.RemoteMinInterval then return false,_p(124)end Runtime.LastCall[name]=now local args=table.pack(...)if Network and type
+(Network.FireServer)==_p(1)then local ok=pcall(Network.FireServer,name,table.unpack(args,1,args.n))if ok then return true end end local target=remote(name)if not target or not
+target:IsA(_p(125))then return false,_p(126)end local ok,err=pcall(target.FireServer,target,table.unpack(args,1,args.n))return ok,err end local function fireIfPresent(name,...)if
+hasRemote(name)then return fire(name,...)end return false end local function watch(name,callback)local target=remote(name)if not target or not target:IsA(_p(125))then return false
+end local connection=target.OnClientEvent:Connect(function(...)if Runtime.Alive then callback(...)end end)table.insert(Runtime.Connections,connection)return true end local function
+setParagraph(paragraph,title,desc)if not paragraph then return end local cache=ParagraphCache[paragraph]if not cache then cache={}ParagraphCache[paragraph]=cache end if title~=nil
+and title~=cache.Title then cache.Title=title pcall(paragraph.SetTitle,paragraph,title)end if desc~=nil and desc~=cache.Desc then cache.Desc=desc pcall(paragraph.SetDesc,paragraph,
+desc)end end local function setToggle(toggle,value)if not toggle then return end value=value==true if ToggleCache[toggle]==value then return end ToggleCache[toggle]=value pcall(
+toggle.Set,toggle,value)end local function refreshDropdown(dropdown,values,selected)if not dropdown then return end values=#values>0and values or{_p(127)}local cache=DropdownCache[
+dropdown]if not cache then cache={}DropdownCache[dropdown]=cache end if cache.Values~=values then cache.Values=values cache.Selected=nil pcall(dropdown.Refresh,dropdown,values)end
+if selected and selected~=cache.Selected and table.find(values,selected)then cache.Selected=selected pcall(dropdown.Select,dropdown,selected)end end local function formatNumber(
+value)local n=tonumber(value)or 0if n>=1e12then return string.format(_p(128),n/1e12)elseif n>=1e9then return string.format(_p(129),n/1e9)elseif n>=1e6then return string.format(_p(
+130),n/1e6)elseif n>=1e3then return string.format(_p(131),n/1e3)end return tostring(math.floor(n+0.5))end local function parseThreshold(text)local raw=tostring(text or""):lower():
+gsub(_p(132),"")local numberPart,suffix=raw:match(_p(133))local n=tonumber(numberPart)if not n then return nil end local multipliers={k=1e3,m=1e6,b=1e9,t=1e12,q=1e15,a=1e18}return
+math.clamp(math.floor(n*(multipliers[suffix]or 1)+0.5),0,9e15)end local UnitDefCache={}local UnitNameCache={}local TraitNameCache={}local function unitDef(entry)if not entry or not
+entry.DefId then return nil end local cached=UnitDefCache[entry.DefId]if cached~=nil then return cached or nil end if not UnitDefs or type(UnitDefs.Get)~=_p(1)then UnitDefCache[
+entry.DefId]=false return nil end local ok,def=pcall(UnitDefs.Get,entry.DefId)UnitDefCache[entry.DefId]=ok and def or false return ok and def or nil end local function unitName(
+entry)if not entry then return _p(134)end local id=entry.DefId or _p(134)local cached=UnitNameCache[id]if cached then return cached end local def=unitDef(entry)local name=(def and
+def.DisplayName)or id UnitNameCache[id]=name return name end local function traitName(id)if not id then return _p(127)end local cached=TraitNameCache[id]if cached then return
+cached end local value=tostring(id)if TraitDefs and type(TraitDefs.DisplayName)==_p(1)then local ok,display=pcall(TraitDefs.DisplayName,id)if ok and display then value=display end
+end TraitNameCache[id]=value return value end local TraitTierRank={Rare=1,Epic=2,Legendary=3,Mythic=4}local function traitTier(id)if not id then return nil end if TraitDefs and
+type(TraitDefs.TierOf)==_p(1)then local ok,tier=pcall(TraitDefs.TierOf,id)if ok and tier then return tier end end if TraitDefs and type(TraitDefs.Get)==_p(1)then local ok,def=pcall
+(TraitDefs.Get,id)if ok and def then return def.Tier end end return nil end local function traitChance(id)if TraitDefs and type(TraitDefs.Get)==_p(1)then local ok,def=pcall(
+TraitDefs.Get,id)if ok and def then return tonumber(def.Chance)or 0 end end return 0 end local function closeGamePanels()if not PanelRegistry or type(PanelRegistry.NotifyOpened)~=
+_p(1)then return false end return pcall(PanelRegistry.NotifyOpened,_p(135))end local function closeControllerPanel(controller)local openFor=controller and controller.OpenFor if
+type(openFor)~=_p(1)then return false end local function tryPanel(value)if type(value)~=_p(136)or type(value.SetOpen)~=_p(1)or type(value.IsOpen)~=_p(1)then return false end local
+openOk,isOpen=pcall(value.IsOpen)if openOk and isOpen then local closeOk=pcall(value.SetOpen,false)return closeOk end return false end local allGetter=getupvalues or(debug and
+debug.getupvalues)if type(allGetter)==_p(1)then local ok,values=pcall(allGetter,openFor)if ok and type(values)==_p(136)then for _,value in pairs(values)do if tryPanel(value)then
+return true end end end end local oneGetter=getupvalue or(debug and debug.getupvalue)if type(oneGetter)==_p(1)then for index=1,32do local ok,first,second=pcall(oneGetter,openFor,
+index)if not ok then break end local value=second~=nil and second or first if value==nil then break end if tryPanel(value)then return true end end end return false end local
+hiddenRerollGuis={}local function suppressNativeRerollUI()closeControllerPanel(TraitRerollController)closeControllerPanel(StatRerollController)closeGamePanels()local playerGui=
+LocalPlayer and LocalPlayer:FindFirstChildOfClass(_p(137))if not playerGui then return end for _,name in ipairs({_p(138),_p(139)})do local gui=playerGui:FindFirstChild(name)if gui
+and gui:IsA(_p(140))and gui.Enabled then hiddenRerollGuis[gui]=true gui.Enabled=false end end end local function restoreNativeRerollUI()if Runtime.Auto.Trait or Runtime.Auto.Stat
+then return end for gui in pairs(hiddenRerollGuis)do if gui.Parent then gui.Enabled=true end end table.clear(hiddenRerollGuis)end local function shortGuid(guid)local value=tostring
+(guid or"")return#value>7and value:sub(-7)or value end local function unitLabel(entry,displayName)local mutation=entry.Mutation and(_p(23)..tostring(entry.Mutation))or""return
+string.format(_p(141),displayName or unitName(entry),mutation,shortGuid(entry.Guid))end local function statRank(tier)if not tier then return-1 end if StatTierDefs and type(
+StatTierDefs.Rank)==_p(1)then local ok,rank=pcall(StatTierDefs.Rank,tier)if ok and type(rank)==_p(142)then return rank end end local order={D=1,C=2,B=3,A=4,S=5,SS=6,Z=7,[_p(143)]=8
+,ZZZ=9}return order[tier]or-1 end local function isEquipped(guid)return Runtime.TeamSet[guid]==true end local function unitListChanged(entries)local nextStamp={}local count=0local
+changed=#entries~=Runtime.InventoryListCount for _,entry in ipairs(entries)do local guid=entry.Guid if guid then count+=1local stamp=table.concat({tostring(entry.DefId or""),
+tostring(entry.Mutation or""),},_p(144))nextStamp[guid]=stamp if Runtime.InventoryListStamp[guid]~=stamp then changed=true end end end if count~=Runtime.InventoryListCount then
+changed=true end Runtime.InventoryListStamp=nextStamp Runtime.InventoryListCount=count return changed end local ItemSelectorCache={}local function itemAffectsSelector(id)local
+cached=ItemSelectorCache[id]if cached~=nil then return cached end local selectable=false if ItemDefs and type(ItemDefs.Get)==_p(1)then local ok,def=pcall(ItemDefs.Get,id)if ok and
+def then selectable=def.Usable==true if not selectable and type(ItemDefs.IsGear)==_p(1)then local gearOk,isGear=pcall(ItemDefs.IsGear,def)selectable=gearOk and isGear==true end end
+end ItemSelectorCache[id]=selectable return selectable end local function itemListChanged(items)local nextStamp={}local count=0local changed=false for id,amount in pairs(items)do
+if(tonumber(amount)or 0)>0and itemAffectsSelector(id)then count+=1local stamp=true nextStamp[id]=stamp if Runtime.ItemListStamp[id]~=stamp then changed=true end end end if count~=
+Runtime.ItemListCount then changed=true end Runtime.ItemListStamp=nextStamp Runtime.ItemListCount=count return changed end local function updateUnitLists()local rows={}for _,entry
+in ipairs(Runtime.Entries)do local name=unitName(entry)rows[#rows+1]={Entry=entry,Name=name,Level=tonumber(entry.Level)or 1,Guid=tostring(entry.Guid or""),Label=unitLabel(entry,
+name),}end table.sort(rows,function(a,b)if a.Name==b.Name then if a.Level==b.Level then return a.Guid<b.Guid end return a.Level>b.Level end return a.Name<b.Name end)local values=
+table.create(#rows)UI.UnitLabelToGuid={}UI.GuidToUnitLabel={}for index,row in ipairs(rows)do values[index]=row.Label UI.UnitLabelToGuid[row.Label]=row.Entry.Guid UI.GuidToUnitLabel
+[row.Entry.Guid]=row.Label end UI.UnitValues=values if Runtime.SelectedGuid and not Runtime.Inventory[Runtime.SelectedGuid]then Runtime.SelectedGuid=nil end if not Runtime.
+SelectedGuid and rows[1]then Runtime.SelectedGuid=rows[1].Entry.Guid end local selected=Runtime.SelectedGuid and UI.GuidToUnitLabel[Runtime.SelectedGuid]for _,dropdown in ipairs(UI
+.UnitDropdowns)do refreshDropdown(dropdown,values,selected)end for _,record in ipairs(UI.UnitMultiDropdowns)do local selectedMulti={}if type(record.GetSelected)==_p(1)then local ok
+,guids=pcall(record.GetSelected)if ok and type(guids)==_p(136)then for _,guid in ipairs(guids)do local label=UI.GuidToUnitLabel[guid]if label then selectedMulti[#selectedMulti+1]=
+label end end end end refreshDropdown(record.Control,values,nil)if#selectedMulti>0then pcall(function()record.Control:Select(selectedMulti)end)end end end local unitRefreshQueued=
+false local function queueUnitListRefresh()if unitRefreshQueued then return end unitRefreshQueued=true task.delay(PERF.UnitRefreshDebounce,function()unitRefreshQueued=false if
+Runtime.Alive then updateUnitLists()end end)end local ItemDefCache={}local ItemNameCache={}local function itemDisplay(id)local cached=ItemDefCache[id]if cached~=nil then return
+ItemNameCache[id]or id,cached or nil end local def if ItemDefs and type(ItemDefs.Get)==_p(1)then local ok,value=pcall(ItemDefs.Get,id)if ok then def=value end end ItemDefCache[id]=
+def or false ItemNameCache[id]=(def and def.DisplayName)or id return ItemNameCache[id],def end local function updateItemLists()local usable={}local gear={}UI.ItemLabelToId={}UI.
+GearLabelToId={}for id,count in pairs(Runtime.Items)do if(tonumber(count)or 0)>0then local name,def=itemDisplay(id)local label=string.format(_p(145),tostring(name),tostring(id))if
+def and def.Usable then table.insert(usable,label)UI.ItemLabelToId[label]=id end local isGear=false if def and ItemDefs and type(ItemDefs.IsGear)==_p(1)then local ok,result=pcall(
+ItemDefs.IsGear,def)isGear=ok and result==true end if isGear then table.insert(gear,label)UI.GearLabelToId[label]=id end end end table.sort(usable)table.sort(gear)UI.UsableValues=
+usable UI.GearValues=gear for _,dropdown in ipairs(UI.ItemDropdowns)do refreshDropdown(dropdown,usable,nil)end for _,dropdown in ipairs(UI.GearDropdowns)do refreshDropdown(dropdown
+,gear,nil)end end local itemRefreshQueued=false local function queueItemListRefresh()if itemRefreshQueued then return end itemRefreshQueued=true task.delay(PERF.ItemRefreshDebounce
+,function()itemRefreshQueued=false if Runtime.Alive then updateItemLists()end end)end local function registerUnitDropdown(dropdown)table.insert(UI.UnitDropdowns,dropdown)if#UI.
+UnitValues>0then local selected=Runtime.SelectedGuid and UI.GuidToUnitLabel[Runtime.SelectedGuid]refreshDropdown(dropdown,UI.UnitValues,selected)end end local function
+registerUnitMultiDropdown(dropdown,getSelected)table.insert(UI.UnitMultiDropdowns,{Control=dropdown,GetSelected=getSelected,})if#UI.UnitValues>0then refreshDropdown(dropdown,UI.
+UnitValues,nil)end end local function registerItemDropdown(dropdown)table.insert(UI.ItemDropdowns,dropdown)if#UI.UsableValues>0then refreshDropdown(dropdown,UI.UsableValues,nil)end
+end local function registerGearDropdown(dropdown)table.insert(UI.GearDropdowns,dropdown)if#UI.GearValues>0then refreshDropdown(dropdown,UI.GearValues,nil)end end local function
+selectedEntry()return Runtime.SelectedGuid and Runtime.Inventory[Runtime.SelectedGuid]or nil end local function stopTrait(reason)local hadRolls=(Runtime.TraitJob.Count or 0)>0
+Runtime.Auto.Trait=false Runtime.TraitJob.Pending=false Runtime.TraitJob.Guid=nil if UI.TraitAutoToggle then Runtime.Suppress.Auto=true setToggle(UI.TraitAutoToggle,false)Runtime.
+Suppress.Auto=false end restoreNativeRerollUI()if hadRolls then task.defer(function()if Runtime.Alive then fireIfPresent(_p(146))end end)end if reason then notify(_p(147),reason,_p
+(74),4)end end local function stopStat(reason)local hadRolls=(Runtime.StatJob.Count or 0)>0Runtime.Auto.Stat=false Runtime.StatJob.Pending=false Runtime.StatJob.Guid=nil if UI.
+StatAutoToggle then Runtime.Suppress.Auto=true setToggle(UI.StatAutoToggle,false)Runtime.Suppress.Auto=false end restoreNativeRerollUI()if hadRolls then task.defer(function()if
+Runtime.Alive then fireIfPresent(_p(146))end end)end if reason then notify(_p(148),reason,_p(74),4)end end local function traitResultReached(traitId,job)job=job or Runtime.TraitJob
+if not traitId then return false end if job.Mode==_p(149)then return(TraitTierRank[traitTier(traitId)]or-1)>=(TraitTierRank[job.MinTier]or math.huge)end return type(job.Targets)==
+_p(136)and job.Targets[traitId]==true end local function requestTraitRoll()local job=Runtime.TraitJob if not Runtime.Auto.Trait or not job.Guid or job.Pending then return end if(
+Runtime.Items.TraitRerolls or 0)<=0then stopTrait(_p(150))return end job.Pending=true Runtime.Items.TraitRerolls=math.max((Runtime.Items.TraitRerolls or 0)-1,0)local ok=fire(_p(151
+),{Guid=job.Guid})if not ok then job.Pending=false Runtime.Items.TraitRerolls=(Runtime.Items.TraitRerolls or 0)+1stopTrait(_p(152))end end local function statCostItem(mode)if
+StatRerollDefs and StatRerollDefs.COSTS and StatRerollDefs.COSTS[mode]then return StatRerollDefs.COSTS[mode].Item,StatRerollDefs.COSTS[mode].Amount or 1 end return mode==_p(153)and
+_p(154)or _p(155),1 end local function requestStatRoll()local job=Runtime.StatJob if not Runtime.Auto.Stat or not job.Guid or job.Pending then return end local item,amount=
+statCostItem(job.Mode)if(Runtime.Items[item]or 0)<amount then stopStat(_p(156)..item.._p(157))return end job.Pending=true Runtime.Items[item]=math.max((Runtime.Items[item]or 0)-
+amount,0)local ok=fire(_p(158),{Guid=job.Guid,Mode=job.Mode,Stat=job.Mode==_p(153)and job.Stat or nil})if not ok then job.Pending=false Runtime.Items[item]=(Runtime.Items[item]or 0
+)+amount stopStat(_p(152))end end local function statResultReached(payload)local job=Runtime.StatJob local target=statRank(job.Target)local after=type(payload)==_p(136)and payload.
+After or nil local entry=Runtime.Inventory[job.Guid]local tiers=entry and entry.StatTiers or{}if type(after)==_p(136)then tiers=after elseif type(after)==_p(21)and job.Mode==_p(153
+)then tiers=table.clone(tiers or{})tiers[job.Stat]=after end if job.Mode==_p(118)and job.Rule==_p(159)then for _,stat in ipairs({_p(119),_p(160),_p(161),_p(162)})do if statRank(
+tiers and tiers[stat])<target then return false end end return true end return statRank(tiers and tiers[job.Stat])>=target end local rerollSyncGeneration=0local function
+queueRerollCurrencySync()rerollSyncGeneration+=1local generation=rerollSyncGeneration task.delay(1.25,function()if Runtime.Alive and generation==rerollSyncGeneration and not
+Runtime.Auto.Trait and not Runtime.Auto.Stat then fireIfPresent(_p(146))end end)end local function rewardPlaytimeSeconds()local playtime=Runtime.Rewards and Runtime.Rewards.
+Playtime if not playtime then return 0 end return(tonumber(playtime.Seconds)or 0)+math.max(0,os.clock()-Runtime.RewardsAt)end local function claimAvailablePlaytime()if not Runtime.
+Rewards or not RewardDefs or type(RewardDefs.Playtime)~=_p(136)then return end local playtime=Runtime.Rewards.Playtime or{}local claimed=playtime.Claimed or{}local seconds=
+rewardPlaytimeSeconds()for index,def in ipairs(RewardDefs.Playtime)do local isClaimed=claimed[index]==true or claimed[tostring(index)]==true if not isClaimed and(tonumber(def.
+Minutes)or math.huge)*60<=seconds then fireIfPresent(_p(163),index)task.wait(0.09)end end end local function claimBundle()local daily=Runtime.Rewards and Runtime.Rewards.Daily if
+daily and daily.CanClaim==true then fireIfPresent(_p(164))task.wait(0.09)end claimAvailablePlaytime()for _,name in ipairs({_p(165),_p(166),_p(167),_p(168),_p(169),})do if not
+Runtime.Alive then break end fireIfPresent(name)task.wait(0.09)end end local function requestCoreSync()task.spawn(function()for _,name in ipairs({_p(170),_p(171),_p(146),_p(172),_p
+(173),_p(174),_p(175),})do if not Runtime.Alive then break end fireIfPresent(name)task.wait(0.09)end end)end local function requestFullSync()task.spawn(function()local names={_p(
+170),_p(171),_p(146),_p(172),_p(173),_p(176),_p(177),_p(178),_p(179),_p(180),_p(174),_p(175),_p(181),_p(182),_p(183),_p(184),_p(185),_p(186),_p(187),_p(188),_p(189),_p(190),}for _,
+name in ipairs(names)do if not Runtime.Alive then break end fireIfPresent(name)task.wait(0.08)end end)end local function treeParentUnlocked(node)if not node or not node.Parent then
+return true end if Runtime.Tree.Owned[node.Parent]==true then return true end if UpgradeTreeDefs and type(UpgradeTreeDefs.IsTabRoot)==_p(1)then local ok,isRoot=pcall(
+UpgradeTreeDefs.IsTabRoot,node.Parent)return ok and isRoot==true end return false end local function treeNodeAffordable(node)if not node or not node.Id or node.Hidden or Runtime.
+Tree.Owned[node.Id]==true then return false end if type(node.Cost)~=_p(136)or#node.Cost==0then return false end if UpgradeTreeDefs and type(UpgradeTreeDefs.IsTabRoot)==_p(1)then
+local ok,isRoot=pcall(UpgradeTreeDefs.IsTabRoot,node.Id)if ok and isRoot then return false end end if not treeParentUnlocked(node)then return false end if UpgradeTreeDefs and type(
+UpgradeTreeDefs.IsReachable)==_p(1)then local ok,reachable=pcall(UpgradeTreeDefs.IsReachable,node)if ok and not reachable then return false end end for _,cost in ipairs(node.Cost
+or{})do if cost.Currency==_p(191)and not Runtime.TreeAuto.SpendGems then return false end end if UpgradeTreeDefs and type(UpgradeTreeDefs.Shortfalls)==_p(1)then local ok,shortfalls
+=pcall(UpgradeTreeDefs.Shortfalls,node,{Gold=Runtime.Tree.Gold,Gems=Runtime.Tree.Gems,TotalRolls=Runtime.Tree.TotalRolls,})if ok then return type(shortfalls)==_p(136)and#shortfalls
+==0 end end for _,cost in ipairs(node.Cost or{})do if cost.Currency and(tonumber(Runtime.Tree[cost.Currency])or 0)<(tonumber(cost.Amount)or 0)then return false elseif cost.
+Requirement and(tonumber(Runtime.Tree[cost.Requirement])or 0)<(tonumber(cost.Amount)or 0)then return false end end return true end local function nextAffordableTreeNode()if not
+UpgradeTreeDefs or type(UpgradeTreeDefs.Nodes)~=_p(136)then return nil end for _,node in ipairs(UpgradeTreeDefs.Nodes)do if treeNodeAffordable(node)then return node end end return
+nil end local function tryAutoTreePurchase(force)if not Runtime.Alive or not Runtime.Auto.Tree or Runtime.TreeAuto.Pending then return end local now=os.clock()if not force and now<
+Runtime.TreeAuto.NextCheck then return end Runtime.TreeAuto.NextCheck=now+0.35if not Runtime.Safety.ProgressSpending then Runtime.Auto.Tree=false if UI.TreeAutoToggle then Runtime.
+Suppress.Auto=true setToggle(UI.TreeAutoToggle,false)Runtime.Suppress.Auto=false end return end local node=nextAffordableTreeNode()if not node then return end Runtime.TreeAuto.
+Pending=true Runtime.TreeAuto.LastNode=node.Id local sent=fire(_p(192),node.Id)if not sent then Runtime.TreeAuto.Pending=false return end task.delay(1.5,function()if Runtime.Alive
+and Runtime.Auto.Tree and Runtime.TreeAuto.Pending and Runtime.TreeAuto.LastNode==node.Id then Runtime.TreeAuto.Pending=false fireIfPresent(_p(174))end end)end WaveHub:AddCleanup(
+function()Runtime.Alive=false Runtime.Auto.Trait=false Runtime.Auto.Stat=false Runtime.Auto.Deploy=false Runtime.Auto.Claim=false Runtime.Auto.Tree=false Runtime.TreeAuto.Pending=
+false Runtime.JobToken.Deploy+=1Runtime.JobToken.Claim+=1restoreNativeRerollUI()for _,connection in ipairs(Runtime.Connections)do pcall(function()connection:Disconnect()end)end
+table.clear(Runtime.Connections)end)if game.PlaceId~=PLACE_ID then notify(_p(193),_p(194)..PLACE_ID.._p(195),_p(70),6)end local KnownRemotes={_p(196),_p(197),_p(198),_p(199),_p(200
+),_p(170),_p(201),_p(171),_p(202),_p(146),_p(203),_p(204),_p(205),_p(206),_p(207),_p(208),_p(209),_p(210),_p(211),_p(212),_p(213),_p(214),_p(182),_p(215),_p(216),_p(151),_p(217),_p
+(183),_p(184),_p(218),_p(158),_p(219),_p(185),_p(220),_p(221),_p(222),_p(172),_p(223),_p(173),_p(224),_p(164),_p(163),_p(165),_p(177),_p(166),_p(167),_p(168),_p(169),_p(225),_p(226
+),_p(227),_p(228),_p(229),_p(230),_p(231),_p(232),_p(233),_p(234),_p(235),_p(236),_p(237),_p(238),_p(181),_p(239),_p(192),_p(174),_p(240),_p(241),_p(186),_p(242),_p(243),_p(175),_p
+(244),_p(187),_p(245),_p(246),_p(247),_p(188),_p(248),_p(189),_p(249),_p(190),_p(250),}local function buildGameUI()local Section=WaveHub:AddTabSection(_p(251))local Main=Section:
+Tab({Title=_p(252),Icon=_p(253)})local Units=Section:Tab({Title=_p(254),Icon=_p(255)})local Rerolls=Section:Tab({Title=_p(256),Icon=_p(257)})local Roll=Section:Tab({Title=_p(258),
+Icon=_p(259)})local Rewards=Section:Tab({Title=_p(260),Icon=_p(261)})local Activities=Section:Tab({Title=_p(262),Icon=_p(263)})local Progression=Section:Tab({Title=_p(264),Icon=_p(
+265)})local Misc=Section:Tab({Title=_p(266),Icon=_p(267)})local Link=Main:Section({Title=_p(268),Box=true,Opened=true})UI.RemoteStatus=Link:Paragraph({Title=_p(269),Desc=_p(270),
+Color=_p(42)})local function updateRemoteStatus()local found=0local missing={}for _,name in ipairs(KnownRemotes)do remote(name,true)if hasRemote(name)then found+=1 else table.
+insert(missing,name)end end local desc=string.format(_p(271),found,#KnownRemotes,tostring(game.PlaceId))if#missing>0then desc..=_p(272)..table.concat(missing,_p(273))else desc..=_p
+(274)end setParagraph(UI.RemoteStatus,found==#KnownRemotes and _p(275)or _p(276),desc)end Link:Button({Title=_p(277),Icon=_p(257),Callback=updateRemoteStatus})local Combat=Main:
+Section({Title=_p(278),Box=true,Opened=true})UI.AutoPlayStatus=Combat:Paragraph({Title=_p(279),Desc=_p(280)})local function paintAutoPlay()local state=Runtime.AutoPlay==nil and _p(
+281)or(Runtime.AutoPlay and _p(282)or _p(283))if Runtime.AutoPlayLocked then state=_p(284)end setParagraph(UI.AutoPlayStatus,_p(279),_p(285)..state)if UI.AutoPlayToggle and Runtime
+.AutoPlay~=nil then Runtime.Suppress.Auto=true setToggle(UI.AutoPlayToggle,Runtime.AutoPlay)Runtime.Suppress.Auto=false end end UI.AutoPlayToggle=Combat:Toggle({Title=_p(279),Icon=
+_p(286),Value=false,Callback=function(value)if Runtime.Suppress.Auto then return end if Runtime.AutoPlay==value then return end fire(_p(196))end,})Combat:Dropdown({Title=_p(287),
+Values={_p(288),_p(289),_p(290),_p(291),_p(292)},Value=_p(288),Multi=false,AllowNone=false,Flag=_p(293),Callback=function(value)local speed=tonumber(tostring(value):gsub(_p(294),""
+))if speed then fire(_p(198),speed)end end,})local deploySlot=1Combat:Dropdown({Title=_p(295),Values={_p(296),_p(297),_p(298),_p(299),_p(300),_p(301)},Value=_p(296),Multi=false,
+AllowNone=false,Callback=function(value)deploySlot=tonumber(value)or 1 end,})Combat:Button({Title=_p(302),Icon=_p(303),Callback=function()fire(_p(200),deploySlot)end,})Combat:
+Button({Title=_p(304),Desc=_p(305),Icon=_p(306),Callback=function()fireIfPresent(_p(247),deploySlot)end,})Combat:Button({Title=_p(307),Icon=_p(308),Callback=function()task.spawn(
+function()for slot=1,6do fire(_p(200),slot)task.wait(0.12)end end)end,})local deployInterval=2Combat:Slider({Title=_p(309),Step=0.5,Value={Min=1,Max=10,Default=2},Flag=_p(310),
+Callback=function(value)deployInterval=tonumber(value)or 2 end,})Combat:Toggle({Title=_p(311),Icon=_p(312),Value=false,Flag=_p(313),Callback=function(value)local enabled=value==
+true if Runtime.Auto.Deploy==enabled then return end Runtime.Auto.Deploy=enabled Runtime.JobToken.Deploy+=1local token=Runtime.JobToken.Deploy if not enabled then return end task.
+spawn(function()for slot=1,6do if not Runtime.Alive or not Runtime.Auto.Deploy or Runtime.JobToken.Deploy~=token then return end fire(_p(200),slot)task.wait(0.11)end local slot=1
+while Runtime.Alive and Runtime.Auto.Deploy and Runtime.JobToken.Deploy==token do task.wait(math.max(deployInterval,1))if not Runtime.Alive or not Runtime.Auto.Deploy or Runtime.
+JobToken.Deploy~=token then break end fire(_p(200),slot)slot=slot%6+1 end end)end,})local Session=Main:Section({Title=_p(314),Box=true,Opened=false})local antiIdle=false Session:
+Toggle({Title=_p(315),Icon=_p(316),Value=false,Flag=_p(317),Callback=function(value)antiIdle=value==true end,})local idleConnection=LocalPlayer.Idled:Connect(function()if not
+Runtime.Alive or not antiIdle then return end pcall(function()VirtualUser:Button2Down(Vector2.new(0,0),workspace.CurrentCamera.CFrame)task.wait(0.2)VirtualUser:Button2Up(Vector2.
+new(0,0),workspace.CurrentCamera.CFrame)end)end)table.insert(Runtime.Connections,idleConnection)Session:Button({Title=_p(318),Icon=_p(257),Callback=requestFullSync})Session:Button(
+{Title=_p(319),Icon=_p(39),Callback=function()fire(_p(246))end})local UnitSelection=Units:Section({Title=_p(320),Box=true,Opened=true})UI.UnitInfo=UnitSelection:Paragraph({Title=_p
+(321),Desc=_p(322)})local lastUnitPaintStamp local function paintUnitInfo(force)local entry=selectedEntry()if not entry then if force or lastUnitPaintStamp~=_p(323)then
+lastUnitPaintStamp=_p(323)setParagraph(UI.UnitInfo,_p(321),_p(324))end return end local trait=type(entry.Traits)==_p(136)and traitName(entry.Traits[1])or _p(127)local tiers=entry.
+StatTiers or{}local equipped=isEquipped(entry.Guid)local stamp=table.concat({tostring(entry.Guid),tostring(entry.Level or 1),tostring(entry.Mutation or _p(325)),trait,tostring(
+tiers.Damage or _p(326)),tostring(tiers.Health or _p(326)),tostring(tiers.Range or _p(326)),tostring(tiers.CDR or _p(326)),entry.Locked and _p(296)or _p(327),equipped and _p(296)or
+_p(327)},_p(144))if not force and stamp==lastUnitPaintStamp then return end lastUnitPaintStamp=stamp local desc=string.format(_p(328),tostring(entry.Level or 1),tostring(entry.
+Mutation or _p(325)),trait,tostring(tiers.Damage or _p(326)),tostring(tiers.Health or _p(326)),tostring(tiers.Range or _p(326)),tostring(tiers.CDR or _p(326)),entry.Locked and _p(
+329)or _p(330),equipped and _p(329)or _p(330),tostring(entry.Guid))setParagraph(UI.UnitInfo,unitName(entry),desc)end local unitDropdown=UnitSelection:Dropdown({Title=_p(331),
+SearchBarEnabled=true,Values={_p(127)},Value=_p(127),Multi=false,AllowNone=false,Callback=function(value)local guid=UI.UnitLabelToGuid[value]if guid then Runtime.SelectedGuid=guid
+paintUnitInfo()end end,})registerUnitDropdown(unitDropdown)UnitSelection:Button({Title=_p(332),Icon=_p(257),Callback=function()fire(_p(170))end})local Team=Units:Section({Title=_p(
+333),Box=true,Opened=true})Team:Button({Title=_p(334),Icon=_p(335),Callback=function()local entry=selectedEntry()if entry then fire(_p(206),entry.Guid)end end,})Team:Button({Title=
+_p(336),Icon=_p(337),Callback=function()local entry=selectedEntry()if entry then fire(_p(207),entry.DefId)end end,})Team:Button({Title=_p(338),Icon=_p(339),Callback=function()fire(
+_p(204))end})Team:Button({Title=_p(340),Icon=_p(341),Callback=function()fire(_p(205))end})Team:Button({Title=_p(342),Icon=_p(343),Callback=function()local entry=selectedEntry()if
+entry then fire(_p(208),entry.Guid,true)end end,})Team:Button({Title=_p(344),Icon=_p(345),Callback=function()local entry=selectedEntry()if entry then fire(_p(208),entry.Guid,false)
+end end,})local Leveling=Units:Section({Title=_p(346),Box=true,Opened=false})local levelCurrency=_p(347)local levelSteps=10Leveling:Dropdown({Title=_p(348),Values={_p(347),_p(191)}
+,Value=_p(347),Multi=false,AllowNone=false,Callback=function(value)levelCurrency=tostring(value)end,})Leveling:Slider({Title=_p(349),Step=1,Value={Min=1,Max=100,Default=10},
+Callback=function(value)levelSteps=math.floor(tonumber(value)or 10)end,})Leveling:Toggle({Title=_p(350),Desc=_p(351),Value=false,Callback=function(value)Runtime.Safety.UnitSpending
+=value==true end,})Leveling:Button({Title=_p(352),Icon=_p(353),Callback=function()local entry=selectedEntry()if not Runtime.Safety.UnitSpending then notify(_p(354),_p(355),_p(70))
+return end if entry then fire(_p(212),{Guid=entry.Guid,Currency=levelCurrency})end end,})Leveling:Button({Title=_p(356),Icon=_p(357),Callback=function()local entry=selectedEntry()
+if not Runtime.Safety.UnitSpending then notify(_p(354),_p(355),_p(70))return end if entry then fire(_p(213),{Guid=entry.Guid,Currency=levelCurrency,Steps=levelSteps})end end,})
+local Gear=Units:Section({Title=_p(358),Box=true,Opened=false})local gearCategory=_p(359)Gear:Dropdown({Title=_p(360),Values={_p(359),_p(361),_p(362)},Value=_p(359),Multi=false,
+AllowNone=false,Callback=function(value)gearCategory=tostring(value)end,})local gearDropdown=Gear:Dropdown({Title=_p(363),SearchBarEnabled=true,Values={_p(127)},Value=_p(127),Multi
+=false,AllowNone=false,Callback=function(value)Runtime.SelectedGear=UI.GearLabelToId[value]end,})registerGearDropdown(gearDropdown)Gear:Button({Title=_p(364),Icon=_p(365),Callback=
+function()local entry=selectedEntry()if entry and Runtime.SelectedGear then fire(_p(210),entry.Guid,gearCategory,Runtime.SelectedGear)end end,})Gear:Button({Title=_p(366),Icon=_p(
+367),Callback=function()local entry=selectedEntry()if entry then fire(_p(211),entry.Guid,gearCategory)end end,})local Fuse=Units:Section({Title=_p(368),Box=true,Opened=false})UI.
+FuseInfo=Fuse:Paragraph({Title=_p(368),Desc=_p(369)})local fuseGuids={}local paintFuse local fuseDropdown=Fuse:Dropdown({Title=_p(370),SearchBarEnabled=true,Desc=_p(371),Values={_p
+(127)},Value={},Multi=true,AllowNone=true,Callback=function(value)table.clear(fuseGuids)if type(value)~=_p(136)then return end for key,item in pairs(value)do local label=type(key)
+==_p(142)and item or(item==true and key or nil)local guid=label and UI.UnitLabelToGuid[label]if guid then table.insert(fuseGuids,guid)end end if paintFuse then paintFuse()end end,}
+)registerUnitMultiDropdown(fuseDropdown,function()return table.clone(fuseGuids)end)UI.DestructiveToggle=Fuse:Toggle({Title=_p(372),Desc=_p(373),Value=false,Callback=function(value)
+Runtime.Safety.Destructive=value==true end,})local function fuseValidation()if#fuseGuids<1then return false,_p(374)end if#fuseGuids>8then return false,_p(375)end local first=
+Runtime.Inventory[fuseGuids[1]]if not first then return false,_p(376)end for _,guid in ipairs(fuseGuids)do local entry=Runtime.Inventory[guid]if not entry then return false,_p(377)
+end if entry.Locked then return false,unitName(entry).._p(378)end if isEquipped(guid)or Runtime.Fuse.Equipped[guid]then return false,unitName(entry).._p(379)end if entry.DefId~=
+first.DefId or entry.Mutation~=first.Mutation then return false,_p(380)end end return true,first end paintFuse=function()local chance=math.min(#fuseGuids*10+(Runtime.Fuse.
+ChanceBonus or 0),100)local insurance=Runtime.Fuse.Insurance and _p(381)or _p(382)setParagraph(UI.FuseInfo,Runtime.Fuse.Unlocked and _p(383)or _p(384),string.format(_p(385),#
+fuseGuids,chance,insurance))end Fuse:Button({Title=_p(386),Icon=_p(387),Callback=function()if not Runtime.Safety.Destructive then notify(_p(368),_p(388),_p(70))return end if not
+Runtime.Fuse.Unlocked then notify(_p(368),_p(389),_p(70))return end local ok,reason=fuseValidation()if not ok then notify(_p(368),reason,_p(70),4)return end fire(_p(214),{Guids=
+table.clone(fuseGuids)})Runtime.Safety.Destructive=false setToggle(UI.DestructiveToggle,false)end,})local Delete=Units:Section({Title=_p(390),Box=true,Opened=false})Delete:
+Paragraph({Title=_p(391),Desc=_p(392)})Delete:Button({Title=_p(393),Icon=_p(394),Color=Color3.fromHex(_p(88)),Callback=function()local entry=selectedEntry()if not Runtime.Safety.
+Destructive then notify(_p(390),_p(395),_p(70))return end if not entry then return end fire(_p(209),{entry.Guid})Runtime.Safety.Destructive=false setToggle(UI.DestructiveToggle,
+false)end,})local RerollUnit=Rerolls:Section({Title=_p(396),Box=true,Opened=true})UI.RerollInfo=RerollUnit:Paragraph({Title=_p(321),Desc=_p(397)})local rerollDropdown=RerollUnit:
+Dropdown({Title=_p(398),Values={_p(127)},Value=_p(127),Multi=false,AllowNone=false,Callback=function(value)local guid=UI.UnitLabelToGuid[value]if guid then Runtime.SelectedGuid=
+guid local entry=Runtime.Inventory[guid]local trait=entry and type(entry.Traits)==_p(136)and traitName(entry.Traits[1])or _p(127)local tiers=entry and entry.StatTiers or{}
+setParagraph(UI.RerollInfo,unitName(entry),string.format(_p(399),trait,tostring(tiers.Damage or _p(326)),tostring(tiers.Health or _p(326)),tostring(tiers.Range or _p(326)),tostring
+(tiers.CDR or _p(326))))paintUnitInfo()end end,})registerUnitDropdown(rerollDropdown)local RerollSafety=Rerolls:Section({Title=_p(400),Box=true,Opened=true})UI.RerollSpendToggle=
+RerollSafety:Toggle({Title=_p(401),Desc=_p(402),Value=false,Callback=function(value)Runtime.Safety.RerollSpending=value==true end,})local traitValues={}local traitLabelToId={}if
+TraitDefs and type(TraitDefs.Order)==_p(136)then for _,id in ipairs(TraitDefs.Order)do local label=traitName(id)table.insert(traitValues,label)traitLabelToId[label]=id end end if#
+traitValues==0then traitValues={_p(403)}traitLabelToId.Monarch=_p(403)end local Trait=Rerolls:Section({Title=_p(147),Box=true,Opened=true})UI.TraitStatus=Trait:Paragraph({Title=_p(
+404),Desc=_p(405)})UI.TraitTargetInfo=Trait:Paragraph({Title=_p(406),Desc=_p(403)})local defaultTrait=traitLabelToId[traitValues[#traitValues]]or _p(403)local traitStopMode=_p(116)
+local traitTargets={[defaultTrait]=true}local traitMinTier=_p(117)local traitMax=100local rerollDelay=0.22local lowLagReroll=true local function copyTraitTargets()local copy={}for
+id,enabled in pairs(traitTargets)do if enabled then copy[id]=true end end return copy end local function targetChance(mode,targets,minTier)local total=0if mode==_p(149)then local
+minRank=TraitTierRank[minTier]or math.huge if TraitDefs and type(TraitDefs.Order)==_p(136)then for _,id in ipairs(TraitDefs.Order)do if(TraitTierRank[traitTier(id)]or-1)>=minRank
+then total+=traitChance(id)end end end return total end for id in pairs(targets)do total+=traitChance(id)end return total end local function paintTraitRule()if traitStopMode==_p(
+149)then local chance=targetChance(traitStopMode,traitTargets,traitMinTier)setParagraph(UI.TraitTargetInfo,_p(407)..traitMinTier,string.format(_p(408),traitMinTier,chance))return
+end local names={}if TraitDefs and type(TraitDefs.Order)==_p(136)then for _,id in ipairs(TraitDefs.Order)do if traitTargets[id]then names[#names+1]=traitName(id)end end else for id
+in pairs(traitTargets)do names[#names+1]=traitName(id)end table.sort(names)end local chance=targetChance(traitStopMode,traitTargets,traitMinTier)setParagraph(UI.TraitTargetInfo,#
+names>0and(_p(409)..#names)or _p(410),#names>0and(table.concat(names,_p(273))..string.format(_p(411),chance))or _p(412))end Trait:Dropdown({Title=_p(413),Values={_p(116),_p(149)},
+Value=_p(116),Multi=false,AllowNone=false,Callback=function(value)traitStopMode=tostring(value)paintTraitRule()end,})Trait:Dropdown({Title=_p(414),Desc=_p(415),Values=traitValues,
+Value={traitValues[#traitValues]},Multi=true,AllowNone=true,Callback=function(value)table.clear(traitTargets)if type(value)==_p(136)then for key,item in pairs(value)do local label=
+type(key)==_p(142)and item or(item==true and key or nil)local id=label and traitLabelToId[label]if id then traitTargets[id]=true end end end paintTraitRule()end,})local
+traitTierValues={_p(416),_p(417),_p(418),_p(117)}if TraitDefs and type(TraitDefs.TierOrder)==_p(136)and#TraitDefs.TierOrder>0then traitTierValues=table.clone(TraitDefs.TierOrder)
+end Trait:Dropdown({Title=_p(149),Desc=_p(419),Values=traitTierValues,Value=_p(117),Multi=false,AllowNone=false,Callback=function(value)traitMinTier=tostring(value)paintTraitRule()
+end,})Trait:Slider({Title=_p(420),Desc=_p(421),Step=0.05,Value={Min=0.15,Max=2.5,Default=0.22},Callback=function(value)rerollDelay=math.max(0.15,tonumber(value)or 0.22)end,})Trait:
+Toggle({Title=_p(422),Desc=_p(423),Value=true,Callback=function(value)lowLagReroll=value==true end,})Trait:Slider({Title=_p(424),Step=1,Value={Min=1,Max=5000,Default=100},Callback=
+function(value)traitMax=math.floor(tonumber(value)or 100)end,})Trait:Button({Title=_p(425),Icon=_p(257),Callback=function()local entry=selectedEntry()if not Runtime.Safety.
+RerollSpending then notify(_p(147),_p(426),_p(70))return end if entry then fire(_p(151),{Guid=entry.Guid})end end,})UI.TraitAutoToggle=Trait:Toggle({Title=_p(427),Icon=_p(312),
+Value=false,Callback=function(value)if Runtime.Suppress.Auto then return end if not value then stopTrait()return end local entry=selectedEntry()if not Runtime.Safety.RerollSpending
+then notify(_p(147),_p(426),_p(70))setToggle(UI.TraitAutoToggle,false)return end if not entry then setToggle(UI.TraitAutoToggle,false)return end if traitStopMode==_p(116)and next(
+traitTargets)==nil then notify(_p(147),_p(428),_p(70))setToggle(UI.TraitAutoToggle,false)return end local job={Guid=entry.Guid,Mode=traitStopMode,Targets=copyTraitTargets(),MinTier
+=traitMinTier,Count=0,Max=traitMax,Delay=rerollDelay,Pending=false,}local current=type(entry.Traits)==_p(136)and entry.Traits[1]or nil if traitResultReached(current,job)then notify
+(_p(147),_p(429),_p(74))setToggle(UI.TraitAutoToggle,false)return end Runtime.TraitJob=job Runtime.Auto.Trait=true if lowLagReroll then suppressNativeRerollUI()end requestTraitRoll
+()end,})paintTraitRule()local TraitFilter=Rerolls:Section({Title=_p(430),Box=true,Opened=false})local skipTrait=defaultTrait TraitFilter:Dropdown({Title=_p(431),Values=traitValues,
+Value=traitValues[#traitValues],Multi=false,AllowNone=false,Callback=function(value)skipTrait=traitLabelToId[value]or tostring(value)end,})TraitFilter:Button({Title=_p(432),
+Callback=function()fireIfPresent(_p(218),{Trait=skipTrait,Skip=true})end})TraitFilter:Button({Title=_p(433),Callback=function()fireIfPresent(_p(218),{Trait=skipTrait,Skip=false})
+end})local Stat=Rerolls:Section({Title=_p(148),Box=true,Opened=true})UI.StatStatus=Stat:Paragraph({Title=_p(434),Desc=_p(435)})local statMode=_p(118)local statTargetStat=_p(119)
+local statTargetTier=_p(120)local statRule=_p(121)local statMax=100local statTiers={_p(436),_p(437),_p(438),_p(439),_p(120),_p(440),_p(441),_p(143),_p(442)}Stat:Dropdown({Title=_p(
+443),Values={_p(118),_p(153)},Value=_p(118),Multi=false,AllowNone=false,Callback=function(value)statMode=tostring(value)end,})Stat:Dropdown({Title=_p(444),Values={_p(119),_p(160),
+_p(161),_p(162)},Value=_p(119),Multi=false,AllowNone=false,Callback=function(value)statTargetStat=tostring(value)end,})Stat:Dropdown({Title=_p(445),Values=statTiers,Value=_p(120),
+Multi=false,AllowNone=false,Callback=function(value)statTargetTier=tostring(value)end,})Stat:Dropdown({Title=_p(446),Values={_p(121),_p(159)},Value=_p(121),Multi=false,AllowNone=
+false,Callback=function(value)statRule=tostring(value)end,})Stat:Slider({Title=_p(424),Step=1,Value={Min=1,Max=1000,Default=100},Callback=function(value)statMax=math.floor(tonumber
+(value)or 100)end,})Stat:Button({Title=_p(425),Icon=_p(257),Callback=function()local entry=selectedEntry()if not Runtime.Safety.RerollSpending then notify(_p(148),_p(426),_p(70))
+return end if entry then fire(_p(158),{Guid=entry.Guid,Mode=statMode,Stat=statMode==_p(153)and statTargetStat or nil})end end,})UI.StatAutoToggle=Stat:Toggle({Title=_p(447),Icon=_p
+(312),Value=false,Callback=function(value)if Runtime.Suppress.Auto then return end if not value then stopStat()return end local entry=selectedEntry()if not Runtime.Safety.
+RerollSpending then notify(_p(148),_p(426),_p(70))setToggle(UI.StatAutoToggle,false)return end if not entry then setToggle(UI.StatAutoToggle,false)return end Runtime.StatJob={Guid=
+entry.Guid,Mode=statMode,Stat=statTargetStat,Target=statTargetTier,Rule=statRule,Count=0,Max=statMax,Delay=rerollDelay,Pending=false,}Runtime.Auto.Stat=true if statResultReached({
+After=entry.StatTiers,Mode=statMode})then stopStat(_p(448))return end if lowLagReroll then suppressNativeRerollUI()end requestStatRoll()end,})local StatFilter=Rerolls:Section({
+Title=_p(449),Box=true,Opened=false})local skipTier=_p(120)StatFilter:Dropdown({Title=_p(450),Values={_p(439),_p(120),_p(440),_p(441),_p(143),_p(442)},Value=_p(120),Multi=false,
+AllowNone=false,Callback=function(value)skipTier=tostring(value)end,})StatFilter:Button({Title=_p(451),Callback=function()fireIfPresent(_p(220),{Tier=skipTier,Skip=true})end})
+StatFilter:Button({Title=_p(452),Callback=function()fireIfPresent(_p(220),{Tier=skipTier,Skip=false})end})local RollControl=Roll:Section({Title=_p(453),Box=true,Opened=true})local
+rollRequestId=math.floor((workspace:GetServerTimeNow()%100000)*1000)RollControl:Button({Title=_p(454),Icon=_p(259),Callback=function()rollRequestId+=1fire(_p(221),{reqId=
+rollRequestId})end,})UI.AutoRollToggle=RollControl:Toggle({Title=_p(455),Icon=_p(312),Value=false,Flag=_p(456),Callback=function(value)if Runtime.Suppress.Settings then return end
+if Runtime.Settings.AutoRoll==value then return end fire(_p(222),{Key=_p(457),Value=value==true})end,})UI.QuickRollToggle=RollControl:Toggle({Title=_p(458),Icon=_p(459),Value=false
+,Flag=_p(460),Callback=function(value)if Runtime.Suppress.Settings then return end if Runtime.Settings.QuickRoll==value then return end fire(_p(222),{Key=_p(461),Value=value==true}
+)end,})local Thresholds=Roll:Section({Title=_p(462),Box=true,Opened=true})local mergeText=_p(327)local cutsceneText=_p(327)UI.ThresholdStatus=Thresholds:Paragraph({Title=_p(463),
+Desc=_p(464)})Thresholds:Input({Title=_p(465),Desc=_p(466),Value=_p(327),Placeholder=_p(327),Callback=function(value)mergeText=tostring(value or _p(327))end,})Thresholds:Button({
+Title=_p(467),Callback=function()local value=parseThreshold(mergeText)if value==nil then notify(_p(468),_p(469),_p(70))return end fire(_p(222),{Key=_p(470),Value=value})end,})
+Thresholds:Input({Title=_p(471),Desc=_p(472),Value=_p(327),Placeholder=_p(327),Callback=function(value)cutsceneText=tostring(value or _p(327))end,})Thresholds:Button({Title=_p(473)
+,Callback=function()local value=parseThreshold(cutsceneText)if value==nil then notify(_p(474),_p(469),_p(70))return end fire(_p(222),{Key=_p(475),Value=value})end,})local
+RewardState=Rewards:Section({Title=_p(476),Box=true,Opened=true})UI.RewardStatus=RewardState:Paragraph({Title=_p(260),Desc=_p(477)})local function paintRewards()local daily=Runtime
+.Rewards and Runtime.Rewards.Daily or{}local playtime=Runtime.Rewards and Runtime.Rewards.Playtime or{}local claimed=playtime.Claimed or{}local claimedCount=0for i=1,7do if claimed
+[i]==true or claimed[tostring(i)]==true then claimedCount+=1 end end setParagraph(UI.RewardStatus,daily.CanClaim and _p(478)or _p(479),string.format(_p(480),tostring(daily.Streak
+or 0),tostring(math.floor(rewardPlaytimeSeconds()/60)),claimedCount))end RewardState:Button({Title=_p(481),Icon=_p(482),Callback=function()fire(_p(164))end})RewardState:Button({
+Title=_p(483),Icon=_p(316),Callback=claimAvailablePlaytime})RewardState:Button({Title=_p(484),Icon=_p(485),Callback=function()fire(_p(165))end})RewardState:Button({Title=_p(486),
+Icon=_p(487),Callback=function()fire(_p(166))end})RewardState:Button({Title=_p(488),Icon=_p(489),Callback=function()fire(_p(167))end})RewardState:Button({Title=_p(490),Icon=_p(255)
+,Callback=function()fire(_p(168))end})RewardState:Button({Title=_p(491),Icon=_p(492),Callback=function()fire(_p(169))end})RewardState:Button({Title=_p(493),Icon=_p(494),Callback=
+function()task.spawn(claimBundle)end})local claimInterval=30RewardState:Slider({Title=_p(495),Step=1,Value={Min=10,Max=120,Default=30},Flag=_p(496),Callback=function(value)
+claimInterval=tonumber(value)or 30 end,})RewardState:Toggle({Title=_p(497),Icon=_p(312),Value=false,Flag=_p(498),Callback=function(value)local enabled=value==true if Runtime.Auto.
+Claim==enabled then return end Runtime.Auto.Claim=enabled Runtime.JobToken.Claim+=1local token=Runtime.JobToken.Claim if not enabled then return end task.spawn(function()while
+Runtime.Alive and Runtime.Auto.Claim and Runtime.JobToken.Claim==token do fireIfPresent(_p(173))task.wait(0.25)claimBundle()task.wait(claimInterval)end end)end,})local Codes=
+Rewards:Section({Title=_p(499),Box=true,Opened=false})local codeText=""Codes:Input({Title=_p(500),Value="",Placeholder=_p(501),Callback=function(value)codeText=tostring(value or"")
+end,})Codes:Button({Title=_p(502),Icon=_p(503),Callback=function()local code=codeText:match(_p(504))if code==""then notify(_p(499),_p(505),_p(70))return end fire(_p(225),code)end,}
+)local Raid=Activities:Section({Title=_p(506),Box=true,Opened=true})UI.RaidStatus=Raid:Paragraph({Title=_p(506),Desc=_p(280)})local raidDifficulty=_p(325)Raid:Dropdown({Title=_p(
+507),Values={_p(508),_p(325),_p(509),_p(510)},Value=_p(325),Multi=false,AllowNone=false,Flag=_p(511),Callback=function(value)raidDifficulty=tostring(value)fire(_p(229),
+raidDifficulty)end,})Raid:Button({Title=_p(512),Icon=_p(513),Callback=function()fire(_p(226))end})Raid:Button({Title=_p(514),Icon=_p(515),Callback=function()fire(_p(227))end})Raid:
+Button({Title=_p(516),Icon=_p(517),Callback=function()fire(_p(228))end})UI.RaidReplayToggle=Raid:Toggle({Title=_p(518),Value=false,Callback=function(value)if Runtime.Suppress.Auto
+then return end if Runtime.Raid and Runtime.Raid.AutoReplay==value then return end fire(_p(230))end,})Raid:Toggle({Title=_p(519),Value=false,Flag=_p(520),Callback=function(value)
+Runtime.Auto.RaidStart=value==true end,})local Trial=Activities:Section({Title=_p(521),Box=true,Opened=true})UI.TrialStatus=Trial:Paragraph({Title=_p(521),Desc=_p(280)})Trial:
+Button({Title=_p(512),Icon=_p(513),Callback=function()fire(_p(232))end})Trial:Button({Title=_p(514),Icon=_p(515),Callback=function()fire(_p(233))end})Trial:Button({Title=_p(522),
+Icon=_p(523),Callback=function()fire(_p(235))end})Trial:Button({Title=_p(516),Icon=_p(517),Callback=function()fire(_p(234))end})UI.TrialReplayToggle=Trial:Toggle({Title=_p(524),
+Value=false,Callback=function(value)if Runtime.Suppress.Auto then return end if Runtime.Trial and Runtime.Trial.AutoReplay==value then return end fire(_p(236))end,})Trial:Toggle({
+Title=_p(519),Value=false,Flag=_p(525),Callback=function(value)Runtime.Auto.TrialStart=value==true end,})local Warp=Activities:Section({Title=_p(526),Box=true,Opened=false})local
+worldValues={}local worldLabelToId={}if MapDefs and type(MapDefs.GetOrdered)==_p(1)then local ok,maps=pcall(MapDefs.GetOrdered)if ok and type(maps)==_p(136)then for _,row in ipairs
+(maps)do local label=(row.Def and row.Def.DisplayName)or row.Id table.insert(worldValues,label)worldLabelToId[label]=row.Id end end end if#worldValues==0then worldValues={_p(527)}
+end local worldId=worldLabelToId[worldValues[1]]local worldDifficulty=_p(325)Warp:Dropdown({Title=_p(528),SearchBarEnabled=true,Values=worldValues,Value=worldValues[1],Multi=false,
+AllowNone=false,Callback=function(value)worldId=worldLabelToId[value]end,})Warp:Dropdown({Title=_p(507),Values={_p(508),_p(325),_p(509),_p(510)},Value=_p(325),Multi=false,AllowNone
+=false,Callback=function(value)worldDifficulty=tostring(value)end,})Warp:Button({Title=_p(529),Icon=_p(530),Callback=function()if worldId then fire(_p(238),worldId,worldDifficulty)
+end end,})local ProgressSafety=Progression:Section({Title=_p(400),Box=true,Opened=true})ProgressSafety:Toggle({Title=_p(531),Desc=_p(532),Value=false,Callback=function(value)
+Runtime.Safety.ProgressSpending=value==true if not Runtime.Safety.ProgressSpending and Runtime.Auto.Tree then Runtime.Auto.Tree=false Runtime.TreeAuto.Pending=false if UI.
+TreeAutoToggle then Runtime.Suppress.Auto=true setToggle(UI.TreeAutoToggle,false)Runtime.Suppress.Auto=false end end end,})local Tree=Progression:Section({Title=_p(533),Box=true,
+Opened=true})UI.TreeInfo=Tree:Paragraph({Title=_p(534),Desc=_p(477)})local nodeValues={}local nodeLabelToId={}if UpgradeTreeDefs and type(UpgradeTreeDefs.Nodes)==_p(136)then for _,
+node in ipairs(UpgradeTreeDefs.Nodes)do if node.Cost and not node.Hidden then local label=string.format(_p(145),node.Title or node.Id,node.Id)table.insert(nodeValues,label)
+nodeLabelToId[label]=node.Id end end end if#nodeValues==0then nodeValues={_p(535)}end local nodeId=nodeLabelToId[nodeValues[1]]local function treeCostText(node)if not node or type(
+node.Cost)~=_p(136)then return _p(536)end local parts={}for _,cost in ipairs(node.Cost)do if cost.Currency then table.insert(parts,formatNumber(cost.Amount).._p(537)..tostring(cost
+.Currency))elseif cost.Requirement then table.insert(parts,formatNumber(cost.Amount).._p(537)..tostring(cost.Requirement))end end return#parts>0and table.concat(parts,_p(538))or _p
+(536)end local function paintTree()local node=nodeId and UpgradeTreeDefs and type(UpgradeTreeDefs.Get)==_p(1)and UpgradeTreeDefs.Get(nodeId)or nil if not node then setParagraph(UI.
+TreeInfo,_p(533),string.format(_p(539),formatNumber(Runtime.Tree.Gold),formatNumber(Runtime.Tree.Gems)))return end local owned=Runtime.Tree.Owned[nodeId]==true local autoState=
+Runtime.Auto.Tree and(Runtime.TreeAuto.Pending and _p(540)or _p(541))or _p(382)setParagraph(UI.TreeInfo,(node.Title or nodeId)..(owned and _p(542)or""),tostring(node.Description or
+"").._p(543)..treeCostText(node).._p(544)..tostring(node.Parent or _p(545)).._p(546)..autoState)end Tree:Dropdown({Title=_p(547),SearchBarEnabled=true,Values=nodeValues,Value=
+nodeValues[1],Multi=false,AllowNone=false,Callback=function(value)nodeId=nodeLabelToId[value]paintTree()end,})Tree:Button({Title=_p(548),Icon=_p(549),Callback=function()if not
+Runtime.Safety.ProgressSpending then notify(_p(533),_p(550),_p(70))return end if nodeId then fire(_p(192),nodeId)end end,})Tree:Toggle({Title=_p(551),Desc=_p(552),Value=false,
+Callback=function(value)Runtime.TreeAuto.SpendGems=value==true if Runtime.Auto.Tree then task.defer(tryAutoTreePurchase)end end,})UI.TreeAutoToggle=Tree:Toggle({Title=_p(553),Desc=
+_p(554),Icon=_p(85),Value=false,Callback=function(value)if Runtime.Suppress.Auto then return end local enabled=value==true if enabled and not Runtime.Safety.ProgressSpending then
+notify(_p(533),_p(550),_p(70))setToggle(UI.TreeAutoToggle,false)return end Runtime.Auto.Tree=enabled Runtime.TreeAuto.Pending=false if enabled then fireIfPresent(_p(174))
+fireIfPresent(_p(175))task.defer(function()tryAutoTreePurchase(true)end)end paintTree()end,})local Rebirth=Progression:Section({Title=_p(555),Box=true,Opened=false})UI.RebirthInfo=
+Rebirth:Paragraph({Title=_p(555),Desc=_p(477)})UI.RebirthToggle=Rebirth:Toggle({Title=_p(556),Desc=_p(557),Value=false,Callback=function(value)Runtime.Safety.Rebirth=value==true
+end,})Rebirth:Button({Title=_p(558),Icon=_p(559),Color=Color3.fromHex(_p(560)),Callback=function()if not Runtime.Safety.Rebirth then notify(_p(555),_p(561),_p(70))return end fire(
+_p(241))Runtime.Safety.Rebirth=false setToggle(UI.RebirthToggle,false)end,})local Items=Misc:Section({Title=_p(562),Box=true,Opened=true})UI.ItemInfo=Items:Paragraph({Title=_p(563)
+,Desc=_p(477)})local useAmount=1local itemDropdown=Items:Dropdown({Title=_p(564),SearchBarEnabled=true,Values={_p(127)},Value=_p(127),Multi=false,AllowNone=false,Callback=function(
+value)Runtime.SelectedItem=UI.ItemLabelToId[value]local id=Runtime.SelectedItem if id then local name,def=itemDisplay(id)setParagraph(UI.ItemInfo,name,_p(565)..formatNumber(Runtime
+.Items[id]).._p(566)..tostring(def and def.Category or _p(326)))end end,})registerItemDropdown(itemDropdown)Items:Slider({Title=_p(567),Step=1,Value={Min=1,Max=50,Default=1},
+Callback=function(value)useAmount=math.floor(tonumber(value)or 1)end,})Items:Button({Title=_p(568),Icon=_p(569),Callback=function()local id=Runtime.SelectedItem if not id then
+return end local owned=tonumber(Runtime.Items[id])or 0if owned<=0then return end fire(_p(243),id,math.clamp(useAmount,1,owned))end,})local GameSettings=Misc:Section({Title=_p(570),
+Box=true,Opened=true})local settingDefs={{_p(571),_p(572)},{_p(573),_p(574)},{_p(575),_p(576)},{_p(577),_p(578)},{_p(579),_p(580)},{_p(581),_p(582)},{_p(583),_p(584)},{_p(585),_p(
+586)},{_p(587),_p(588)},{_p(589),_p(590)},{_p(591),_p(592)},{_p(593),_p(594)},}UI.SettingToggles={}for _,row in ipairs(settingDefs)do local key,title=row[1],row[2]UI.SettingToggles
+[key]=GameSettings:Toggle({Title=title,Value=false,Flag=_p(595)..key,Callback=function(value)if Runtime.Suppress.Settings then return end fire(_p(222),{Key=key,Value=value==true})
+end,})end local Diagnostics=Misc:Section({Title=_p(596),Box=true,Opened=false})UI.ServerLuckInfo=Diagnostics:Paragraph({Title=_p(597),Desc=_p(477)})Diagnostics:Button({Title=_p(598
+),Icon=_p(599),Callback=function()fireIfPresent(_p(187))end})Diagnostics:Button({Title=_p(600),Icon=_p(257),Callback=requestFullSync})Diagnostics:Button({Title=_p(601),Icon=_p(602)
+,Callback=updateRemoteStatus})local WorldState=Misc:Section({Title=_p(603),Box=true,Opened=false})UI.BoostInfo=WorldState:Paragraph({Title=_p(604),Desc=_p(477)})UI.ObbyInfo=
+WorldState:Paragraph({Title=_p(605),Desc=_p(477)})UI.LeaderboardInfo=WorldState:Paragraph({Title=_p(606),Desc=_p(477)})local function paintBoosts()local rows={}local now=os.time()
+for id,endsAt in pairs(Runtime.Boosts)do local title=tostring(id)if BoostDefs and type(BoostDefs.Get)==_p(1)then local ok,def=pcall(BoostDefs.Get,id)if ok and def then title=def.
+DisplayName or title end end local left=math.max(0,math.floor((tonumber(endsAt)or now)-now))table.insert(rows,string.format(_p(607),title,math.floor(left/60),left%60))end table.
+sort(rows)setParagraph(UI.BoostInfo,_p(604),#rows>0and table.concat(rows,_p(608))or _p(127))end local function paintObby()local rows={}local now=os.time()for id,endsAt in pairs(
+Runtime.ObbyCooldowns)do local left=math.max(0,math.floor((tonumber(endsAt)or now)-now))table.insert(rows,string.format(_p(607),tostring(id),math.floor(left/60),left%60))end table.
+sort(rows)setParagraph(UI.ObbyInfo,_p(605),#rows>0and table.concat(rows,_p(608))or _p(15))end WorldState:Button({Title=_p(609),Icon=_p(85),Callback=function()fireIfPresent(_p(188))
+end})WorldState:Button({Title=_p(610),Icon=_p(611),Callback=function()fireIfPresent(_p(189))end})WorldState:Button({Title=_p(612),Icon=_p(613),Callback=function()fireIfPresent(_p(
+190))end})local ConfigSection=Misc:Section({Title=_p(614),Box=true,Opened=false})local GameConfig pcall(function()GameConfig=WaveHub:CreateConfig(_p(615),true)if GameConfig then
+GameConfig:SetAutoLoad(true)end end)ConfigSection:Button({Title=_p(616),Icon=_p(68),Callback=function()if not GameConfig then notify(_p(617),_p(69),_p(70))return end local ok,err=
+pcall(function()GameConfig:SetAutoLoad(true)GameConfig:Save()end)notify(ok and _p(618)or _p(72),ok and _p(619)or tostring(err),ok and _p(74)or _p(70))end,})ConfigSection:Button({
+Title=_p(620),Icon=_p(76),Callback=function()if not GameConfig then notify(_p(617),_p(69),_p(70))return end local ok,err=pcall(function()GameConfig:Load()end)notify(ok and _p(621)
+or _p(78),ok and _p(622)or tostring(err),ok and _p(74)or _p(70))end,})UI.UpdateRemoteStatus=updateRemoteStatus UI.PaintAutoPlay=paintAutoPlay UI.PaintUnitInfo=paintUnitInfo UI.
+PaintFuse=paintFuse UI.PaintRewards=paintRewards UI.PaintTree=paintTree UI.PaintBoosts=paintBoosts UI.PaintObby=paintObby Runtime.FuseGuids=fuseGuids end buildGameUI()local
+function processInventorySync(payload)if type(payload)~=_p(136)or type(payload.Entries)~=_p(136)then return end local selectorChanged=unitListChanged(payload.Entries)Runtime.
+Entries=payload.Entries Runtime.InventoryCap=tonumber(payload.Cap)or Runtime.InventoryCap Runtime.Inventory={}for _,entry in ipairs(payload.Entries)do if entry.Guid then Runtime.
+Inventory[entry.Guid]=entry end end if selectorChanged then queueUnitListRefresh()end UI.PaintUnitInfo()if selectorChanged then UI.PaintFuse()end local entry=selectedEntry()if
+entry then local trait=type(entry.Traits)==_p(136)and traitName(entry.Traits[1])or _p(127)local tiers=entry.StatTiers or{}local rerollStamp=table.concat({tostring(entry.Guid),trait
+,tostring(tiers.Damage or _p(326)),tostring(tiers.Health or _p(326)),tostring(tiers.Range or _p(326)),tostring(tiers.CDR or _p(326))},_p(144))if rerollStamp~=Runtime.
+LastRerollInfoStamp then Runtime.LastRerollInfoStamp=rerollStamp setParagraph(UI.RerollInfo,unitName(entry),string.format(_p(399),trait,tostring(tiers.Damage or _p(326)),tostring(
+tiers.Health or _p(326)),tostring(tiers.Range or _p(326)),tostring(tiers.CDR or _p(326))))end end end local pendingInventorySync local inventorySyncQueued=false watch(_p(201),
+function(payload)pendingInventorySync=payload if inventorySyncQueued then return end inventorySyncQueued=true task.delay(0.08,function()inventorySyncQueued=false if not Runtime.
+Alive then return end local latest=pendingInventorySync pendingInventorySync=nil processInventorySync(latest)end)end)watch(_p(202),function(payload)if type(payload)~=_p(136)then
+return end Runtime.Team=type(payload.Team)==_p(136)and payload.Team or{}Runtime.TeamSet={}local guids=type(payload.Guids)==_p(136)and payload.Guids or{}for _,guid in ipairs(guids)
+do Runtime.TeamSet[guid]=true end UI.PaintUnitInfo()end)local function processItemsSync(payload)if type(payload)~=_p(136)or type(payload.Items)~=_p(136)then return end local
+selectorChanged=itemListChanged(payload.Items)Runtime.Items=payload.Items if selectorChanged then queueItemListRefresh()end local now=os.clock()if not Runtime.Auto.Trait and not
+Runtime.Auto.Stat or now-(Runtime.LastCurrencyPaint or 0)>=PERF.CurrencyPaintInterval then Runtime.LastCurrencyPaint=now setParagraph(UI.TraitStatus,_p(404),_p(623)..formatNumber(
+Runtime.Items.TraitRerolls or 0))setParagraph(UI.StatStatus,_p(434),_p(624)..formatNumber(Runtime.Items.StatCrystals or 0).._p(625)..formatNumber(Runtime.Items.SuperStatCrystals or
+0))end end local pendingItemsSync local itemsSyncQueued=false watch(_p(203),function(payload)pendingItemsSync=payload if itemsSyncQueued then return end itemsSyncQueued=true task.
+delay(0.10,function()itemsSyncQueued=false if not Runtime.Alive then return end local latest=pendingItemsSync pendingItemsSync=nil processItemsSync(latest)end)end)watch(_p(197),
+function(payload)if type(payload)~=_p(136)then return end Runtime.AutoPlay=payload.Enabled==true Runtime.AutoPlayLocked=payload.Locked==true UI.PaintAutoPlay()end)watch(_p(199),
+function(value)Runtime.GameSpeed=tonumber(value)or Runtime.GameSpeed end)watch(_p(223),function(payload)if type(payload)~=_p(136)then return end Runtime.Settings=payload Runtime.
+Suppress.Settings=true setToggle(UI.AutoRollToggle,payload.AutoRoll==true)setToggle(UI.QuickRollToggle,payload.QuickRoll==true)for key,toggle in pairs(UI.SettingToggles or{})do if
+payload[key]~=nil then setToggle(toggle,payload[key]==true)end end Runtime.Suppress.Settings=false setParagraph(UI.ThresholdStatus,_p(463),_p(626)..formatNumber(payload.
+AutoMergeThreshold or 0).._p(627)..formatNumber(payload.CutsceneSkipThreshold or 0))end)watch(_p(215),function(payload)if type(payload)~=_p(136)then return end Runtime.Fuse.
+Unlocked=payload.Unlocked==true Runtime.Fuse.ChanceBonus=math.floor((tonumber(payload.ChanceBonus)or 0)*100+0.5)Runtime.Fuse.Insurance=payload.Insurance==true Runtime.Fuse.Equipped
+={}for _,guid in ipairs(type(payload.Equipped)==_p(136)and payload.Equipped or{})do Runtime.Fuse.Equipped[guid]=true end UI.PaintFuse()end)watch(_p(216),function(payload)if type(
+payload)~=_p(136)then return end table.clear(Runtime.FuseGuids)if payload.Success then notify(_p(368),_p(628),_p(74),4)else local chance=math.floor((tonumber(payload.Chance)or 0)*
+100+0.5)notify(_p(368),string.format(_p(629),chance,tostring(payload.Consumed or 0)),_p(70),5)end fireIfPresent(_p(170))fireIfPresent(_p(182))end)watch(_p(217),function(payload)if
+type(payload)~=_p(136)then return end if payload.Guid and Runtime.Inventory[payload.Guid]then Runtime.Inventory[payload.Guid].Traits={payload.After}end if not Runtime.Auto.Trait or
+payload.Guid~=Runtime.TraitJob.Guid then queueRerollCurrencySync()UI.PaintUnitInfo()return end local job=Runtime.TraitJob job.Pending=false job.Count+=1if traitResultReached(
+payload.After,job)then stopTrait(_p(630)..traitName(payload.After).._p(631)..job.Count.._p(632))elseif job.Count>=job.Max then stopTrait(_p(633)..job.Max.._p(634))else task.delay(
+job.Delay or 0.22,requestTraitRoll)end end)watch(_p(219),function(payload)if type(payload)~=_p(136)then return end local entry=payload.Guid and Runtime.Inventory[payload.Guid]if
+entry then entry.StatTiers=entry.StatTiers or{}if payload.Mode==_p(118)and type(payload.After)==_p(136)then entry.StatTiers=payload.After elseif payload.Stat and type(payload.After
+)==_p(21)then entry.StatTiers[payload.Stat]=payload.After end end if not Runtime.Auto.Stat or payload.Guid~=Runtime.StatJob.Guid then queueRerollCurrencySync()UI.PaintUnitInfo()
+return end local job=Runtime.StatJob job.Pending=false job.Count+=1if statResultReached(payload)then stopStat(_p(635)..job.Count.._p(632))elseif job.Count>=job.Max then stopStat(_p
+(633)..job.Max.._p(634))else task.delay(job.Delay or 0.22,requestStatRoll)end end)watch(_p(224),function(payload)if type(payload)~=_p(136)then return end Runtime.Rewards=payload
+Runtime.RewardsAt=os.clock()UI.PaintRewards()end)watch(_p(240),function(payload)if type(payload)~=_p(136)then return end Runtime.Tree={Owned=type(payload.Owned)==_p(136)and payload
+.Owned or{},Gold=tonumber(payload.Gold)or Runtime.Tree.Gold,Gems=tonumber(payload.Gems)or Runtime.Tree.Gems,TotalRolls=tonumber(payload.TotalRolls)or Runtime.Tree.TotalRolls,}
+Runtime.TreeAuto.Pending=false Runtime.TreeAuto.NextCheck=0UI.PaintTree()if Runtime.Auto.Tree then task.defer(function()tryAutoTreePurchase(true)end)end end)local lastRaidStart=0
+watch(_p(231),function(payload)Runtime.Raid=type(payload)==_p(136)and payload or nil local raid=Runtime.Raid if not raid then setParagraph(UI.RaidStatus,_p(506),_p(636))return end
+local members=type(raid.Members)==_p(136)and#raid.Members or 0local leader=raid.LeaderUserId==LocalPlayer.UserId setParagraph(UI.RaidStatus,_p(637)..tostring(raid.State or _p(638))
+,string.format(_p(639),tostring(raid.Difficulty or _p(638)),members,tostring(raid.PartyMax or 4),leader and _p(640)or _p(330),raid.AutoReplay and _p(381)or _p(382)))Runtime.
+Suppress.Auto=true setToggle(UI.RaidReplayToggle,raid.AutoReplay==true)Runtime.Suppress.Auto=false if Runtime.Auto.RaidStart and raid.State==_p(641)and leader and os.clock()-
+lastRaidStart>2then lastRaidStart=os.clock()task.delay(0.45,function()if Runtime.Auto.RaidStart and Runtime.Raid==raid then fire(_p(227))end end)end end)local lastTrialStart=0watch
+(_p(237),function(payload)Runtime.Trial=type(payload)==_p(136)and payload or nil local trial=Runtime.Trial if not trial then setParagraph(UI.TrialStatus,_p(521),_p(636))return end
+local members=type(trial.Members)==_p(136)and#trial.Members or 0local leader=trial.LeaderUserId==LocalPlayer.UserId setParagraph(UI.TrialStatus,_p(642)..tostring(trial.State or _p(
+638)),string.format(_p(643),members,tostring(trial.PartyMax or 4),leader and _p(640)or _p(330),trial.AutoReplay and _p(381)or _p(382)))Runtime.Suppress.Auto=true setToggle(UI.
+TrialReplayToggle,trial.AutoReplay==true)Runtime.Suppress.Auto=false if Runtime.Auto.TrialStart and trial.State==_p(641)and leader and os.clock()-lastTrialStart>2then
+lastTrialStart=os.clock()task.delay(0.45,function()if Runtime.Auto.TrialStart and Runtime.Trial==trial then fire(_p(233))end end)end end)watch(_p(242),function(payload)if type(
+payload)~=_p(136)then return end Runtime.Rebirth=payload local desc=string.format(_p(644),tostring(payload.Rebirths or 0),formatNumber(payload.Gold or 0),formatNumber(payload.Gems
+or 0),tostring(payload.StartWorldName or _p(638)),payload.MapEligible and _p(329)or _p(330))setParagraph(UI.RebirthInfo,_p(555),desc)end)watch(_p(244),function(payload)if type(
+payload)~=_p(136)then return end Runtime.Stats=payload if type(payload.Gold)==_p(142)then Runtime.Tree.Gold=payload.Gold end if type(payload.Gems)==_p(142)then Runtime.Tree.Gems=
+payload.Gems end if Runtime.Auto.Tree and not Runtime.TreeAuto.Pending then task.defer(tryAutoTreePurchase)end end)watch(_p(239),function(payload)Runtime.Worlds=payload end)watch(
+_p(248),function(payload)table.clear(Runtime.Boosts)local active=type(payload)==_p(136)and payload.Active or nil if type(active)==_p(136)then for _,row in ipairs(active)do if type(
+row)==_p(136)and type(row.Id)==_p(21)and type(row.EndsAt)==_p(142)then Runtime.Boosts[row.Id]=row.EndsAt end end end UI.PaintBoosts()end)watch(_p(249),function(payload)table.clear(
+Runtime.ObbyCooldowns)local cooldowns=type(payload)==_p(136)and payload.Cooldowns or nil if type(cooldowns)==_p(136)then for id,endsAt in pairs(cooldowns)do if type(id)==_p(21)and
+type(endsAt)==_p(142)then Runtime.ObbyCooldowns[id]=endsAt end end end UI.PaintObby()end)watch(_p(250),function(payload)Runtime.Leaderboard=type(payload)==_p(136)and payload.
+entries or{}local count=type(Runtime.Leaderboard)==_p(136)and#Runtime.Leaderboard or 0setParagraph(UI.LeaderboardInfo,_p(606),string.format(_p(645),count))end)watch(_p(245),
+function(payload)Runtime.ServerLuck=payload if type(payload)==_p(136)then local value=payload.Multiplier or payload.Luck or payload.Value or _p(638)local time=payload.Seconds or
+payload.TimeLeft or payload.Duration setParagraph(UI.ServerLuckInfo,_p(597),_p(646)..tostring(value)..(time and(_p(647)..tostring(time).._p(648))or""))else setParagraph(UI.
+ServerLuckInfo,_p(597),tostring(payload))end end)task.defer(function()task.wait(0.8)UI.UpdateRemoteStatus()requestCoreSync()task.wait(0.5)UI.PaintUnitInfo()UI.PaintFuse()UI.
+PaintRewards()UI.PaintTree()UI.PaintBoosts()UI.PaintObby()notify(_p(649),_p(650)..VERSION.._p(89),_p(85),4)end)return WaveHub end local ok,err=xpcall(function()BuildAnimeWarRNG(
+WaveHub)end,debug.traceback)if not ok then warn(_p(651)..tostring(err))WaveHub:Notify(_p(649),_p(652),_p(70),6)end return WaveHub
