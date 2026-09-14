@@ -11,3 +11,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/wavechayakon/WaveHub/
 ## Supported games
 
 - Anime War RNG
+- Pop Bubbles! 🎯
