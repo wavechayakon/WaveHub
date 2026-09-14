@@ -6,6 +6,7 @@ A small Roblox script hub for the games I currently support.
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/wavechayakon/WaveHub/main/loader.lua"))()
+
 Supported games
 Game	Status
 Anime War RNG	Supported
