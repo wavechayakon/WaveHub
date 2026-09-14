@@ -4,7 +4,7 @@ end
 
 local scripts = {
     [79908803570376] = "anime-war-rng",
-    [72390882197205] = "PopBubbles",
+    [10503838245] = "PopBubbles",
 }
 
 local gameId = game.GameId
