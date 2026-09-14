@@ -2,37 +2,35 @@ if not game:IsLoaded() then
     game.Loaded:Wait()
 end
 
-local scripts = {
-    [79908803570376] = "anime-war-rng",
-    [10503838245] = "PopBubbles",
+local BASE = "https://raw.githubusercontent.com/wavechayakon/WaveHub/main/games/"
+
+local games = {
+    [10494501626] = "anime-war-rng.lua",
+    [10503838245] = "PopBubbles.lua",
 }
 
-local gameId = game.GameId
-local scriptName = scripts[gameId]
+local file = games[game.GameId]
 
-if not scriptName then
+if not file then
     warn(("[WaveHub] Unsupported game\nGameId: %s\nPlaceId: %s")
-        :format(gameId, game.PlaceId))
+        :format(tostring(game.GameId), tostring(game.PlaceId)))
     return
 end
 
-local url = ("https://raw.githubusercontent.com/wavechayakon/WaveHub/main/games/%s.lua")
-    :format(scriptName)
-
 local ok, source = pcall(function()
-    return game:HttpGet(url)
+    return game:HttpGet(BASE .. file)
 end)
 
 if not ok then
     error(("[WaveHub] Failed to download %s: %s")
-        :format(scriptName, tostring(source)))
+        :format(file, tostring(source)))
 end
 
 local chunk, err = loadstring(source)
 
 if not chunk then
     error(("[WaveHub] Failed to compile %s: %s")
-        :format(scriptName, tostring(err)))
+        :format(file, tostring(err)))
 end
 
 return chunk()
